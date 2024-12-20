@@ -23,3 +23,7 @@ Will show a live plot for attention - using custom yolov8 model trained on focus
 streamlit run st_live_live_plots.py
 ```
 Plots live plots for both attention & text on screen - can be useful for observing relationships between amount of text on screen & how focused the user is
+
+## Linking to Spotify Data (Basic Client Credientials Workflow)
+- User will provide a link to a playlist
+- Tracks will be ranked according to current environmental conditions
