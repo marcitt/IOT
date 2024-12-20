@@ -15,6 +15,7 @@ gitdb==4.0.11
 GitPython==3.1.43
 idna==3.10
 Jinja2==3.1.4
+joblib==1.4.2
 jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
 kiwisolver==1.4.7
@@ -48,6 +49,7 @@ referencing==0.35.1
 requests==2.32.3
 rich==13.9.4
 rpds-py==0.22.3
+scikit-learn==1.6.0
 scipy==1.14.1
 seaborn==0.13.2
 six==1.17.0
@@ -57,6 +59,7 @@ spotipy==2.24.0
 streamlit==1.41.1
 sympy==1.13.1
 tenacity==9.0.0
+threadpoolctl==3.5.0
 toml==0.10.2
 torch==2.5.1
 torchaudio==2.5.1
