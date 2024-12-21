@@ -7,3 +7,4 @@ attention_detection/data/exps/
 .DS_Store
 attention_detection/model_iterations/v1/
 attention_detection/model_iterations/v2/
+testing/
