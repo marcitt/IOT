@@ -1,6 +1,6 @@
-# IOT
+# DESE71003 – SENSING AND INTERNET OF THINGS COURSEWORK SUBMISSION
 
-## Setup
+# Setup
 Setup virtual environment: 
 
 ```
@@ -9,6 +9,8 @@ python3 -m venv venv
 source ./venv/bin/activate
 pip install -r requirements_20_12_24.txt
 ```
+
+# Demos
 
 ## Running Live Plots
 
@@ -25,5 +27,9 @@ streamlit run st_live_live_plots.py
 Plots live plots for both attention & text on screen - can be useful for observing relationships between amount of text on screen & how focused the user is
 
 ## Linking to Spotify Data (Basic Client Credientials Workflow)
-- User will provide a link to a playlist
-- Tracks will be ranked according to current environmental conditions
+- User will provide a link to a _public_ playlist (authorization workflow is required for private playlists)
+- Tracks will be ranked according to current environmental conditions 
+```
+# Streamlit Live Plot for Attention:
+streamlit run spotify_test.py
+```
