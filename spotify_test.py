@@ -59,7 +59,7 @@ def compute_desired_lyricalness(reading):
     y_1 = max_lyricalness
     x = reading
 
-    return y_0 + (x - x_0) * ((y_1 - y_0) / (x_1 - x_0))
+    return y_0 + (x - x_0) * ((y_1 - y_0) / (x_1 - x_0)) #interpolation
 
 
 playlist_URI = playlist_URL.split("/")[-1].split("?")[0]
