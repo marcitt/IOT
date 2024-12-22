@@ -26,7 +26,6 @@ def create_spotify_oauth():
         scope=SCOPE,
     )
 
-
 def get_current_track(access_token):
     response = requests.get(
         SPOTIFY_GET_CURRENT_TRACK_URL,
@@ -54,13 +53,10 @@ def get_current_track(access_token):
 
     return current_track_info
 
-sp_oauth = create_spotify_oauth()
-auth_url = sp_oauth.get_authorize_url()
+# sp_oauth = create_spotify_oauth()
+# auth_url = sp_oauth.get_authorize_url()
 # print(f"Please go to this URL and authorize the app: {auth_url}")
-
-token_info = sp_oauth.get_access_token()  
-
-info = get_current_track(token_info["access_token"])
-
-if info:
-    print(info["name"])
+# token_info = sp_oauth.get_access_token()  
+# info = get_current_track(token_info["access_token"])
+# if info:
+#     print(info["name"])

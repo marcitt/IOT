@@ -5,7 +5,7 @@ from datetime import datetime, date
 import os
 from dotenv import load_dotenv
 
-from detect_screen_text import detect_text
+from OCR.detect_screen_text import detect_text
 
 load_dotenv()
 
