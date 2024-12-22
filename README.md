@@ -1,13 +1,23 @@
 # DESE71003 – SENSING AND INTERNET OF THINGS COURSEWORK SUBMISSION
 
 # Setup
-Setup virtual environment: 
 
+## Virtual Environment Setup
 ```
 # MACOS
 python3 -m venv venv
 source ./venv/bin/activate
-pip install -r requirements_20_12_24.txt
+pip install -r requirements.txt
+```
+## .env requirements
+```
+CLIENT_ID=
+CLIENT_SECRET=
+
+SUPABASE_URL=
+SUPABASE_API_KEY=
+
+SPOTIFY_ACCESS_TOKEN=
 ```
 
 # Demos
@@ -39,3 +49,15 @@ Plots live plots for both attention & text on screen - can be useful for observi
 # Streamlit Live Plot for Attention:
 streamlit run spotify_test.py
 ```
+
+## Labelling Setup Process (not required just for reference)
+
+```
+!git clone https://github.com/tzutalin/labelImg
+
+```
+!pip install pyqt5 lxml --upgrade
+!cd labelImg && pyrcc5 -o libs/resources.py resources.qrc
+```
+
+
