@@ -13,8 +13,8 @@ from spotipy.oauth2 import SpotifyClientCredentials
 from dotenv import load_dotenv
 
 # custom IOT functions:
-from spotify_functions import playlist_lyricalness
-from detect_screen_text import detect_text
+from music_integration.spotify_functions import playlist_lyricalness
+from OCR.detect_screen_text import detect_text
 
 load_dotenv()
 

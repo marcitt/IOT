@@ -14,8 +14,8 @@ import plotly.graph_objects as go
 
 st.title("Dashboard")
 
-from detect_attention import measure_attention
-from detect_screen_text import detect_text
+from attention_detection.detect_attention import measure_attention
+from OCR.detect_screen_text import detect_text
 
 text_timestamps = []
 text_readings = []
