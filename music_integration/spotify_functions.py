@@ -18,6 +18,7 @@ SPOTIFY_GET_CURRENT_TRACK_URL = "https://api.spotify.com/v1/me/player/currently-
 # SCOPE = "user-library-read"
 
 from music_integration.lyricalness.compute_lyricalness import compute_lyricalness
+from music_integration.bpm.get_bpm import get_song_bpm
 
 # Client credentials method does not require authorization
 def playlist_lyricalness(playlist_id, sp):
@@ -41,6 +42,26 @@ def playlist_lyricalness(playlist_id, sp):
             lyricalness.append(200)
 
     return tracks, artists, lyricalness
+
+
+# Client credentials method does not require authorization
+def playlist_bpm(playlist_id, sp):
+    playlist = sp.playlist_tracks(playlist_id)
+    tracks = []
+    artists = []
+    bpm_list = []
+    for item in playlist["items"]:
+        artist = item["track"]["artists"][0]["name"]
+        track = item["track"]["name"]
+
+        tracks.append(item["track"]["name"])
+        artists.append(item["track"]["artists"][0]["name"])
+
+        bpm = get_song_bpm(track, artist)
+
+        bpm_list.append(bpm)
+
+    return tracks, artists, bpm_list
 
 
 # Authorization is needed for anything that is going to need user data (e.g. getting playlists)

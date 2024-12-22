@@ -6,6 +6,8 @@ import pandas as pd
 import time
 import os
 
+import deezer
+
 from sklearn import preprocessing
 
 import spotipy
@@ -14,6 +16,7 @@ from dotenv import load_dotenv
 
 # custom IOT functions:
 from music_integration.spotify_functions import playlist_lyricalness
+from music_integration.spotify_functions import playlist_bpm
 from OCR.detect_screen_text import detect_text
 
 load_dotenv()
@@ -65,6 +68,7 @@ def compute_desired_lyricalness(reading):
 playlist_URI = playlist_URL.split("/")[-1].split("?")[0]
 
 tracks, artists, lyricalness = playlist_lyricalness(playlist_id=playlist_URI, sp=sp)
+tracks, artists, bpm = playlist_bpm(playlist_id=playlist_URI, sp=sp)
 
 for seconds in range(35):
     text_reading = detect_text()
@@ -84,6 +88,7 @@ for seconds in range(35):
         "titles": tracks,
         "artists": artists,
         "lyricalness": lyricalness,
+        "bpm": bpm,
         "difference": lyricalness_differences
     }
 
