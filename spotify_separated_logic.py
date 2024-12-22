@@ -58,11 +58,7 @@ sp_oauth = create_spotify_oauth()
 auth_url = sp_oauth.get_authorize_url()
 # print(f"Please go to this URL and authorize the app: {auth_url}")
 
-token_info = sp_oauth.get_access_token(
-    "authorization_code_received_here"
-)  # Authorization code from UR
-
-# print(token_info)
+token_info = sp_oauth.get_access_token()  
 
 info = get_current_track(token_info["access_token"])
 
