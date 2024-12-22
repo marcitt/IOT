@@ -55,8 +55,8 @@ def compute_desired_lyricalness(reading):
 
     x_0 = min_text
     x_1 = max_text
-    y_0 = min_lyricalness
-    y_1 = max_lyricalness
+    y_1 = min_lyricalness
+    y_0 = max_lyricalness
     x = reading
 
     return y_0 + (x - x_0) * ((y_1 - y_0) / (x_1 - x_0)) #interpolation
@@ -90,8 +90,8 @@ for seconds in range(35):
     df = pd.DataFrame.from_dict(dict)
     sorted_df = df.sort_values(by="difference")
 
-    table_placeholder.table(df)
+    table_placeholder.table(sorted_df)
 
-    recommendation_placeholder.text(f"Next recommended song: {df["titles"][0]}")
+    # recommendation_placeholder.text(f"Next recommended song: {df["titles"][0]}")
 
     time.sleep(1)
