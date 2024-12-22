@@ -19,7 +19,7 @@ from music_integration.spotify_functions import get_current_track, create_spotif
 
 load_dotenv()
 
-model_verson = "v4"
+model_verson = "v5"
 
 model = YOLO(f"attention_detection/model_iterations/{model_verson}/weights/best.pt")
 
@@ -54,9 +54,14 @@ for samples in range(1000):
 
     print("DETECT SONG")
     info = get_current_track(token_info["access_token"])
-    name = info["name"]
-    artists = info["artists"]
-    track_id = info["id"]
+    if info:
+        name = info["name"]
+        artists = info["artists"]
+        track_id = info["id"]
+    else: 
+        name = "No song playing"
+        artists = "No song playing"
+        track_id = "No song playing"
 
     timestamp = str(datetime.now())
 
