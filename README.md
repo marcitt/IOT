@@ -12,6 +12,12 @@ pip install -r requirements_20_12_24.txt
 
 # Demos
 
+## Testing Attention Detection Models
+These can be run in a jupyter notebook which avoids some of the issues presented by OpenCV in MacOS environment by using ipywidgets
+
+The weights for each version of the model are stored in the repo and can be loaded by running the relevant cells 
+
+
 ## Running Live Plots
 
 ```
