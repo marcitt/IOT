@@ -1,0 +1,751 @@
+,attention-class,class-score,track-title,artist,text-reading,bpm,lyric-count
+0,DISTRACTED,0.866439,Love is Heartbreak,Cousin Tony's Brand New Firebird,483,135.0,178.0
+1,DISTRACTED,0.876667,Love is Heartbreak,Cousin Tony's Brand New Firebird,407,135.0,178.0
+2,FOCUSED,0.975039,Love is Heartbreak,Cousin Tony's Brand New Firebird,107,135.0,178.0
+3,FOCUSED,0.961814,Love is Heartbreak,Cousin Tony's Brand New Firebird,196,135.0,178.0
+4,FOCUSED,0.962477,Love is Heartbreak,Cousin Tony's Brand New Firebird,195,135.0,178.0
+5,FOCUSED,0.975081,Love is Heartbreak,Cousin Tony's Brand New Firebird,195,135.0,178.0
+6,FOCUSED,0.860349,Love is Heartbreak,Cousin Tony's Brand New Firebird,194,135.0,178.0
+7,DISTRACTED,0.955939,Thought We Were Falling In Love,Vona Vella,414,135.0,187.0
+8,DISTRACTED,0.474543,Thought We Were Falling In Love,Vona Vella,467,135.0,187.0
+9,DISTRACTED,0.95757,Garden of the Sun,ØZWALD,467,135.0,163.0
+10,FOCUSED,0.370927,Garden of the Sun,ØZWALD,232,135.0,163.0
+11,FOCUSED,0.942722,Garden of the Sun,ØZWALD,343,135.0,163.0
+12,FOCUSED,0.942965,Garden of the Sun,ØZWALD,242,135.0,163.0
+13,FOCUSED,0.932965,Garden of the Sun,ØZWALD,345,135.0,163.0
+14,FOCUSED,0.558331,Garden of the Sun,ØZWALD,356,135.0,163.0
+15,FOCUSED,0.259941,Garden of the Sun,ØZWALD,408,135.0,163.0
+16,DISTRACTED,0.717845,Garden of the Sun,ØZWALD,264,135.0,163.0
+17,DISTRACTED,0.894323,better.,Grand Lotus,439,135.0,275.0
+18,DISTRACTED,0.44118,better.,Grand Lotus,420,135.0,275.0
+19,DISTRACTED,0.821309,better.,Grand Lotus,322,135.0,275.0
+20,FOCUSED,0.951277,better.,Grand Lotus,389,135.0,275.0
+21,DISTRACTED,0.8997,better.,Grand Lotus,405,135.0,275.0
+22,DISTRACTED,0.38133,better.,Grand Lotus,432,135.0,275.0
+23,FOCUSED,0.969586,better.,Grand Lotus,383,135.0,275.0
+24,DISTRACTED,0.445805,better.,Grand Lotus,135,135.0,275.0
+25,FOCUSED,0.981195,I'LL DO ANYTHING,Comfort Royale,453,135.0,275.0
+26,DISTRACTED,0.530287,I'LL DO ANYTHING,Comfort Royale,409,135.0,275.0
+27,DISTRACTED,0.757748,I'LL DO ANYTHING,Comfort Royale,452,135.0,275.0
+28,DISTRACTED,0.503542,I'LL DO ANYTHING,Comfort Royale,416,135.0,275.0
+29,FOCUSED,0.927747,I'LL DO ANYTHING,Comfort Royale,366,135.0,275.0
+30,DISTRACTED,0.436082,I'LL DO ANYTHING,Comfort Royale,453,135.0,275.0
+31,FOCUSED,0.533562,I'LL DO ANYTHING,Comfort Royale,419,135.0,275.0
+32,FOCUSED,0.259701,I'LL DO ANYTHING,Comfort Royale,451,135.0,275.0
+33,FOCUSED,0.605617,I'LL DO ANYTHING,Comfort Royale,457,135.0,275.0
+34,DISTRACTED,0.877776,Motels,Royel Otis,428,135.0,275.0
+35,FOCUSED,0.902824,Motels,Royel Otis,410,135.0,275.0
+36,FOCUSED,0.485894,Motels,Royel Otis,398,135.0,275.0
+37,FOCUSED,0.606684,Hard Times for Heatherhead,Generationals,386,135.0,154.0
+38,FOCUSED,0.357592,Mean Streets,Tennis,447,135.0,223.0
+39,FOCUSED,0.861003,Mean Streets,Tennis,608,135.0,223.0
+40,FOCUSED,0.897062,Mean Streets,Tennis,549,135.0,223.0
+41,DISTRACTED,0.414277,Mean Streets,Tennis,525,135.0,223.0
+42,FOCUSED,0.841351,Mean Streets,Tennis,294,135.0,223.0
+43,FOCUSED,0.885529,Mean Streets,Tennis,294,135.0,223.0
+44,DISTRACTED,0.639496,Mean Streets,Tennis,294,135.0,223.0
+45,FOCUSED,0.265551,Mean Streets,Tennis,181,135.0,223.0
+46,DISTRACTED,0.899355,Mean Streets,Tennis,299,135.0,223.0
+47,DISTRACTED,0.916157,Mean Streets,Tennis,471,135.0,223.0
+48,DISTRACTED,0.968766,How Many Times Have You Driven By,Hana Vu,393,135.0,89.0
+49,FOCUSED,0.530444,How Many Times Have You Driven By,Hana Vu,474,135.0,89.0
+50,DISTRACTED,0.274709,What Was Mine,Sarah Kinsley,433,135.0,241.0
+51,DISTRACTED,0.940573,Slugger,SASAMI,536,135.0,442.0
+52,DISTRACTED,0.830731,Slugger,SASAMI,445,135.0,442.0
+53,FOCUSED,0.868342,Slugger,SASAMI,445,135.0,442.0
+54,DISTRACTED,0.277065,Mystic,Evangeline,478,135.0,275.0
+55,DISTRACTED,0.955612,Mystic,Evangeline,391,135.0,275.0
+56,DISTRACTED,0.932118,Everyone Adores You (at least I do),Matt Maltese,363,135.0,111.0
+57,DISTRACTED,0.784281,Everyone Adores You (at least I do),Matt Maltese,381,135.0,111.0
+58,DISTRACTED,0.868009,Everyone Adores You (at least I do),Matt Maltese,476,135.0,111.0
+59,DISTRACTED,0.755834,Witching Hour,TOPS,582,135.0,197.0
+60,DISTRACTED,0.806448,Witching Hour,TOPS,600,135.0,197.0
+61,FOCUSED,0.269209,Witching Hour,TOPS,632,135.0,197.0
+62,DISTRACTED,0.843723,Witching Hour,TOPS,549,135.0,197.0
+63,DISTRACTED,0.498956,Witching Hour,TOPS,434,135.0,197.0
+64,DISTRACTED,0.41001,Witching Hour,TOPS,447,135.0,197.0
+65,DISTRACTED,0.432538,Witching Hour,TOPS,522,135.0,197.0
+66,DISTRACTED,0.322103,Witching Hour,TOPS,371,135.0,197.0
+67,DISTRACTED,0.670264,The Hustle,Kiltro,201,135.0,270.0
+68,DISTRACTED,0.634575,The Hustle,Kiltro,277,135.0,270.0
+69,DISTRACTED,0.816568,The Hustle,Kiltro,84,135.0,270.0
+70,DISTRACTED,0.953843,The Hustle,Kiltro,507,135.0,270.0
+71,DISTRACTED,0.883105,The Hustle,Kiltro,442,135.0,270.0
+72,DISTRACTED,0.929905,The Hustle,Kiltro,393,135.0,270.0
+73,DISTRACTED,0.944486,The Hustle,Kiltro,359,135.0,270.0
+74,DISTRACTED,0.419633,The Hustle,Kiltro,323,135.0,270.0
+75,FOCUSED,0.816193,The Hustle,Kiltro,373,135.0,270.0
+76,FOCUSED,0.933641,Baby Don't Believe,Tennis,331,159.01,321.0
+77,FOCUSED,0.947787,Timothy,Tennis,318,149.3,269.0
+78,FOCUSED,0.943466,Timothy,Tennis,58,149.3,269.0
+79,FOCUSED,0.895656,Timothy,Tennis,306,149.3,269.0
+80,FOCUSED,0.924569,Timothy,Tennis,387,149.3,269.0
+81,FOCUSED,0.90862,The Bend,King Princess,296,135.0,312.0
+82,FOCUSED,0.842219,The Bend,King Princess,282,135.0,312.0
+83,FOCUSED,0.901311,The Bend,King Princess,387,135.0,312.0
+84,FOCUSED,0.916148,What Was Mine,Sarah Kinsley,330,135.0,241.0
+85,FOCUSED,0.926784,What Was Mine,Sarah Kinsley,203,135.0,241.0
+86,FOCUSED,0.935768,What Was Mine,Sarah Kinsley,283,135.0,241.0
+87,FOCUSED,0.946387,What Was Mine,Sarah Kinsley,289,135.0,241.0
+88,DISTRACTED,0.30162,What Was Mine,Sarah Kinsley,307,135.0,241.0
+89,FOCUSED,0.931356,What Was Mine,Sarah Kinsley,139,135.0,241.0
+90,FOCUSED,0.871708,What Was Mine,Sarah Kinsley,179,135.0,241.0
+91,FOCUSED,0.951188,What Was Mine,Sarah Kinsley,824,135.0,241.0
+92,DISTRACTED,0.959181,What Was Mine,Sarah Kinsley,363,135.0,241.0
+93,FOCUSED,0.919918,Smile For The Camera,Etta Marcus,307,135.0,172.0
+94,DISTRACTED,0.917186,Smile For The Camera,Etta Marcus,92,135.0,172.0
+95,DISTRACTED,0.918452,Smile For The Camera,Etta Marcus,407,135.0,172.0
+96,DISTRACTED,0.945479,Smile For The Camera,Etta Marcus,86,135.0,172.0
+97,DISTRACTED,0.952602,Smile For The Camera,Etta Marcus,374,135.0,172.0
+98,FOCUSED,0.936977,Smile For The Camera,Etta Marcus,416,135.0,172.0
+99,DISTRACTED,0.962066,Smile For The Camera,Etta Marcus,302,135.0,172.0
+100,DISTRACTED,0.956821,Smile For The Camera,Etta Marcus,380,135.0,172.0
+101,DISTRACTED,0.955377,Smile For The Camera,Etta Marcus,297,135.0,172.0
+102,DISTRACTED,0.951018,Smile For The Camera,Etta Marcus,378,135.0,172.0
+103,DISTRACTED,0.950424,Heels To The Moon,Gengahr,172,135.0,125.0
+104,DISTRACTED,0.95502,Heels To The Moon,Gengahr,322,135.0,125.0
+105,DISTRACTED,0.955712,I Know The End,Phoebe Bridgers,285,135.0,326.0
+106,FOCUSED,0.4913,I Know The End,Phoebe Bridgers,433,135.0,326.0
+107,DISTRACTED,0.958505,CooCool,"Róisín Murphy, DJ Koze",442,135.0,275.0
+108,FOCUSED,0.941714,CooCool,"Róisín Murphy, DJ Koze",303,135.0,275.0
+109,DISTRACTED,0.864037,CooCool,"Róisín Murphy, DJ Koze",180,135.0,275.0
+110,FOCUSED,0.958923,CooCool,"Róisín Murphy, DJ Koze",239,135.0,275.0
+111,FOCUSED,0.908417,CooCool,"Róisín Murphy, DJ Koze",52,135.0,275.0
+112,FOCUSED,0.33487,CooCool,"Róisín Murphy, DJ Koze",126,135.0,275.0
+113,DISTRACTED,0.952807,CooCool,"Róisín Murphy, DJ Koze",369,135.0,275.0
+114,FOCUSED,0.895474,CooCool,"Róisín Murphy, DJ Koze",225,135.0,275.0
+115,FOCUSED,0.734842,CooCool,"Róisín Murphy, DJ Koze",224,135.0,275.0
+116,DISTRACTED,0.924558,CooCool,"Róisín Murphy, DJ Koze",348,135.0,275.0
+117,DISTRACTED,0.963985,Life in a Bubble I Blew - bonus track,Joywave,405,130.01,275.0
+118,DISTRACTED,0.967506,Life in a Bubble I Blew - bonus track,Joywave,270,130.01,275.0
+119,DISTRACTED,0.967271,Life in a Bubble I Blew - bonus track,Joywave,373,130.01,275.0
+120,DISTRACTED,0.956694,Life in a Bubble I Blew - bonus track,Joywave,400,130.01,275.0
+121,FOCUSED,0.871829,Life in a Bubble I Blew - bonus track,Joywave,408,130.01,275.0
+122,DISTRACTED,0.934649,Life in a Bubble I Blew - bonus track,Joywave,361,130.01,275.0
+123,DISTRACTED,0.959169,Life in a Bubble I Blew - bonus track,Joywave,82,130.01,275.0
+124,DISTRACTED,0.947784,Life in a Bubble I Blew - bonus track,Joywave,309,130.01,275.0
+125,DISTRACTED,0.957932,Life in a Bubble I Blew - bonus track,Joywave,416,130.01,275.0
+126,DISTRACTED,0.857762,Life in a Bubble I Blew - bonus track,Joywave,356,130.01,275.0
+127,DISTRACTED,0.277354,Life in a Bubble I Blew - bonus track,Joywave,357,130.01,275.0
+128,DISTRACTED,0.878915,This Is What They Meant,Biig Piig,232,135.0,256.0
+129,FOCUSED,0.481193,This Is What They Meant,Biig Piig,424,135.0,256.0
+130,DISTRACTED,0.956335,This Is What They Meant,Biig Piig,259,135.0,256.0
+131,DISTRACTED,0.935236,This Is What They Meant,Biig Piig,208,135.0,256.0
+132,FOCUSED,0.429342,This Is What They Meant,Biig Piig,191,135.0,256.0
+133,DISTRACTED,0.96582,This Is What They Meant,Biig Piig,437,135.0,256.0
+134,DISTRACTED,0.950552,This Is What They Meant,Biig Piig,112,135.0,256.0
+135,DISTRACTED,0.908034,This Is What They Meant,Biig Piig,274,135.0,256.0
+136,DISTRACTED,0.956745,This Is What They Meant,Biig Piig,449,135.0,256.0
+137,FOCUSED,0.288105,Independent,Salt-N-Pepa,77,100.11,275.0
+138,DISTRACTED,0.956332,Independent,Salt-N-Pepa,441,100.11,275.0
+139,DISTRACTED,0.959518,Independent,Salt-N-Pepa,127,100.11,275.0
+140,FOCUSED,0.910002,Independent,Salt-N-Pepa,276,100.11,275.0
+141,DISTRACTED,0.919073,Independent,Salt-N-Pepa,211,100.11,275.0
+142,DISTRACTED,0.912043,Independent,Salt-N-Pepa,164,100.11,275.0
+143,DISTRACTED,0.868625,Independent,Salt-N-Pepa,329,100.11,275.0
+144,FOCUSED,0.50839,Independent,Salt-N-Pepa,390,100.11,275.0
+145,DISTRACTED,0.961579,Independent,Salt-N-Pepa,404,100.11,275.0
+146,DISTRACTED,0.948668,Independent,Salt-N-Pepa,80,100.11,275.0
+147,FOCUSED,0.780437,Independent,Salt-N-Pepa,77,100.11,275.0
+148,DISTRACTED,0.800561,Independent,Salt-N-Pepa,252,100.11,275.0
+149,DISTRACTED,0.405442,Independent,Salt-N-Pepa,484,100.11,275.0
+150,DISTRACTED,0.918694,Independent,Salt-N-Pepa,241,100.11,275.0
+151,DISTRACTED,0.559917,Elephant in the Room,Kynsy,331,135.0,280.0
+152,DISTRACTED,0.951506,Bad Habit,Steve Lacy,425,135.0,376.0
+153,FOCUSED,0.93201,Bad Habit,Steve Lacy,490,135.0,376.0
+154,DISTRACTED,0.953704,Bad Habit,Steve Lacy,457,135.0,376.0
+155,FOCUSED,0.942176,Bad Habit,Steve Lacy,352,135.0,376.0
+156,DISTRACTED,0.662435,Bad Habit,Steve Lacy,347,135.0,376.0
+157,FOCUSED,0.904628,Bad Habit,Steve Lacy,305,135.0,376.0
+158,FOCUSED,0.865674,Bad Habit,Steve Lacy,315,135.0,376.0
+159,DISTRACTED,0.95433,Bad Habit,Steve Lacy,317,135.0,376.0
+160,DISTRACTED,0.961924,Bad Habit,Steve Lacy,328,135.0,376.0
+161,DISTRACTED,0.965128,Bad Habit,Steve Lacy,341,135.0,376.0
+162,DISTRACTED,0.958496,Bad Habit,Steve Lacy,330,135.0,376.0
+163,DISTRACTED,0.678286,Always,The Snuts,369,135.0,276.0
+164,DISTRACTED,0.839735,Always,The Snuts,380,135.0,276.0
+165,DISTRACTED,0.890514,Always,The Snuts,383,135.0,276.0
+166,DISTRACTED,0.858946,Always,The Snuts,369,135.0,276.0
+167,FOCUSED,0.893029,Always,The Snuts,456,135.0,276.0
+168,FOCUSED,0.796413,Always,The Snuts,362,135.0,276.0
+169,DISTRACTED,0.914462,Always,The Snuts,327,135.0,276.0
+170,DISTRACTED,0.968777,Always,The Snuts,377,135.0,276.0
+171,FOCUSED,0.9142,Always,The Snuts,338,135.0,276.0
+172,DISTRACTED,0.959135,Baby Don't Cry,Sunflower Bean,353,135.0,249.0
+173,DISTRACTED,0.963562,Baby Don't Cry,Sunflower Bean,181,135.0,249.0
+174,FOCUSED,0.936489,Baby Don't Cry,Sunflower Bean,190,135.0,249.0
+175,DISTRACTED,0.90099,Baby Don't Cry,Sunflower Bean,352,135.0,249.0
+176,DISTRACTED,0.908584,Baby Don't Cry,Sunflower Bean,332,135.0,249.0
+177,DISTRACTED,0.835926,Baby Don't Cry,Sunflower Bean,321,135.0,249.0
+178,DISTRACTED,0.95918,Baby Don't Cry,Sunflower Bean,339,135.0,249.0
+179,DISTRACTED,0.868633,Baby Don't Cry,Sunflower Bean,332,135.0,249.0
+180,DISTRACTED,0.961749,Future Starts Slow,The Kills,555,128.0,249.0
+181,DISTRACTED,0.956176,Future Starts Slow,The Kills,296,128.0,249.0
+182,DISTRACTED,0.962616,Future Starts Slow,The Kills,298,128.0,249.0
+183,DISTRACTED,0.964748,Future Starts Slow,The Kills,472,128.0,249.0
+184,DISTRACTED,0.962268,Train in Vain (Stand by Me) - Remastered,The Clash,452,122.3,275.0
+185,DISTRACTED,0.962107,Train in Vain (Stand by Me) - Remastered,The Clash,404,122.3,275.0
+186,DISTRACTED,0.967035,Train in Vain (Stand by Me) - Remastered,The Clash,232,122.3,275.0
+187,DISTRACTED,0.889079,Train in Vain (Stand by Me) - Remastered,The Clash,416,122.3,275.0
+188,DISTRACTED,0.873909,Train in Vain (Stand by Me) - Remastered,The Clash,516,122.3,275.0
+189,DISTRACTED,0.968273,Train in Vain (Stand by Me) - Remastered,The Clash,408,122.3,275.0
+190,DISTRACTED,0.96516,Train in Vain (Stand by Me) - Remastered,The Clash,477,122.3,275.0
+191,DISTRACTED,0.961135,Train in Vain (Stand by Me) - Remastered,The Clash,446,122.3,275.0
+192,DISTRACTED,0.964391,Train in Vain (Stand by Me) - Remastered,The Clash,470,122.3,275.0
+193,DISTRACTED,0.967661,Train in Vain (Stand by Me) - Remastered,The Clash,461,122.3,275.0
+194,DISTRACTED,0.959762,Train in Vain (Stand by Me) - Remastered,The Clash,447,122.3,275.0
+195,DISTRACTED,0.958294,Train in Vain (Stand by Me) - Remastered,The Clash,409,122.3,275.0
+196,DISTRACTED,0.961654,Train in Vain (Stand by Me) - Remastered,The Clash,400,122.3,275.0
+197,DISTRACTED,0.965817,Old School,Arin Ray,330,156.01,284.0
+198,DISTRACTED,0.955932,Old School,Arin Ray,376,156.01,284.0
+199,DISTRACTED,0.966366,Old School,Arin Ray,144,156.01,284.0
+200,DISTRACTED,0.965375,Old School,Arin Ray,99,156.01,284.0
+201,DISTRACTED,0.961555,Old School,Arin Ray,193,156.01,284.0
+202,FOCUSED,0.910407,Old School,Arin Ray,241,156.01,284.0
+203,DISTRACTED,0.93225,Old School,Arin Ray,63,156.01,284.0
+204,DISTRACTED,0.902103,Old School,Arin Ray,330,156.01,284.0
+205,DISTRACTED,0.963209,Old School,Arin Ray,358,156.01,284.0
+206,FOCUSED,0.948981,Wait a Minute!,WILLOW,380,101.08,304.0
+207,FOCUSED,0.931238,Wait a Minute!,WILLOW,318,101.08,304.0
+208,DISTRACTED,0.949061,Wait a Minute!,WILLOW,295,101.08,304.0
+209,DISTRACTED,0.912025,Wait a Minute!,WILLOW,331,101.08,304.0
+210,DISTRACTED,0.958743,Wait a Minute!,WILLOW,191,101.08,304.0
+211,DISTRACTED,0.756745,Wait a Minute!,WILLOW,144,101.08,304.0
+212,DISTRACTED,0.967472,Wait a Minute!,WILLOW,301,101.08,304.0
+213,DISTRACTED,0.959432,Wait a Minute!,WILLOW,197,101.08,304.0
+214,DISTRACTED,0.961472,Wait a Minute!,WILLOW,341,101.08,304.0
+215,DISTRACTED,0.962024,Wait a Minute!,WILLOW,186,101.08,304.0
+216,DISTRACTED,0.96024,Wait a Minute!,WILLOW,393,101.08,304.0
+217,DISTRACTED,0.963275,Home Again,Carole King,290,137.8,109.0
+218,DISTRACTED,0.961108,Home Again,Carole King,208,137.8,109.0
+219,DISTRACTED,0.935523,Home Again,Carole King,273,137.8,109.0
+220,DISTRACTED,0.948606,Home Again,Carole King,278,137.8,109.0
+221,DISTRACTED,0.964523,Home Again,Carole King,310,137.8,109.0
+222,DISTRACTED,0.964424,Home Again,Carole King,302,137.8,109.0
+223,DISTRACTED,0.959338,Home Again,Carole King,291,137.8,109.0
+224,DISTRACTED,0.945814,Home Again,Carole King,270,137.8,109.0
+225,DISTRACTED,0.955692,Places And Spaces,Donald Byrd,291,184.6,171.0
+226,DISTRACTED,0.968658,Places And Spaces,Donald Byrd,277,184.6,171.0
+227,DISTRACTED,0.969123,Places And Spaces,Donald Byrd,394,184.6,171.0
+228,DISTRACTED,0.967119,Places And Spaces,Donald Byrd,301,184.6,171.0
+229,DISTRACTED,0.968358,Places And Spaces,Donald Byrd,280,184.6,171.0
+230,FOCUSED,0.750543,Places And Spaces,Donald Byrd,342,184.6,171.0
+231,DISTRACTED,0.964832,Places And Spaces,Donald Byrd,371,184.6,171.0
+232,DISTRACTED,0.947639,Places And Spaces,Donald Byrd,446,184.6,171.0
+233,DISTRACTED,0.955535,Places And Spaces,Donald Byrd,200,184.6,171.0
+234,DISTRACTED,0.958831,Places And Spaces,Donald Byrd,174,184.6,171.0
+235,DISTRACTED,0.965237,Places And Spaces,Donald Byrd,194,184.6,171.0
+236,DISTRACTED,0.960866,Places And Spaces,Donald Byrd,135,184.6,171.0
+237,DISTRACTED,0.953733,Places And Spaces,Donald Byrd,200,184.6,171.0
+238,FOCUSED,0.938156,Places And Spaces,Donald Byrd,296,184.6,171.0
+239,DISTRACTED,0.964393,Places And Spaces,Donald Byrd,149,184.6,171.0
+240,DISTRACTED,0.959866,Places And Spaces,Donald Byrd,188,184.6,171.0
+241,DISTRACTED,0.920405,Places And Spaces,Donald Byrd,273,184.6,171.0
+242,DISTRACTED,0.957829,Places And Spaces,Donald Byrd,345,184.6,171.0
+243,DISTRACTED,0.964915,Places And Spaces,Donald Byrd,99,184.6,171.0
+244,DISTRACTED,0.961895,Places And Spaces,Donald Byrd,248,184.6,171.0
+245,DISTRACTED,0.953847,Little Dark Age,MGMT,387,97.51,355.0
+246,FOCUSED,0.35953,Little Dark Age,MGMT,277,97.51,355.0
+247,FOCUSED,0.374622,Little Dark Age,MGMT,207,97.51,355.0
+248,DISTRACTED,0.862869,Little Dark Age,MGMT,284,97.51,355.0
+249,DISTRACTED,0.252735,Little Dark Age,MGMT,254,97.51,355.0
+250,DISTRACTED,0.956499,Little Dark Age,MGMT,318,97.51,355.0
+251,DISTRACTED,0.952947,Little Dark Age,MGMT,337,97.51,355.0
+252,DISTRACTED,0.952473,Little Dark Age,MGMT,337,97.51,355.0
+253,DISTRACTED,0.957628,Little Dark Age,MGMT,333,97.51,355.0
+254,DISTRACTED,0.96596,Little Dark Age,MGMT,360,97.51,355.0
+255,FOCUSED,0.464884,Little Dark Age,MGMT,204,97.51,355.0
+256,DISTRACTED,0.958631,Little Dark Age,MGMT,193,97.51,355.0
+257,DISTRACTED,0.960137,Angel,"Loyle Carner, Tom Misch",125,96.82,275.0
+258,DISTRACTED,0.963162,Angel,"Loyle Carner, Tom Misch",283,96.82,275.0
+259,FOCUSED,0.730707,Angel,"Loyle Carner, Tom Misch",298,96.82,275.0
+260,DISTRACTED,0.961616,Angel,"Loyle Carner, Tom Misch",285,96.82,275.0
+261,DISTRACTED,0.925166,Angel,"Loyle Carner, Tom Misch",284,96.82,275.0
+262,DISTRACTED,0.950395,Angel,"Loyle Carner, Tom Misch",304,96.82,275.0
+263,DISTRACTED,0.888151,Angel,"Loyle Carner, Tom Misch",95,96.82,275.0
+264,DISTRACTED,0.966646,Lost Ones,Ms. Lauryn Hill,264,189.65,275.0
+265,DISTRACTED,0.964515,Lost Ones,Ms. Lauryn Hill,271,189.65,275.0
+266,DISTRACTED,0.966629,Lost Ones,Ms. Lauryn Hill,124,189.65,275.0
+267,DISTRACTED,0.958475,Lost Ones,Ms. Lauryn Hill,153,189.65,275.0
+268,DISTRACTED,0.96472,Lost Ones,Ms. Lauryn Hill,179,189.65,275.0
+269,DISTRACTED,0.966641,Lost Ones,Ms. Lauryn Hill,229,189.65,275.0
+270,DISTRACTED,0.962355,Lost Ones,Ms. Lauryn Hill,248,189.65,275.0
+271,DISTRACTED,0.957917,Lost Ones,Ms. Lauryn Hill,276,189.65,275.0
+272,DISTRACTED,0.96713,Lost Ones,Ms. Lauryn Hill,230,189.65,275.0
+273,DISTRACTED,0.963739,Lost Ones,Ms. Lauryn Hill,204,189.65,275.0
+274,DISTRACTED,0.968174,Lost Ones,Ms. Lauryn Hill,248,189.65,275.0
+275,DISTRACTED,0.965879,Lost Ones,Ms. Lauryn Hill,192,189.65,275.0
+276,DISTRACTED,0.924819,Lost Ones,Ms. Lauryn Hill,171,189.65,275.0
+277,DISTRACTED,0.956817,Lost Ones,Ms. Lauryn Hill,223,189.65,275.0
+278,DISTRACTED,0.966142,Re-Hash,Gorillaz,234,200.7,275.0
+279,FOCUSED,0.955901,Re-Hash,Gorillaz,121,200.7,275.0
+280,FOCUSED,0.962463,Re-Hash,Gorillaz,74,200.7,275.0
+281,FOCUSED,0.962463,Re-Hash,Gorillaz,95,200.7,275.0
+282,FOCUSED,0.953028,Re-Hash,Gorillaz,96,200.7,275.0
+283,FOCUSED,0.958965,Re-Hash,Gorillaz,377,200.7,275.0
+284,FOCUSED,0.961935,Re-Hash,Gorillaz,190,200.7,275.0
+285,FOCUSED,0.947459,Re-Hash,Gorillaz,204,200.7,275.0
+286,FOCUSED,0.92059,Re-Hash,Gorillaz,213,200.7,275.0
+287,FOCUSED,0.948418,Re-Hash,Gorillaz,180,200.7,275.0
+288,DISTRACTED,0.587617,Re-Hash,Gorillaz,279,200.7,275.0
+289,DISTRACTED,0.83745,Re-Hash,Gorillaz,282,200.7,275.0
+290,FOCUSED,0.900456,Tripping Out,Curtis Mayfield,315,91.1,371.0
+291,DISTRACTED,0.494243,Tripping Out,Curtis Mayfield,330,91.1,371.0
+292,DISTRACTED,0.292009,Tripping Out,Curtis Mayfield,344,91.1,371.0
+293,FOCUSED,0.946665,Tripping Out,Curtis Mayfield,361,91.1,371.0
+294,FOCUSED,0.924981,Tripping Out,Curtis Mayfield,387,91.1,371.0
+295,DISTRACTED,0.913007,Tripping Out,Curtis Mayfield,413,91.1,371.0
+296,DISTRACTED,0.379761,Tripping Out,Curtis Mayfield,384,91.1,371.0
+297,FOCUSED,0.947428,Tripping Out,Curtis Mayfield,448,91.1,371.0
+298,DISTRACTED,0.365574,Tripping Out,Curtis Mayfield,415,91.1,371.0
+299,FOCUSED,0.410342,Tripping Out,Curtis Mayfield,457,91.1,371.0
+300,FOCUSED,0.947219,Tripping Out,Curtis Mayfield,470,91.1,371.0
+301,FOCUSED,0.89924,Tripping Out,Curtis Mayfield,343,91.1,371.0
+302,DISTRACTED,0.833057,Tripping Out,Curtis Mayfield,76,91.1,371.0
+303,FOCUSED,0.918503,Tripping Out,Curtis Mayfield,411,91.1,371.0
+304,FOCUSED,0.952444,Tripping Out,Curtis Mayfield,462,91.1,371.0
+305,FOCUSED,0.937382,Tripping Out,Curtis Mayfield,366,91.1,371.0
+306,DISTRACTED,0.876287,Tripping Out,Curtis Mayfield,332,91.1,371.0
+307,DISTRACTED,0.958611,Tripping Out,Curtis Mayfield,319,91.1,371.0
+308,DISTRACTED,0.351736,Tripping Out,Curtis Mayfield,307,91.1,371.0
+309,FOCUSED,0.896865,Tripping Out,Curtis Mayfield,278,91.1,371.0
+310,DISTRACTED,0.930202,Tripping Out,Curtis Mayfield,148,91.1,371.0
+311,DISTRACTED,0.949449,Tripping Out,Curtis Mayfield,127,91.1,371.0
+312,DISTRACTED,0.890392,Tripping Out,Curtis Mayfield,280,91.1,371.0
+313,DISTRACTED,0.922464,Tripping Out,Curtis Mayfield,161,91.1,371.0
+314,FOCUSED,0.959618,Happy House,Shuggie Otis,258,94.4,75.0
+315,DISTRACTED,0.961623,Happy House,Shuggie Otis,182,94.4,75.0
+316,DISTRACTED,0.943459,Happy House,Shuggie Otis,225,94.4,75.0
+317,DISTRACTED,0.940956,Happy House,Shuggie Otis,205,94.4,75.0
+318,DISTRACTED,0.950537,Them Changes,Thundercat,109,135.0,155.0
+319,FOCUSED,0.931949,Them Changes,Thundercat,96,135.0,155.0
+320,FOCUSED,0.86225,Them Changes,Thundercat,258,135.0,155.0
+321,DISTRACTED,0.950258,Them Changes,Thundercat,167,135.0,155.0
+322,FOCUSED,0.932268,Them Changes,Thundercat,367,135.0,155.0
+323,FOCUSED,0.930758,Them Changes,Thundercat,335,135.0,155.0
+324,DISTRACTED,0.512459,Them Changes,Thundercat,393,135.0,155.0
+325,FOCUSED,0.733144,Them Changes,Thundercat,384,135.0,155.0
+326,FOCUSED,0.318282,Them Changes,Thundercat,205,135.0,155.0
+327,DISTRACTED,0.699621,Them Changes,Thundercat,151,135.0,155.0
+328,DISTRACTED,0.959894,Them Changes,Thundercat,167,135.0,155.0
+329,DISTRACTED,0.928447,Driving Under Stars,Marika Hackman,560,135.0,217.0
+330,DISTRACTED,0.950938,Driving Under Stars,Marika Hackman,108,135.0,217.0
+331,DISTRACTED,0.960012,Driving Under Stars,Marika Hackman,68,135.0,217.0
+332,FOCUSED,0.946652,Driving Under Stars,Marika Hackman,407,135.0,217.0
+333,FOCUSED,0.334574,Driving Under Stars,Marika Hackman,409,135.0,217.0
+334,DISTRACTED,0.945292,Driving Under Stars,Marika Hackman,405,135.0,217.0
+335,DISTRACTED,0.954937,Driving Under Stars,Marika Hackman,360,135.0,217.0
+336,DISTRACTED,0.751582,Driving Under Stars,Marika Hackman,184,135.0,217.0
+337,DISTRACTED,0.909114,Driving Under Stars,Marika Hackman,219,135.0,217.0
+338,FOCUSED,0.854689,Driving Under Stars,Marika Hackman,232,135.0,217.0
+339,FOCUSED,0.935113,Driving Under Stars,Marika Hackman,251,135.0,217.0
+340,DISTRACTED,0.928979,Driving Under Stars,Marika Hackman,296,135.0,217.0
+341,DISTRACTED,0.96037,Sixteen Days,Pond,343,135.0,236.0
+342,DISTRACTED,0.954994,Sixteen Days,Pond,328,135.0,236.0
+343,DISTRACTED,0.956401,Sixteen Days,Pond,227,135.0,236.0
+344,DISTRACTED,0.9379,Sixteen Days,Pond,481,135.0,236.0
+345,DISTRACTED,0.960211,Sixteen Days,Pond,489,135.0,236.0
+346,DISTRACTED,0.963382,Sixteen Days,Pond,459,135.0,236.0
+347,DISTRACTED,0.955899,Sixteen Days,Pond,454,135.0,236.0
+348,DISTRACTED,0.959224,Sixteen Days,Pond,495,135.0,236.0
+349,DISTRACTED,0.964857,Sixteen Days,Pond,514,135.0,236.0
+350,DISTRACTED,0.449963,Sixteen Days,Pond,478,135.0,236.0
+351,DISTRACTED,0.954671,America's Cup,Pond,513,135.0,255.0
+352,DISTRACTED,0.951425,America's Cup,Pond,456,135.0,255.0
+353,DISTRACTED,0.951318,America's Cup,Pond,454,135.0,255.0
+354,DISTRACTED,0.951429,America's Cup,Pond,462,135.0,255.0
+355,DISTRACTED,0.951458,America's Cup,Pond,495,135.0,255.0
+356,DISTRACTED,0.956636,America's Cup,Pond,95,135.0,255.0
+357,DISTRACTED,0.946627,America's Cup,Pond,78,135.0,255.0
+358,DISTRACTED,0.849157,America's Cup,Pond,177,135.0,255.0
+359,DISTRACTED,0.956572,America's Cup,Pond,296,135.0,255.0
+360,DISTRACTED,0.949432,America's Cup,Pond,358,135.0,255.0
+361,DISTRACTED,0.8118,America's Cup,Pond,386,135.0,255.0
+362,DISTRACTED,0.963211,America's Cup,Pond,335,135.0,255.0
+363,DISTRACTED,0.944778,Freakin,binki,374,135.0,384.0
+364,DISTRACTED,0.954119,Freakin,binki,417,135.0,384.0
+365,DISTRACTED,0.949804,Freakin,binki,407,135.0,384.0
+366,DISTRACTED,0.960612,Freakin,binki,415,135.0,384.0
+367,DISTRACTED,0.957327,Freakin,binki,400,135.0,384.0
+368,DISTRACTED,0.96497,Freakin,binki,350,135.0,384.0
+369,DISTRACTED,0.950876,Freakin,binki,182,135.0,384.0
+370,DISTRACTED,0.957157,Freakin,binki,407,135.0,384.0
+371,DISTRACTED,0.936898,Freakin,binki,222,135.0,384.0
+372,FOCUSED,0.857783,Be Thankful for What You've Got - David Todd Remix (Radio Edit),William DeVaughn,238,135.0,275.0
+373,DISTRACTED,0.94498,Be Thankful for What You've Got - David Todd Remix (Radio Edit),William DeVaughn,231,135.0,275.0
+374,FOCUSED,0.750652,Be Thankful for What You've Got - David Todd Remix (Radio Edit),William DeVaughn,566,135.0,275.0
+375,DISTRACTED,0.943629,Be Thankful for What You've Got - David Todd Remix (Radio Edit),William DeVaughn,478,135.0,275.0
+376,DISTRACTED,0.947043,Be Thankful for What You've Got - David Todd Remix (Radio Edit),William DeVaughn,272,135.0,275.0
+377,DISTRACTED,0.894596,Be Thankful for What You've Got - David Todd Remix (Radio Edit),William DeVaughn,486,135.0,275.0
+378,DISTRACTED,0.900357,Be Thankful for What You've Got - David Todd Remix (Radio Edit),William DeVaughn,431,135.0,275.0
+379,DISTRACTED,0.948395,Be Thankful for What You've Got - David Todd Remix (Radio Edit),William DeVaughn,231,135.0,275.0
+380,FOCUSED,0.924534,Be Thankful for What You've Got - David Todd Remix (Radio Edit),William DeVaughn,250,135.0,275.0
+381,DISTRACTED,0.902763,Be Thankful for What You've Got - David Todd Remix (Radio Edit),William DeVaughn,460,135.0,275.0
+382,DISTRACTED,0.952254,Be Thankful for What You've Got - David Todd Remix (Radio Edit),William DeVaughn,450,135.0,275.0
+383,FOCUSED,0.857412,Be Thankful for What You've Got - David Todd Remix (Radio Edit),William DeVaughn,212,135.0,275.0
+384,FOCUSED,0.54988,Where Are We Going?,Donald Byrd,563,135.0,183.0
+385,DISTRACTED,0.684136,Where Are We Going?,Donald Byrd,524,135.0,183.0
+386,DISTRACTED,0.951404,Where Are We Going?,Donald Byrd,558,135.0,183.0
+387,DISTRACTED,0.944931,Where Are We Going?,Donald Byrd,223,135.0,183.0
+388,DISTRACTED,0.95342,Where Are We Going?,Donald Byrd,321,135.0,183.0
+389,FOCUSED,0.527292,Where Are We Going?,Donald Byrd,216,135.0,183.0
+390,DISTRACTED,0.488853,Where Are We Going?,Donald Byrd,221,135.0,183.0
+391,DISTRACTED,0.746698,Where Are We Going?,Donald Byrd,235,135.0,183.0
+392,DISTRACTED,0.948932,Where Are We Going?,Donald Byrd,536,135.0,183.0
+393,DISTRACTED,0.956378,Where Are We Going?,Donald Byrd,223,135.0,183.0
+394,DISTRACTED,0.953916,Where Are We Going?,Donald Byrd,532,135.0,183.0
+395,DISTRACTED,0.943512,Where Are We Going?,Donald Byrd,421,135.0,183.0
+396,DISTRACTED,0.960449,Where Are We Going?,Donald Byrd,601,135.0,183.0
+397,FOCUSED,0.828935,Where Are We Going?,Donald Byrd,268,135.0,183.0
+398,FOCUSED,0.923049,Where Are We Going?,Donald Byrd,138,135.0,183.0
+399,DISTRACTED,0.946535,The Silence That You Keep,Milton Wright,134,135.0,218.0
+400,FOCUSED,0.475937,The Silence That You Keep,Milton Wright,230,135.0,218.0
+401,DISTRACTED,0.915988,The Silence That You Keep,Milton Wright,276,135.0,218.0
+402,DISTRACTED,0.94865,The Silence That You Keep,Milton Wright,182,135.0,218.0
+403,FOCUSED,0.904708,The Silence That You Keep,Milton Wright,103,135.0,218.0
+404,DISTRACTED,0.951381,The Silence That You Keep,Milton Wright,408,135.0,218.0
+405,DISTRACTED,0.861135,Tasmania,Pond,408,135.0,226.0
+406,DISTRACTED,0.939168,Tasmania,Pond,590,135.0,226.0
+407,DISTRACTED,0.939287,Tasmania,Pond,548,135.0,226.0
+408,DISTRACTED,0.940446,Tasmania,Pond,468,135.0,226.0
+409,DISTRACTED,0.931727,Tasmania,Pond,463,135.0,226.0
+410,DISTRACTED,0.956572,90% of Me Is You,Gwen McCrae,555,160.2,162.0
+411,DISTRACTED,0.958276,90% of Me Is You,Gwen McCrae,180,160.2,162.0
+412,DISTRACTED,0.95694,90% of Me Is You,Gwen McCrae,190,160.2,162.0
+413,DISTRACTED,0.940957,90% of Me Is You,Gwen McCrae,445,160.2,162.0
+414,DISTRACTED,0.91371,90% of Me Is You,Gwen McCrae,210,160.2,162.0
+415,DISTRACTED,0.908352,90% of Me Is You,Gwen McCrae,210,160.2,162.0
+416,DISTRACTED,0.920578,90% of Me Is You,Gwen McCrae,206,160.2,162.0
+417,DISTRACTED,0.923964,90% of Me Is You,Gwen McCrae,176,160.2,162.0
+418,DISTRACTED,0.954228,90% of Me Is You,Gwen McCrae,407,160.2,162.0
+419,FOCUSED,0.357663,Shibuya (feat. Syd),"Free Nationals, Syd",231,135.0,275.0
+420,DISTRACTED,0.952775,Shibuya (feat. Syd),"Free Nationals, Syd",231,135.0,275.0
+421,DISTRACTED,0.869022,Shibuya (feat. Syd),"Free Nationals, Syd",225,135.0,275.0
+422,DISTRACTED,0.954754,Shibuya (feat. Syd),"Free Nationals, Syd",401,135.0,275.0
+423,FOCUSED,0.842645,Shibuya (feat. Syd),"Free Nationals, Syd",354,135.0,275.0
+424,DISTRACTED,0.952379,Shibuya (feat. Syd),"Free Nationals, Syd",498,135.0,275.0
+425,DISTRACTED,0.946994,Shibuya (feat. Syd),"Free Nationals, Syd",110,135.0,275.0
+426,FOCUSED,0.756762,Shibuya (feat. Syd),"Free Nationals, Syd",453,135.0,275.0
+427,DISTRACTED,0.95928,I Like the Way You Do Your Thing,Little Beaver,480,177.44,275.0
+428,DISTRACTED,0.959538,I Like the Way You Do Your Thing,Little Beaver,537,177.44,275.0
+429,DISTRACTED,0.924211,I Like the Way You Do Your Thing,Little Beaver,437,177.44,275.0
+430,FOCUSED,0.703707,I Like the Way You Do Your Thing,Little Beaver,500,177.44,275.0
+431,DISTRACTED,0.949712,I Like the Way You Do Your Thing,Little Beaver,476,177.44,275.0
+432,FOCUSED,0.900232,I Like the Way You Do Your Thing,Little Beaver,381,177.44,275.0
+433,DISTRACTED,0.297759,I Like the Way You Do Your Thing,Little Beaver,413,177.44,275.0
+434,DISTRACTED,0.856567,I Like the Way You Do Your Thing,Little Beaver,430,177.44,275.0
+435,FOCUSED,0.685323,I Like the Way You Do Your Thing,Little Beaver,402,177.44,275.0
+436,FOCUSED,0.92981,I Like the Way You Do Your Thing,Little Beaver,439,177.44,275.0
+437,FOCUSED,0.95434,I Like the Way You Do Your Thing,Little Beaver,437,177.44,275.0
+438,FOCUSED,0.314188,I Like the Way You Do Your Thing,Little Beaver,227,177.44,275.0
+439,DISTRACTED,0.95693,I Like the Way You Do Your Thing,Little Beaver,417,177.44,275.0
+440,DISTRACTED,0.964816,Night Whistler,Donald Byrd,406,145.6,6.0
+441,DISTRACTED,0.957574,Night Whistler,Donald Byrd,449,145.6,6.0
+442,DISTRACTED,0.947852,Night Whistler,Donald Byrd,451,145.6,6.0
+443,DISTRACTED,0.934049,Night Whistler,Donald Byrd,483,145.6,6.0
+444,DISTRACTED,0.937869,Night Whistler,Donald Byrd,497,145.6,6.0
+445,DISTRACTED,0.859305,Night Whistler,Donald Byrd,466,145.6,6.0
+446,DISTRACTED,0.943038,Night Whistler,Donald Byrd,487,145.6,6.0
+447,DISTRACTED,0.945313,Night Whistler,Donald Byrd,505,145.6,6.0
+448,DISTRACTED,0.954437,Night Whistler,Donald Byrd,508,145.6,6.0
+449,DISTRACTED,0.931913,Night Whistler,Donald Byrd,477,145.6,6.0
+450,DISTRACTED,0.959052,Night Whistler,Donald Byrd,488,145.6,6.0
+451,DISTRACTED,0.910469,Get No Lovin' Tonight,Milton Wright,488,135.0,145.0
+452,DISTRACTED,0.775765,Get No Lovin' Tonight,Milton Wright,462,135.0,145.0
+453,DISTRACTED,0.93574,Get No Lovin' Tonight,Milton Wright,451,135.0,145.0
+454,DISTRACTED,0.943296,Get No Lovin' Tonight,Milton Wright,470,135.0,145.0
+455,DISTRACTED,0.925384,Get No Lovin' Tonight,Milton Wright,563,135.0,145.0
+456,FOCUSED,0.855077,Get No Lovin' Tonight,Milton Wright,516,135.0,145.0
+457,FOCUSED,0.942998,Get No Lovin' Tonight,Milton Wright,541,135.0,145.0
+458,DISTRACTED,0.94713,Get No Lovin' Tonight,Milton Wright,656,135.0,145.0
+459,FOCUSED,0.464865,Get No Lovin' Tonight,Milton Wright,625,135.0,145.0
+460,DISTRACTED,0.953779,Get No Lovin' Tonight,Milton Wright,635,135.0,145.0
+461,DISTRACTED,0.954864,Get No Lovin' Tonight,Milton Wright,472,135.0,145.0
+462,DISTRACTED,0.913237,Get No Lovin' Tonight,Milton Wright,597,135.0,145.0
+463,DISTRACTED,0.927733,Get No Lovin' Tonight,Milton Wright,551,135.0,145.0
+464,FOCUSED,0.690018,Colder Than Ice,Pond,542,135.0,377.0
+465,DISTRACTED,0.946314,A Day In The Life - Remastered 2009,The Beatles,446,154.85,275.0
+466,DISTRACTED,0.950312,A Day In The Life - Remastered 2009,The Beatles,690,154.85,275.0
+467,DISTRACTED,0.90716,A Day In The Life - Remastered 2009,The Beatles,647,154.85,275.0
+468,DISTRACTED,0.958284,A Day In The Life - Remastered 2009,The Beatles,698,154.85,275.0
+469,FOCUSED,0.951101,A Day In The Life - Remastered 2009,The Beatles,487,154.85,275.0
+470,DISTRACTED,0.93861,Dancing in the Moonlight,King Harvest,603,136.0,235.0
+471,DISTRACTED,0.952002,Dancing in the Moonlight,King Harvest,609,136.0,235.0
+472,DISTRACTED,0.941443,Dancing in the Moonlight,King Harvest,580,136.0,235.0
+473,FOCUSED,0.324939,Dancing in the Moonlight,King Harvest,572,136.0,235.0
+474,DISTRACTED,0.931577,Dancing in the Moonlight,King Harvest,534,136.0,235.0
+475,FOCUSED,0.660133,Dancing in the Moonlight,King Harvest,547,136.0,235.0
+476,DISTRACTED,0.915595,Billie Jean,Michael Jackson,469,117.1,482.0
+477,FOCUSED,0.953085,Billie Jean,Michael Jackson,451,117.1,482.0
+478,FOCUSED,0.959578,Billie Jean,Michael Jackson,535,117.1,482.0
+479,FOCUSED,0.805549,Billie Jean,Michael Jackson,480,117.1,482.0
+480,FOCUSED,0.942386,Billie Jean,Michael Jackson,480,117.1,482.0
+481,FOCUSED,0.910851,Billie Jean,Michael Jackson,475,117.1,482.0
+482,DISTRACTED,0.96203,Billie Jean,Michael Jackson,474,117.1,482.0
+483,FOCUSED,0.647322,Billie Jean,Michael Jackson,479,117.1,482.0
+484,FOCUSED,0.256767,Billie Jean,Michael Jackson,499,117.1,482.0
+485,DISTRACTED,0.911347,Billie Jean,Michael Jackson,564,117.1,482.0
+486,FOCUSED,0.942349,Billie Jean,Michael Jackson,557,117.1,482.0
+487,DISTRACTED,0.944891,Billie Jean,Michael Jackson,574,117.1,482.0
+488,DISTRACTED,0.420267,Billie Jean,Michael Jackson,628,117.1,482.0
+489,FOCUSED,0.310803,Billie Jean,Michael Jackson,622,117.1,482.0
+490,DISTRACTED,0.958779,Girls Just Want to Have Fun,Cyndi Lauper,593,120.5,353.0
+491,DISTRACTED,0.959282,Girls Just Want to Have Fun,Cyndi Lauper,597,120.5,353.0
+492,DISTRACTED,0.913172,Girls Just Want to Have Fun,Cyndi Lauper,578,120.5,353.0
+493,FOCUSED,0.816634,Girls Just Want to Have Fun,Cyndi Lauper,575,120.5,353.0
+494,DISTRACTED,0.965888,Girls Just Want to Have Fun,Cyndi Lauper,532,120.5,353.0
+495,DISTRACTED,0.667241,Girls Just Want to Have Fun,Cyndi Lauper,659,120.5,353.0
+496,FOCUSED,0.291293,Girls Just Want to Have Fun,Cyndi Lauper,651,120.5,353.0
+497,DISTRACTED,0.966803,Girls Just Want to Have Fun,Cyndi Lauper,596,120.5,353.0
+498,DISTRACTED,0.963898,Girls Just Want to Have Fun,Cyndi Lauper,608,120.5,353.0
+499,DISTRACTED,0.958419,Girls Just Want to Have Fun,Cyndi Lauper,603,120.5,353.0
+500,DISTRACTED,0.955753,Girls Just Want to Have Fun,Cyndi Lauper,545,120.5,353.0
+501,DISTRACTED,0.935021,Girls Just Want to Have Fun,Cyndi Lauper,588,120.5,353.0
+502,DISTRACTED,0.912619,Hotel California - 2013 Remaster,Eagles,484,147.1,275.0
+503,DISTRACTED,0.924975,Hotel California - 2013 Remaster,Eagles,565,147.1,275.0
+504,FOCUSED,0.941036,Hotel California - 2013 Remaster,Eagles,116,147.1,275.0
+505,FOCUSED,0.950891,Hotel California - 2013 Remaster,Eagles,519,147.1,275.0
+506,DISTRACTED,0.451354,Hotel California - 2013 Remaster,Eagles,227,147.1,275.0
+507,DISTRACTED,0.953905,Hotel California - 2013 Remaster,Eagles,459,147.1,275.0
+508,DISTRACTED,0.841196,Hotel California - 2013 Remaster,Eagles,295,147.1,275.0
+509,DISTRACTED,0.869185,Hotel California - 2013 Remaster,Eagles,466,147.1,275.0
+510,DISTRACTED,0.900829,Hotel California - 2013 Remaster,Eagles,463,147.1,275.0
+511,DISTRACTED,0.447302,Hotel California - 2013 Remaster,Eagles,257,147.1,275.0
+512,DISTRACTED,0.944385,Hotel California - 2013 Remaster,Eagles,526,147.1,275.0
+513,DISTRACTED,0.941718,Hotel California - 2013 Remaster,Eagles,450,147.1,275.0
+514,FOCUSED,0.931138,Hotel California - 2013 Remaster,Eagles,176,147.1,275.0
+515,DISTRACTED,0.924149,Hotel California - 2013 Remaster,Eagles,251,147.1,275.0
+516,DISTRACTED,0.801595,Hotel California - 2013 Remaster,Eagles,528,147.1,275.0
+517,DISTRACTED,0.958936,Hotel California - 2013 Remaster,Eagles,459,147.1,275.0
+518,DISTRACTED,0.9504,Hotel California - 2013 Remaster,Eagles,440,147.1,275.0
+519,DISTRACTED,0.964605,Hotel California - 2013 Remaster,Eagles,444,147.1,275.0
+520,DISTRACTED,0.965199,Hotel California - 2013 Remaster,Eagles,467,147.1,275.0
+521,DISTRACTED,0.960046,Hotel California - 2013 Remaster,Eagles,486,147.1,275.0
+522,DISTRACTED,0.909019,Play That Funky Music,Wild Cherry,544,109.4,454.0
+523,DISTRACTED,0.96283,Play That Funky Music,Wild Cherry,518,109.4,454.0
+524,DISTRACTED,0.958235,Play That Funky Music,Wild Cherry,533,109.4,454.0
+525,DISTRACTED,0.896701,Play That Funky Music,Wild Cherry,543,109.4,454.0
+526,DISTRACTED,0.958758,Play That Funky Music,Wild Cherry,508,109.4,454.0
+527,DISTRACTED,0.966353,Play That Funky Music,Wild Cherry,507,109.4,454.0
+528,FOCUSED,0.968311,Play That Funky Music,Wild Cherry,483,109.4,454.0
+529,FOCUSED,0.957053,Play That Funky Music,Wild Cherry,239,109.4,454.0
+530,FOCUSED,0.95164,Play That Funky Music,Wild Cherry,316,109.4,454.0
+531,DISTRACTED,0.47008,Come Together - Remastered 2009,The Beatles,626,164.06,275.0
+532,DISTRACTED,0.55749,Come Together - Remastered 2009,The Beatles,659,164.06,275.0
+533,DISTRACTED,0.813156,Come Together - Remastered 2009,The Beatles,659,164.06,275.0
+534,DISTRACTED,0.805616,Come Together - Remastered 2009,The Beatles,667,164.06,275.0
+535,FOCUSED,0.945979,Come Together - Remastered 2009,The Beatles,437,164.06,275.0
+536,DISTRACTED,0.779082,Come Together - Remastered 2009,The Beatles,604,164.06,275.0
+537,DISTRACTED,0.918787,Come Together - Remastered 2009,The Beatles,634,164.06,275.0
+538,DISTRACTED,0.951684,Come Together - Remastered 2009,The Beatles,619,164.06,275.0
+539,FOCUSED,0.535163,Come Together - Remastered 2009,The Beatles,431,164.06,275.0
+540,DISTRACTED,0.933854,Come Together - Remastered 2009,The Beatles,527,164.06,275.0
+541,FOCUSED,0.967807,Sir Duke,Stevie Wonder,542,107.39,275.0
+542,FOCUSED,0.952197,Sir Duke,Stevie Wonder,652,107.39,275.0
+543,FOCUSED,0.94836,Sir Duke,Stevie Wonder,579,107.39,275.0
+544,FOCUSED,0.945959,Sir Duke,Stevie Wonder,544,107.39,275.0
+545,FOCUSED,0.949645,Sir Duke,Stevie Wonder,547,107.39,275.0
+546,FOCUSED,0.949424,Sir Duke,Stevie Wonder,454,107.39,275.0
+547,FOCUSED,0.955679,Sir Duke,Stevie Wonder,415,107.39,275.0
+548,FOCUSED,0.970679,Sir Duke,Stevie Wonder,441,107.39,275.0
+549,FOCUSED,0.956976,Sir Duke,Stevie Wonder,434,107.39,275.0
+550,FOCUSED,0.94636,Sir Duke,Stevie Wonder,401,107.39,275.0
+551,FOCUSED,0.953724,Intergalactic - Remastered 2009,Beastie Boys,454,135.0,275.0
+552,FOCUSED,0.834016,Intergalactic - Remastered 2009,Beastie Boys,419,135.0,275.0
+553,FOCUSED,0.956284,Intergalactic - Remastered 2009,Beastie Boys,476,135.0,275.0
+554,FOCUSED,0.935312,Intergalactic - Remastered 2009,Beastie Boys,458,135.0,275.0
+555,FOCUSED,0.982126,Intergalactic - Remastered 2009,Beastie Boys,403,135.0,275.0
+556,FOCUSED,0.920999,Intergalactic - Remastered 2009,Beastie Boys,434,135.0,275.0
+557,FOCUSED,0.968861,Intergalactic - Remastered 2009,Beastie Boys,519,135.0,275.0
+558,FOCUSED,0.952903,Intergalactic - Remastered 2009,Beastie Boys,456,135.0,275.0
+559,FOCUSED,0.9676,Intergalactic - Remastered 2009,Beastie Boys,466,135.0,275.0
+560,FOCUSED,0.979991,Intergalactic - Remastered 2009,Beastie Boys,463,135.0,275.0
+561,FOCUSED,0.938154,Take Five,The Dave Brubeck Quartet,268,172.3,275.0
+562,FOCUSED,0.956721,Take Five,The Dave Brubeck Quartet,278,172.3,275.0
+563,FOCUSED,0.969343,Take Five,The Dave Brubeck Quartet,496,172.3,275.0
+564,FOCUSED,0.961547,Take Five,The Dave Brubeck Quartet,498,172.3,275.0
+565,FOCUSED,0.942895,Take Five,The Dave Brubeck Quartet,227,172.3,275.0
+566,FOCUSED,0.963826,Take Five,The Dave Brubeck Quartet,413,172.3,275.0
+567,FOCUSED,0.960001,Take Five,The Dave Brubeck Quartet,471,172.3,275.0
+568,FOCUSED,0.956795,Take Five,The Dave Brubeck Quartet,449,172.3,275.0
+569,FOCUSED,0.954242,Take Five,The Dave Brubeck Quartet,420,172.3,275.0
+570,FOCUSED,0.954776,Take Five,The Dave Brubeck Quartet,453,172.3,275.0
+571,FOCUSED,0.951119,Take Five,The Dave Brubeck Quartet,298,172.3,275.0
+572,FOCUSED,0.954475,Take Five,The Dave Brubeck Quartet,267,172.3,275.0
+573,FOCUSED,0.955024,Take Five,The Dave Brubeck Quartet,454,172.3,275.0
+574,FOCUSED,0.956402,Insane in the Brain,Cypress Hill,252,102.1,487.0
+575,FOCUSED,0.959987,Insane in the Brain,Cypress Hill,287,102.1,487.0
+576,FOCUSED,0.975324,Insane in the Brain,Cypress Hill,487,102.1,487.0
+577,FOCUSED,0.947226,Insane in the Brain,Cypress Hill,445,102.1,487.0
+578,FOCUSED,0.938225,Insane in the Brain,Cypress Hill,447,102.1,487.0
+579,FOCUSED,0.960676,Insane in the Brain,Cypress Hill,468,102.1,487.0
+580,FOCUSED,0.94359,Linus And Lucy,Vince Guaraldi Trio,463,164.06,275.0
+581,FOCUSED,0.94187,Linus And Lucy,Vince Guaraldi Trio,512,164.06,275.0
+582,FOCUSED,0.966469,Linus And Lucy,Vince Guaraldi Trio,335,164.06,275.0
+583,FOCUSED,0.942857,Linus And Lucy,Vince Guaraldi Trio,457,164.06,275.0
+584,FOCUSED,0.953705,Linus And Lucy,Vince Guaraldi Trio,518,164.06,275.0
+585,FOCUSED,0.94559,Come Together - Remastered 2009,The Beatles,425,164.06,275.0
+586,FOCUSED,0.960437,Come Together - Remastered 2009,The Beatles,768,164.06,275.0
+587,FOCUSED,0.954155,Come Together - Remastered 2009,The Beatles,724,164.06,275.0
+588,FOCUSED,0.959459,Come Together - Remastered 2009,The Beatles,527,164.06,275.0
+589,FOCUSED,0.955068,Come Together - Remastered 2009,The Beatles,337,164.06,275.0
+590,FOCUSED,0.963969,Come Together - Remastered 2009,The Beatles,454,164.06,275.0
+591,FOCUSED,0.953302,Come Together - Remastered 2009,The Beatles,60,164.06,275.0
+592,FOCUSED,0.964127,Come Together - Remastered 2009,The Beatles,40,164.06,275.0
+593,FOCUSED,0.952347,Take Five,The Dave Brubeck Quartet,6,172.3,275.0
+594,FOCUSED,0.890312,Take Five,The Dave Brubeck Quartet,46,172.3,275.0
+595,FOCUSED,0.963664,Take Five,The Dave Brubeck Quartet,292,172.3,275.0
+596,FOCUSED,0.96305,Take Five,The Dave Brubeck Quartet,168,172.3,275.0
+597,FOCUSED,0.945441,Take Five,The Dave Brubeck Quartet,253,172.3,275.0
+598,FOCUSED,0.957685,Take Five,The Dave Brubeck Quartet,71,172.3,275.0
+599,FOCUSED,0.957634,Take Five,The Dave Brubeck Quartet,105,172.3,275.0
+600,FOCUSED,0.95713,Take Five,The Dave Brubeck Quartet,103,172.3,275.0
+601,FOCUSED,0.952648,Take Five,The Dave Brubeck Quartet,165,172.3,275.0
+602,FOCUSED,0.933406,Take Five,The Dave Brubeck Quartet,8,172.3,275.0
+603,FOCUSED,0.961173,Take Five,The Dave Brubeck Quartet,246,172.3,275.0
+604,FOCUSED,0.955358,Take Five,The Dave Brubeck Quartet,230,172.3,275.0
+605,FOCUSED,0.964399,Take Five,The Dave Brubeck Quartet,234,172.3,275.0
+606,FOCUSED,0.96905,Take Five,The Dave Brubeck Quartet,508,172.3,275.0
+607,FOCUSED,0.804032,Take Five,The Dave Brubeck Quartet,486,172.3,275.0
+608,FOCUSED,0.955391,Take Five,The Dave Brubeck Quartet,296,172.3,275.0
+609,FOCUSED,0.95886,One Nation Under a Groove,Funkadelic,354,122.3,645.0
+610,FOCUSED,0.946055,One Nation Under a Groove,Funkadelic,346,122.3,645.0
+611,FOCUSED,0.95535,One Nation Under a Groove,Funkadelic,427,122.3,645.0
+612,FOCUSED,0.944723,One Nation Under a Groove,Funkadelic,295,122.3,645.0
+613,FOCUSED,0.957896,One Nation Under a Groove,Funkadelic,314,122.3,645.0
+614,FOCUSED,0.967012,One Nation Under a Groove,Funkadelic,328,122.3,645.0
+615,FOCUSED,0.950866,One Nation Under a Groove,Funkadelic,311,122.3,645.0
+616,FOCUSED,0.961856,One Nation Under a Groove,Funkadelic,316,122.3,645.0
+617,FOCUSED,0.953478,One Nation Under a Groove,Funkadelic,421,122.3,645.0
+618,FOCUSED,0.960072,One Nation Under a Groove,Funkadelic,351,122.3,645.0
+619,FOCUSED,0.960072,One Nation Under a Groove,Funkadelic,439,122.3,645.0
+620,FOCUSED,0.960022,One Nation Under a Groove,Funkadelic,172,122.3,645.0
+621,DISTRACTED,0.949417,One Nation Under a Groove,Funkadelic,467,122.3,645.0
+622,FOCUSED,0.957115,One Nation Under a Groove,Funkadelic,373,122.3,645.0
+623,FOCUSED,0.954833,One Nation Under a Groove,Funkadelic,328,122.3,645.0
+624,DISTRACTED,0.490786,One Nation Under a Groove,Funkadelic,309,122.3,645.0
+625,FOCUSED,0.968393,One Nation Under a Groove,Funkadelic,272,122.3,645.0
+626,FOCUSED,0.964715,One Nation Under a Groove,Funkadelic,343,122.3,645.0
+627,FOCUSED,0.95939,One Nation Under a Groove,Funkadelic,362,122.3,645.0
+628,FOCUSED,0.964108,One Nation Under a Groove,Funkadelic,331,122.3,645.0
+629,FOCUSED,0.9587,One Nation Under a Groove,Funkadelic,309,122.3,645.0
+630,FOCUSED,0.959398,One Nation Under a Groove,Funkadelic,321,122.3,645.0
+631,FOCUSED,0.957843,Mood Indigo,Frank Sinatra,322,128.0,135.0
+632,FOCUSED,0.950011,Mood Indigo,Frank Sinatra,463,128.0,135.0
+633,FOCUSED,0.882474,Mood Indigo,Frank Sinatra,332,128.0,135.0
+634,FOCUSED,0.95659,Mood Indigo,Frank Sinatra,390,128.0,135.0
+635,FOCUSED,0.960406,Mood Indigo,Frank Sinatra,474,128.0,135.0
+636,FOCUSED,0.960628,Mood Indigo,Frank Sinatra,361,128.0,135.0
+637,FOCUSED,0.961425,Mood Indigo,Frank Sinatra,405,128.0,135.0
+638,FOCUSED,0.957685,Mood Indigo,Frank Sinatra,376,128.0,135.0
+639,FOCUSED,0.961856,Reptilia,The Strokes,723,157.8,191.0
+640,DISTRACTED,0.357648,Reptilia,The Strokes,710,157.8,191.0
+641,FOCUSED,0.965044,Reptilia,The Strokes,671,157.8,191.0
+642,DISTRACTED,0.939,Reptilia,The Strokes,630,157.8,191.0
+643,FOCUSED,0.957401,Reptilia,The Strokes,589,157.8,191.0
+644,FOCUSED,0.969018,Reptilia,The Strokes,630,157.8,191.0
+645,FOCUSED,0.952556,Reptilia,The Strokes,643,157.8,191.0
+646,FOCUSED,0.961916,Reptilia,The Strokes,637,157.8,191.0
+647,FOCUSED,0.967108,Reptilia,The Strokes,668,157.8,191.0
+648,FOCUSED,0.888609,A Horse with No Name,"America, George Martin",627,135.0,275.0
+649,FOCUSED,0.968544,A Horse with No Name,"America, George Martin",654,135.0,275.0
+650,FOCUSED,0.958384,A Horse with No Name,"America, George Martin",574,135.0,275.0
+651,DISTRACTED,0.368787,A Horse with No Name,"America, George Martin",590,135.0,275.0
+652,FOCUSED,0.955628,A Horse with No Name,"America, George Martin",202,135.0,275.0
+653,FOCUSED,0.968821,A Horse with No Name,"America, George Martin",590,135.0,275.0
+654,FOCUSED,0.962208,A Horse with No Name,"America, George Martin",489,135.0,275.0
+655,FOCUSED,0.960044,A Horse with No Name,"America, George Martin",487,135.0,275.0
+656,FOCUSED,0.963418,A Horse with No Name,"America, George Martin",575,135.0,275.0
+657,FOCUSED,0.953951,A Horse with No Name,"America, George Martin",470,135.0,275.0
+658,FOCUSED,0.958906,A Horse with No Name,"America, George Martin",588,135.0,275.0
+659,FOCUSED,0.955684,"Shook Ones, Pt. II",Mobb Deep,472,93.8,830.0
+660,FOCUSED,0.905674,"Shook Ones, Pt. II",Mobb Deep,626,93.8,830.0
+661,FOCUSED,0.965907,"Shook Ones, Pt. II",Mobb Deep,677,93.8,830.0
+662,FOCUSED,0.963683,"Shook Ones, Pt. II",Mobb Deep,610,93.8,830.0
+663,FOCUSED,0.964514,"Shook Ones, Pt. II",Mobb Deep,629,93.8,830.0
+664,FOCUSED,0.95738,"Shook Ones, Pt. II",Mobb Deep,816,93.8,830.0
+665,FOCUSED,0.959958,"Shook Ones, Pt. II",Mobb Deep,769,93.8,830.0
+666,FOCUSED,0.951393,"Shook Ones, Pt. II",Mobb Deep,889,93.8,830.0
+667,FOCUSED,0.955059,"Shook Ones, Pt. II",Mobb Deep,714,93.8,830.0
+668,DISTRACTED,0.283719,"Shook Ones, Pt. II",Mobb Deep,852,93.8,830.0
+669,FOCUSED,0.967304,"Shook Ones, Pt. II",Mobb Deep,740,93.8,830.0
+670,DISTRACTED,0.251691,"Shook Ones, Pt. II",Mobb Deep,724,93.8,830.0
+671,FOCUSED,0.958811,"Shook Ones, Pt. II",Mobb Deep,825,93.8,830.0
+672,FOCUSED,0.959685,"Shook Ones, Pt. II",Mobb Deep,698,93.8,830.0
+673,FOCUSED,0.95565,"Shook Ones, Pt. II",Mobb Deep,677,93.8,830.0
+674,FOCUSED,0.947579,California Soul,Marlena Shaw,723,94.8,180.0
+675,FOCUSED,0.95755,California Soul,Marlena Shaw,710,94.8,180.0
+676,FOCUSED,0.961741,California Soul,Marlena Shaw,705,94.8,180.0
+677,FOCUSED,0.962743,California Soul,Marlena Shaw,708,94.8,180.0
+678,FOCUSED,0.944901,California Soul,Marlena Shaw,713,94.8,180.0
+679,FOCUSED,0.957235,California Soul,Marlena Shaw,730,94.8,180.0
+680,DISTRACTED,0.812864,California Soul,Marlena Shaw,664,94.8,180.0
+681,DISTRACTED,0.742299,Big Poppa - 2005 Remaster,The Notorious B.I.G.,659,84.55,275.0
+682,FOCUSED,0.953574,Big Poppa - 2005 Remaster,The Notorious B.I.G.,684,84.55,275.0
+683,FOCUSED,0.960757,Big Poppa - 2005 Remaster,The Notorious B.I.G.,703,84.55,275.0
+684,FOCUSED,0.957352,Big Poppa - 2005 Remaster,The Notorious B.I.G.,722,84.55,275.0
+685,FOCUSED,0.957374,Big Poppa - 2005 Remaster,The Notorious B.I.G.,706,84.55,275.0
+686,FOCUSED,0.958609,Big Poppa - 2005 Remaster,The Notorious B.I.G.,641,84.55,275.0
+687,DISTRACTED,0.296427,Big Poppa - 2005 Remaster,The Notorious B.I.G.,657,84.55,275.0
+688,FOCUSED,0.960567,Big Poppa - 2005 Remaster,The Notorious B.I.G.,653,84.55,275.0
+689,FOCUSED,0.957941,Big Poppa - 2005 Remaster,The Notorious B.I.G.,757,84.55,275.0
+690,FOCUSED,0.946356,Big Poppa - 2005 Remaster,The Notorious B.I.G.,676,84.55,275.0
+691,FOCUSED,0.950777,Big Poppa - 2005 Remaster,The Notorious B.I.G.,739,84.55,275.0
+692,FOCUSED,0.956525,Jump Around,House Of Pain,640,106.83,513.0
+693,FOCUSED,0.952223,Jump Around,House Of Pain,647,106.83,513.0
+694,FOCUSED,0.957583,Jump Around,House Of Pain,767,106.83,513.0
+695,FOCUSED,0.9454,Jump Around,House Of Pain,777,106.83,513.0
+696,FOCUSED,0.958756,Jump Around,House Of Pain,651,106.83,513.0
+697,DISTRACTED,0.746219,Jump Around,House Of Pain,759,106.83,513.0
+698,FOCUSED,0.919041,Jump Around,House Of Pain,734,106.83,513.0
+699,FOCUSED,0.955597,Jump Around,House Of Pain,734,106.83,513.0
+700,DISTRACTED,0.264145,Jump Around,House Of Pain,740,106.83,513.0
+701,FOCUSED,0.957397,California Love,2Pac,615,182.94,587.0
+702,DISTRACTED,0.277916,California Love,2Pac,664,182.94,587.0
+703,FOCUSED,0.952261,California Love,2Pac,602,182.94,587.0
+704,FOCUSED,0.739368,California Love,2Pac,619,182.94,587.0
+705,FOCUSED,0.949399,California Love,2Pac,637,182.94,587.0
+706,DISTRACTED,0.291736,California Love,2Pac,581,182.94,587.0
+707,FOCUSED,0.957278,California Love,2Pac,626,182.94,587.0
+708,DISTRACTED,0.294666,California Love,2Pac,624,182.94,587.0
+709,FOCUSED,0.949209,California Love,2Pac,721,182.94,587.0
+710,FOCUSED,0.965486,California Love,2Pac,770,182.94,587.0
+711,FOCUSED,0.948399,California Love,2Pac,700,182.94,587.0
+712,FOCUSED,0.941731,California Love,2Pac,664,182.94,587.0
+713,FOCUSED,0.959064,California Love,2Pac,674,182.94,587.0
+714,FOCUSED,0.975482,California Love,2Pac,749,182.94,587.0
+715,FOCUSED,0.957903,California Love,2Pac,663,182.94,587.0
+716,DISTRACTED,0.271368,Birdland,Weather Report,669,156.6,275.0
+717,DISTRACTED,0.926656,Birdland,Weather Report,590,156.6,275.0
+718,FOCUSED,0.921677,Birdland,Weather Report,159,156.6,275.0
+719,FOCUSED,0.945275,Birdland,Weather Report,562,156.6,275.0
+720,DISTRACTED,0.716693,Birdland,Weather Report,528,156.6,275.0
+721,DISTRACTED,0.283,Birdland,Weather Report,571,156.6,275.0
+722,FOCUSED,0.961232,Birdland,Weather Report,571,156.6,275.0
+723,FOCUSED,0.910181,Birdland,Weather Report,506,156.6,275.0
+724,FOCUSED,0.967787,Birdland,Weather Report,643,156.6,275.0
+725,FOCUSED,0.964374,Birdland,Weather Report,536,156.6,275.0
+726,FOCUSED,0.961591,Birdland,Weather Report,569,156.6,275.0
+727,DISTRACTED,0.407818,Birdland,Weather Report,577,156.6,275.0
+728,FOCUSED,0.959417,Birdland,Weather Report,202,156.6,275.0
+729,DISTRACTED,0.874634,Birdland,Weather Report,563,156.6,275.0
+730,FOCUSED,0.909626,Birdland,Weather Report,574,156.6,275.0
+731,FOCUSED,0.934823,Birdland,Weather Report,554,156.6,275.0
+732,FOCUSED,0.930648,Birdland,Weather Report,567,156.6,275.0
+733,FOCUSED,0.96431,Pusherman,Curtis Mayfield,576,126.43,302.0
+734,DISTRACTED,0.948222,Pusherman,Curtis Mayfield,573,126.43,302.0
+735,FOCUSED,0.959644,Pusherman,Curtis Mayfield,603,126.43,302.0
+736,DISTRACTED,0.921636,Pusherman,Curtis Mayfield,571,126.43,302.0
+737,FOCUSED,0.959642,Pusherman,Curtis Mayfield,580,126.43,302.0
+738,DISTRACTED,0.961702,Pusherman,Curtis Mayfield,634,126.43,302.0
+739,FOCUSED,0.919501,Pusherman,Curtis Mayfield,591,126.43,302.0
+740,FOCUSED,0.963991,Pusherman,Curtis Mayfield,636,126.43,302.0
+741,FOCUSED,0.960337,Pusherman,Curtis Mayfield,611,126.43,302.0
+742,FOCUSED,0.957985,Pusherman,Curtis Mayfield,578,126.43,302.0
+743,DISTRACTED,0.92477,Pusherman,Curtis Mayfield,589,126.43,302.0
+744,FOCUSED,0.962164,Pusherman,Curtis Mayfield,650,126.43,302.0
+745,FOCUSED,0.938882,Pusherman,Curtis Mayfield,391,126.43,302.0
+746,FOCUSED,0.966533,Pusherman,Curtis Mayfield,666,126.43,302.0
+747,DISTRACTED,0.393574,Hypnotize - 2007 Remaster,The Notorious B.I.G.,608,94.0,275.0
+748,FOCUSED,0.973374,Hypnotize - 2007 Remaster,The Notorious B.I.G.,613,94.0,275.0
+749,FOCUSED,0.952632,Hypnotize - 2007 Remaster,The Notorious B.I.G.,396,94.0,275.0
