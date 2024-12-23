@@ -19,8 +19,8 @@ SUPABASE_API_KEY=
 
 SPOTIFY_ACCESS_TOKEN=
 ```
-`
-Most recent time-series data is available at: `time_series_data/datasets/music-listening-data-23-12-24-8AM.csv`
+
+==Most recent time-series data is available at: `time_series_data/datasets/music-listening-data-23-12-24-8AM.csv`==
 
 # Machine Learning
 
