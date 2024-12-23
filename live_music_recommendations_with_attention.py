@@ -80,8 +80,8 @@ def compute_desired_lyricalness(reading):
 
 min_motivation_metric = 0
 max_motivation_metric = 1
-max_bpm = 600
-min_bpm = 50
+max_bpm = 400
+min_bpm = 30
 
 
 def compute_desired_BPM(reading):
@@ -103,7 +103,7 @@ def compute_desired_BPM(reading):
 playlist_URI = playlist_URL.split("/")[-1].split("?")[0]
 
 tracks, artists, lyricalness = playlist_lyricalness(playlist_id=playlist_URI, sp=sp)
-# tracks, artists, bpm = playlist_bpm(playlist_id=playlist_URI, sp=sp)
+tracks, artists, bpm = playlist_bpm(playlist_id=playlist_URI, sp=sp)
 
 motivation_metric = 0.5 #this metric gets updated throughout the loop - it acts a bit like a rolling average
 
@@ -134,6 +134,12 @@ for seconds in range(35):
     )
     lyricalness_differences = list(lyricalness_differences[0])
 
+    bpm_differences = [abs(x - desired_bpm) for x in bpm]
+    bpm_differences = preprocessing.normalize(
+        np.array([bpm_differences])
+    )
+    bpm_differences = list(bpm_differences[0])
+
     text_placeholder.text(f"Current number of words on screen: {text_reading}")
     attention_placeholder.text(f"Current user state: {attention_display}")
     motivation_placeholder.text(f"Current motivation metric: {motivation_metric}")
@@ -149,12 +155,13 @@ for seconds in range(35):
         "titles": tracks,
         "artists": artists,
         "lyricalness": lyricalness,
-        # "bpm": bpm,
-        "difference": lyricalness_differences,
+        "bpm": bpm,
+        "lyrical diff": lyricalness_differences,
+        "bpm diff": bpm_differences
     }
 
     df = pd.DataFrame.from_dict(dict)
-    sorted_df = df.sort_values(by="difference")
+    sorted_df = df.sort_values(by="bpm diff")
 
     table_placeholder.table(sorted_df)
 
