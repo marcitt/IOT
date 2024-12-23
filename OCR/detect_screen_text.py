@@ -11,6 +11,9 @@ def detect_text():
     width = 2560
     height = 1600
 
+    # https://medium.com/@rahbarysina/1-practical-python-how-to-take-screenshot-using-python-605469329025
+    # img = ImageGrab.grab()   # will work for any screen size
+
     img = ImageGrab.grab(bbox=(0, 0, width, height))
     np_img = np.array(img)
 
@@ -18,7 +21,3 @@ def detect_text():
 
     # for initial implementation return simple word count
     return len(text.split())
-
-
-
-
