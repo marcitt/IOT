@@ -1,5 +1,8 @@
 # DESE71003 – SENSING AND INTERNET OF THINGS COURSEWORK SUBMISSION
 
+# Demo Video
+https://drive.google.com/file/d/1AlDYFDqY_1tmhP-kwDVurIIRUNrMD5KJ/view?usp=sharing
+
 # Setup
 
 ## Virtual Environment Setup
@@ -85,6 +88,10 @@ Similary to `detect_text()` the attention detection model was then used to colle
 
 Code available in: `live_data_collection.py` and `music_integration/spotify_functions.py`
 
+```
+python3 live_data_collection.py
+```
+
 ## Music metadata Collection
 Along with time-series data collection music metadata is collected:
 
@@ -129,9 +136,16 @@ It makes sense the amount of text on screen correlates the most strongly with fo
 - Tracks will be ranked according to current environmental conditions (user attention + volume of onscreen text) and a song will be recommended.
 - This creates a foundation for any next steps (e.g. controlling user's spotify playback)
 
+Uses user attention + text on screen to create song recommendations:
 ```
 # Streamlit Live Plot for Attention:
-streamlit run spotify_test.py
+streamlit run live_music_recommendations_with_attention.py
+```
+
+Uses simpler lyricalness to rank songs (no attention included):
+```
+# Streamlit Live Plot for Attention:
+streamlit run live_music_recommendations.py
 ```
 
 ## Controlling User's Listening Experience (User Authorization Workflow)

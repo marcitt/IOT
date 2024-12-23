@@ -6,6 +6,40 @@ import pandas as pd
 import time
 import os
 
+import spotipy
+from spotipy.oauth2 import SpotifyOAuth
+import os
+
+import requests
+
+from dotenv import load_dotenv
+
+import time
+
+load_dotenv()
+
+# CLIENT_ID = os.getenv("CLIENT_ID")
+# CLIENT_SECRET = os.getenv("CLIENT_SECRET")
+# REDIRECT_URI = "http://localhost:5000/redirect"
+# SCOPE = "user-read-currently-playing"
+# SPOTIFY_GET_CURRENT_TRACK_URL = "https://api.spotify.com/v1/me/player/currently-playing"
+# # SCOPE = "user-library-read"
+
+
+# from spotipy.oauth2 import SpotifyOAuth
+# import spotipy
+
+# Define your app credentials
+# scope = "user-read-currently-playing user-read-playback-state"
+# sp = spotipy.Spotify(
+#     auth_manager=SpotifyOAuth(
+#         client_id=CLIENT_ID,
+#         client_secret=CLIENT_SECRET,
+#         redirect_uri=REDIRECT_URI,
+#         scope=scope,
+#     )
+# )
+
 # ml imports
 # import torch
 # import torchvision
@@ -177,5 +211,11 @@ for seconds in range(50):
 
 
     # recommendation_placeholder.text(f"Next recommended song: {sorted_df['titles'][0]}")
+    
+    #this can be used to add recommended song to user's queue - but requires premium
+    # track_id can be got from the original spotify playlist - just requires some processing steps
+    # sp.add_to_queue(track_uri)
+
+    # song will be added at the end of the queue - in order to add song at other positions in the queue more complex playback procedures are required
 
     time.sleep(1)
