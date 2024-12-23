@@ -52,7 +52,20 @@ def compute_lyricalness(artist, song):
 
     if lyrics:
         # for initial implementation use simple measure of number of words per song
-        return len(lyrics.split())
+        lyricalness = len(lyrics.split())
+
+        # to make the measure more complex we can divide it by the maxium lyricalness which should set the value to less than 1
+        # values in the range 0-1 are much easier to interpret 
+
+        # the maxium lyricalness appears to be around ~700
+        # there we could return:
+        # lyricalness = lyricalness/700
+
+        # it would be useful to do more complex analysis - potentially looking at measures of dispersion or frequency?
+
+        return lyricalness
     else:
         return None
-    
+        # from testing average lyricalness was determined to be around 275
+        # therefore if it is more useful to return a value this can be returned instead
+        # return 275
