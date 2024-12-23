@@ -144,13 +144,13 @@ streamlit run spotify_test.py
 
 ```
 # Streamlit Live Plot for Attention:
-streamlit run st_attention_live_plot.py
+streamlit run live_music_recommendations.py
 ```
 Will show a live plot for attention - using custom yolov8 model trained on focused & unfocused data 
 
 ```
 # Streamlit Both Live Plots
-streamlit run st_live_live_plots.py
+streamlit run st_live_plots.py
 ```
 Plots live plots for both attention & text on screen - can be useful for observing relationships between amount of text on screen & how focused the user is
 
