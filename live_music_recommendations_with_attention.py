@@ -80,7 +80,7 @@ def compute_desired_lyricalness(reading):
 
 min_motivation_metric = 0
 max_motivation_metric = 1
-max_bpm = 400
+max_bpm = 300
 min_bpm = 30
 
 
@@ -109,16 +109,16 @@ motivation_metric = 0.5 #this metric gets updated throughout the loop - it acts 
 
 attention_display = ""
 
-for seconds in range(35):
+for seconds in range(50):
     text_reading = detect_text()
     attention_reading, score = measure_attention_and_score()
 
     if attention_reading < 0.5:
-        motivation_metric = motivation_metric - score*0.1
-        attention_display="distracted"
+        motivation_metric = motivation_metric - score*0.01
+        attention_display="Distracted"
     if attention_reading > 0.5:
-        motivation_metric = motivation_metric + score * 0.1
-        attention_display = "focused"
+        motivation_metric = motivation_metric + score * 0.01
+        attention_display = "Focused"
 
     if motivation_metric > 1:
         motivation_metric = 1
@@ -142,29 +142,40 @@ for seconds in range(35):
 
     text_placeholder.text(f"Current number of words on screen: {text_reading}")
     attention_placeholder.text(f"Current user state: {attention_display}")
-    motivation_placeholder.text(f"Current motivation metric: {motivation_metric}")
+    motivation_placeholder.text(f"Current motivation metric: {round(motivation_metric,2)}")
     desired_lyricalness_placeholder.text(
-        f"Desired lyricalness: {round(desired_lyricalness,4)}"
+        f"Desired lyricalness: {round(desired_lyricalness,2)}"
     )
 
     desired_bpm_placeholder.text(
-        f"Desired bpm: {round(desired_bpm,4)}"
+        f"Desired bpm: {round(desired_bpm,2)}"
     )
+
+    BPM_weighting = 0.45775001
+    lyrical_weighting = 0.54224999
+
+    # weightings are assigned using feature importance from the random forest code
+    summative = [
+        round((BPM_weighting * bpm) + (lyrical_weighting * lyric),2)
+        for bpm, lyric in zip(bpm_differences, lyricalness_differences)
+    ]
 
     dict = {
         "titles": tracks,
         "artists": artists,
         "lyricalness": lyricalness,
         "bpm": bpm,
-        "lyrical diff": lyricalness_differences,
-        "bpm diff": bpm_differences
+        "norm lyrical diff": lyricalness_differences,
+        "norm bpm diff": bpm_differences,
+        "norm summary diff": summative
     }
 
     df = pd.DataFrame.from_dict(dict)
-    sorted_df = df.sort_values(by="bpm diff")
+    sorted_df = df.sort_values(by="norm summary diff")
 
     table_placeholder.table(sorted_df)
 
-    # recommendation_placeholder.text(f"Next recommended song: {df["titles"][0]}")
+
+    # recommendation_placeholder.text(f"Next recommended song: {sorted_df['titles'][0]}")
 
     time.sleep(1)
