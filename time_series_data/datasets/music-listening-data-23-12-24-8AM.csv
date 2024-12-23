@@ -1,0 +1,1187 @@
+id,timestamp,attention-class,class-score,model-version,track-title,track-id,artist,text-reading
+1,2024-12-22 16:29:33.938818+00,DISTRACTED,0.866439,attention-detection-v4,Love is Heartbreak,7FyDi2JX5dyXfcN0Kepey7,Cousin Tony's Brand New Firebird,483
+2,2024-12-22 16:29:41.293985+00,DISTRACTED,0.876667,attention-detection-v4,Love is Heartbreak,7FyDi2JX5dyXfcN0Kepey7,Cousin Tony's Brand New Firebird,407
+3,2024-12-22 16:29:45.302946+00,FOCUSED,0.975039,attention-detection-v4,Love is Heartbreak,7FyDi2JX5dyXfcN0Kepey7,Cousin Tony's Brand New Firebird,107
+4,2024-12-22 16:29:48.667685+00,FOCUSED,0.961814,attention-detection-v4,Love is Heartbreak,7FyDi2JX5dyXfcN0Kepey7,Cousin Tony's Brand New Firebird,196
+5,2024-12-22 16:29:51.933117+00,FOCUSED,0.962477,attention-detection-v4,Love is Heartbreak,7FyDi2JX5dyXfcN0Kepey7,Cousin Tony's Brand New Firebird,195
+6,2024-12-22 16:29:55.179025+00,FOCUSED,0.975081,attention-detection-v4,Love is Heartbreak,7FyDi2JX5dyXfcN0Kepey7,Cousin Tony's Brand New Firebird,195
+7,2024-12-22 16:29:58.554082+00,FOCUSED,0.860349,attention-detection-v4,Love is Heartbreak,7FyDi2JX5dyXfcN0Kepey7,Cousin Tony's Brand New Firebird,194
+8,2024-12-22 16:39:33.582857+00,DISTRACTED,0.955939,attention-detection-v4,Thought We Were Falling In Love,4lk4ha5k2A4ehZ66f8QQc1,Vona Vella,414
+9,2024-12-22 16:40:29.602397+00,DISTRACTED,0.474543,attention-detection-v4,Thought We Were Falling In Love,4lk4ha5k2A4ehZ66f8QQc1,Vona Vella,467
+10,2024-12-22 16:40:54.266167+00,DISTRACTED,0.95757,attention-detection-v4,Garden of the Sun,2h8wwH2bfuxPXPKgJVJv7A,ØZWALD,467
+11,2024-12-22 16:41:13.590865+00,FOCUSED,0.370927,attention-detection-v4,Garden of the Sun,2h8wwH2bfuxPXPKgJVJv7A,ØZWALD,232
+12,2024-12-22 16:41:33.168576+00,FOCUSED,0.942722,attention-detection-v4,Garden of the Sun,2h8wwH2bfuxPXPKgJVJv7A,ØZWALD,343
+13,2024-12-22 16:41:52.722067+00,FOCUSED,0.942965,attention-detection-v4,Garden of the Sun,2h8wwH2bfuxPXPKgJVJv7A,ØZWALD,242
+14,2024-12-22 16:42:11.770351+00,FOCUSED,0.932965,attention-detection-v4,Garden of the Sun,2h8wwH2bfuxPXPKgJVJv7A,ØZWALD,345
+15,2024-12-22 16:42:30.794717+00,FOCUSED,0.558331,attention-detection-v4,Garden of the Sun,2h8wwH2bfuxPXPKgJVJv7A,ØZWALD,356
+16,2024-12-22 16:42:49.952646+00,FOCUSED,0.259941,attention-detection-v4,Garden of the Sun,2h8wwH2bfuxPXPKgJVJv7A,ØZWALD,408
+17,2024-12-22 16:43:09.578019+00,DISTRACTED,0.717845,attention-detection-v4,Garden of the Sun,2h8wwH2bfuxPXPKgJVJv7A,ØZWALD,264
+18,2024-12-22 16:43:31.446431+00,DISTRACTED,0.894323,attention-detection-v4,better.,0NVBxuoHIYWqzbGh6a7a4F,Grand Lotus,439
+19,2024-12-22 16:43:51.022079+00,DISTRACTED,0.44118,attention-detection-v4,better.,0NVBxuoHIYWqzbGh6a7a4F,Grand Lotus,420
+20,2024-12-22 16:44:09.928801+00,DISTRACTED,0.821309,attention-detection-v4,better.,0NVBxuoHIYWqzbGh6a7a4F,Grand Lotus,322
+21,2024-12-22 16:44:31.799983+00,FOCUSED,0.951277,attention-detection-v4,better.,0NVBxuoHIYWqzbGh6a7a4F,Grand Lotus,389
+22,2024-12-22 16:44:54.074508+00,DISTRACTED,0.8997,attention-detection-v4,better.,0NVBxuoHIYWqzbGh6a7a4F,Grand Lotus,405
+23,2024-12-22 16:45:17.532858+00,DISTRACTED,0.38133,attention-detection-v4,better.,0NVBxuoHIYWqzbGh6a7a4F,Grand Lotus,432
+24,2024-12-22 16:45:40.166993+00,FOCUSED,0.969586,attention-detection-v4,better.,0NVBxuoHIYWqzbGh6a7a4F,Grand Lotus,383
+25,2024-12-22 16:46:01.4545+00,DISTRACTED,0.445805,attention-detection-v4,better.,0NVBxuoHIYWqzbGh6a7a4F,Grand Lotus,135
+26,2024-12-22 16:46:22.078561+00,FOCUSED,0.981195,attention-detection-v4,I'LL DO ANYTHING,1sajCkdwM6A7lcyf9LMANH,Comfort Royale,453
+27,2024-12-22 16:46:43.717462+00,DISTRACTED,0.530287,attention-detection-v4,I'LL DO ANYTHING,1sajCkdwM6A7lcyf9LMANH,Comfort Royale,409
+28,2024-12-22 16:47:05.273506+00,DISTRACTED,0.757748,attention-detection-v4,I'LL DO ANYTHING,1sajCkdwM6A7lcyf9LMANH,Comfort Royale,452
+29,2024-12-22 16:47:28.054532+00,DISTRACTED,0.503542,attention-detection-v4,I'LL DO ANYTHING,1sajCkdwM6A7lcyf9LMANH,Comfort Royale,416
+30,2024-12-22 16:47:48.607713+00,FOCUSED,0.927747,attention-detection-v4,I'LL DO ANYTHING,1sajCkdwM6A7lcyf9LMANH,Comfort Royale,366
+31,2024-12-22 16:48:09.938713+00,DISTRACTED,0.436082,attention-detection-v4,I'LL DO ANYTHING,1sajCkdwM6A7lcyf9LMANH,Comfort Royale,453
+32,2024-12-22 16:48:36.164162+00,FOCUSED,0.533562,attention-detection-v4,I'LL DO ANYTHING,1sajCkdwM6A7lcyf9LMANH,Comfort Royale,419
+33,2024-12-22 16:48:58.479185+00,FOCUSED,0.259701,attention-detection-v4,I'LL DO ANYTHING,1sajCkdwM6A7lcyf9LMANH,Comfort Royale,451
+34,2024-12-22 16:49:19.8619+00,FOCUSED,0.605617,attention-detection-v4,I'LL DO ANYTHING,1sajCkdwM6A7lcyf9LMANH,Comfort Royale,457
+35,2024-12-22 16:49:45.608658+00,DISTRACTED,0.877776,attention-detection-v4,Motels,1V888fh2JLVzMElr1pEz6Z,Royel Otis,428
+36,2024-12-22 16:50:05.526353+00,FOCUSED,0.902824,attention-detection-v4,Motels,1V888fh2JLVzMElr1pEz6Z,Royel Otis,410
+37,2024-12-22 16:50:26.596384+00,FOCUSED,0.485894,attention-detection-v4,Motels,1V888fh2JLVzMElr1pEz6Z,Royel Otis,398
+38,2024-12-22 16:50:49.152963+00,FOCUSED,0.606684,attention-detection-v4,Hard Times for Heatherhead,5GBmMMDkAwEByKd3SaGkaI,Generationals,386
+39,2024-12-22 16:51:09.411467+00,FOCUSED,0.357592,attention-detection-v4,Mean Streets,54V878sm3KwMjfF4QreX8i,Tennis,447
+40,2024-12-22 16:51:31.48493+00,FOCUSED,0.861003,attention-detection-v4,Mean Streets,54V878sm3KwMjfF4QreX8i,Tennis,608
+41,2024-12-22 16:51:52.995006+00,FOCUSED,0.897062,attention-detection-v4,Mean Streets,54V878sm3KwMjfF4QreX8i,Tennis,549
+42,2024-12-22 16:52:14.956606+00,DISTRACTED,0.414277,attention-detection-v4,Mean Streets,54V878sm3KwMjfF4QreX8i,Tennis,525
+43,2024-12-22 16:52:34.09859+00,FOCUSED,0.841351,attention-detection-v4,Mean Streets,54V878sm3KwMjfF4QreX8i,Tennis,294
+44,2024-12-22 16:52:53.084063+00,FOCUSED,0.885529,attention-detection-v4,Mean Streets,54V878sm3KwMjfF4QreX8i,Tennis,294
+45,2024-12-22 16:53:12.099936+00,DISTRACTED,0.639496,attention-detection-v4,Mean Streets,54V878sm3KwMjfF4QreX8i,Tennis,294
+46,2024-12-22 16:53:30.610662+00,FOCUSED,0.265551,attention-detection-v4,Mean Streets,54V878sm3KwMjfF4QreX8i,Tennis,181
+47,2024-12-22 16:53:49.736861+00,DISTRACTED,0.899355,attention-detection-v4,Mean Streets,54V878sm3KwMjfF4QreX8i,Tennis,299
+48,2024-12-22 16:54:09.882627+00,DISTRACTED,0.916157,attention-detection-v4,Mean Streets,54V878sm3KwMjfF4QreX8i,Tennis,471
+49,2024-12-22 16:54:29.759237+00,DISTRACTED,0.968766,attention-detection-v4,How Many Times Have You Driven By,2rHTuNxXq1Cj4JxV68AQKn,Hana Vu,393
+50,2024-12-22 17:02:01.655268+00,FOCUSED,0.530444,attention-detection-v4,How Many Times Have You Driven By,2rHTuNxXq1Cj4JxV68AQKn,Hana Vu,474
+51,2024-12-22 17:04:04.909375+00,DISTRACTED,0.274709,attention-detection-v4,What Was Mine,5VDUZPWstPQAyJitGzJRfr,Sarah Kinsley,433
+52,2024-12-22 17:06:22.42911+00,DISTRACTED,0.940573,attention-detection-v4,Slugger,3NMXHkEhxF2ijm2KC0wHKU,SASAMI,536
+53,2024-12-22 17:06:43.036123+00,DISTRACTED,0.830731,attention-detection-v4,Slugger,3NMXHkEhxF2ijm2KC0wHKU,SASAMI,445
+54,2024-12-22 17:07:02.944268+00,FOCUSED,0.868342,attention-detection-v4,Slugger,3NMXHkEhxF2ijm2KC0wHKU,SASAMI,445
+55,2024-12-22 17:10:36.218648+00,DISTRACTED,0.277065,attention-detection-v4,Mystic,6TlLrSESZ4kbI6SoMTnpLu,Evangeline,478
+56,2024-12-22 17:10:57.340728+00,DISTRACTED,0.955612,attention-detection-v4,Mystic,6TlLrSESZ4kbI6SoMTnpLu,Evangeline,391
+57,2024-12-22 17:11:18.424004+00,DISTRACTED,0.932118,attention-detection-v4,Everyone Adores You (at least I do),6klFWv2xDGeTDoiKTtx4hg,Matt Maltese,363
+58,2024-12-22 17:11:38.895604+00,DISTRACTED,0.784281,attention-detection-v4,Everyone Adores You (at least I do),6klFWv2xDGeTDoiKTtx4hg,Matt Maltese,381
+59,2024-12-22 17:11:59.574645+00,DISTRACTED,0.868009,attention-detection-v4,Everyone Adores You (at least I do),6klFWv2xDGeTDoiKTtx4hg,Matt Maltese,476
+60,2024-12-22 17:18:26.62422+00,DISTRACTED,0.755834,attention-detection-v4,Witching Hour,1cMVq9Rz37ZD1736pFbdLm,TOPS,582
+61,2024-12-22 17:18:52.926588+00,DISTRACTED,0.806448,attention-detection-v4,Witching Hour,1cMVq9Rz37ZD1736pFbdLm,TOPS,600
+62,2024-12-22 17:19:16.812115+00,FOCUSED,0.269209,attention-detection-v4,Witching Hour,1cMVq9Rz37ZD1736pFbdLm,TOPS,632
+63,2024-12-22 17:19:38.847771+00,DISTRACTED,0.843723,attention-detection-v4,Witching Hour,1cMVq9Rz37ZD1736pFbdLm,TOPS,549
+64,2024-12-22 17:20:00.027178+00,DISTRACTED,0.498956,attention-detection-v4,Witching Hour,1cMVq9Rz37ZD1736pFbdLm,TOPS,434
+65,2024-12-22 17:20:20.52534+00,DISTRACTED,0.41001,attention-detection-v4,Witching Hour,1cMVq9Rz37ZD1736pFbdLm,TOPS,447
+66,2024-12-22 17:20:42.253306+00,DISTRACTED,0.432538,attention-detection-v4,Witching Hour,1cMVq9Rz37ZD1736pFbdLm,TOPS,522
+67,2024-12-22 17:21:02.667152+00,DISTRACTED,0.322103,attention-detection-v4,Witching Hour,1cMVq9Rz37ZD1736pFbdLm,TOPS,371
+68,2024-12-22 17:21:21.332895+00,DISTRACTED,0.670264,attention-detection-v4,The Hustle,10OsWuM32gBoBRgQu1K2Y6,Kiltro,201
+69,2024-12-22 17:21:40.087825+00,DISTRACTED,0.634575,attention-detection-v4,The Hustle,10OsWuM32gBoBRgQu1K2Y6,Kiltro,277
+70,2024-12-22 17:22:01.52834+00,DISTRACTED,0.816568,attention-detection-v4,The Hustle,10OsWuM32gBoBRgQu1K2Y6,Kiltro,84
+71,2024-12-22 17:22:23.97442+00,DISTRACTED,0.953843,attention-detection-v4,The Hustle,10OsWuM32gBoBRgQu1K2Y6,Kiltro,507
+72,2024-12-22 17:22:44.821995+00,DISTRACTED,0.883105,attention-detection-v4,The Hustle,10OsWuM32gBoBRgQu1K2Y6,Kiltro,442
+73,2024-12-22 17:23:05.593651+00,DISTRACTED,0.929905,attention-detection-v4,The Hustle,10OsWuM32gBoBRgQu1K2Y6,Kiltro,393
+74,2024-12-22 17:23:25.362516+00,DISTRACTED,0.944486,attention-detection-v4,The Hustle,10OsWuM32gBoBRgQu1K2Y6,Kiltro,359
+75,2024-12-22 17:23:47.177786+00,DISTRACTED,0.419633,attention-detection-v4,The Hustle,10OsWuM32gBoBRgQu1K2Y6,Kiltro,323
+76,2024-12-22 17:24:10.295047+00,FOCUSED,0.816193,attention-detection-v4,The Hustle,10OsWuM32gBoBRgQu1K2Y6,Kiltro,373
+77,2024-12-22 17:49:17.56612+00,FOCUSED,0.933641,attention-detection-v4,Baby Don't Believe,5V8dnqWZGWoupijDAvgzb2,Tennis,331
+78,2024-12-22 17:49:37.378347+00,FOCUSED,0.947787,attention-detection-v4,Timothy,1frO9VEa4tMHmPsQotkmBA,Tennis,318
+79,2024-12-22 17:49:58.598959+00,FOCUSED,0.943466,attention-detection-v4,Timothy,1frO9VEa4tMHmPsQotkmBA,Tennis,58
+80,2024-12-22 17:50:19.805658+00,FOCUSED,0.895656,attention-detection-v4,Timothy,1frO9VEa4tMHmPsQotkmBA,Tennis,306
+81,2024-12-22 17:50:45.010849+00,FOCUSED,0.924569,attention-detection-v4,Timothy,1frO9VEa4tMHmPsQotkmBA,Tennis,387
+82,2024-12-22 17:51:05.293877+00,FOCUSED,0.90862,attention-detection-v4,The Bend,63pCUZDXRI4Tu6zhj8O4e2,King Princess,296
+83,2024-12-22 17:51:24.130882+00,FOCUSED,0.842219,attention-detection-v4,The Bend,63pCUZDXRI4Tu6zhj8O4e2,King Princess,282
+84,2024-12-22 17:51:44.594753+00,FOCUSED,0.901311,attention-detection-v4,The Bend,63pCUZDXRI4Tu6zhj8O4e2,King Princess,387
+85,2024-12-22 17:52:09.021393+00,FOCUSED,0.916148,attention-detection-v4,What Was Mine,5VDUZPWstPQAyJitGzJRfr,Sarah Kinsley,330
+86,2024-12-22 17:52:27.697375+00,FOCUSED,0.926784,attention-detection-v4,What Was Mine,5VDUZPWstPQAyJitGzJRfr,Sarah Kinsley,203
+87,2024-12-22 17:52:46.588955+00,FOCUSED,0.935768,attention-detection-v4,What Was Mine,5VDUZPWstPQAyJitGzJRfr,Sarah Kinsley,283
+88,2024-12-22 17:53:05.74137+00,FOCUSED,0.946387,attention-detection-v4,What Was Mine,5VDUZPWstPQAyJitGzJRfr,Sarah Kinsley,289
+89,2024-12-22 17:53:27.655365+00,DISTRACTED,0.30162,attention-detection-v4,What Was Mine,5VDUZPWstPQAyJitGzJRfr,Sarah Kinsley,307
+90,2024-12-22 17:53:45.643154+00,FOCUSED,0.931356,attention-detection-v4,What Was Mine,5VDUZPWstPQAyJitGzJRfr,Sarah Kinsley,139
+91,2024-12-22 17:54:03.823005+00,FOCUSED,0.871708,attention-detection-v4,What Was Mine,5VDUZPWstPQAyJitGzJRfr,Sarah Kinsley,179
+92,2024-12-22 17:54:25.945852+00,FOCUSED,0.951188,attention-detection-v4,What Was Mine,5VDUZPWstPQAyJitGzJRfr,Sarah Kinsley,824
+93,2024-12-22 17:55:03.469541+00,DISTRACTED,0.959181,attention-detection-v5,What Was Mine,5VDUZPWstPQAyJitGzJRfr,Sarah Kinsley,363
+94,2024-12-22 17:55:22.53155+00,FOCUSED,0.919918,attention-detection-v5,Smile For The Camera,1LmNzbOQTfzP1a5TSFMYbg,Etta Marcus,307
+95,2024-12-22 17:55:41.498731+00,DISTRACTED,0.917186,attention-detection-v5,Smile For The Camera,1LmNzbOQTfzP1a5TSFMYbg,Etta Marcus,92
+96,2024-12-22 17:56:00.746994+00,DISTRACTED,0.918452,attention-detection-v5,Smile For The Camera,1LmNzbOQTfzP1a5TSFMYbg,Etta Marcus,407
+97,2024-12-22 17:56:19.010777+00,DISTRACTED,0.945479,attention-detection-v5,Smile For The Camera,1LmNzbOQTfzP1a5TSFMYbg,Etta Marcus,86
+98,2024-12-22 17:56:39.941027+00,DISTRACTED,0.952602,attention-detection-v5,Smile For The Camera,1LmNzbOQTfzP1a5TSFMYbg,Etta Marcus,374
+99,2024-12-22 17:57:00.336743+00,FOCUSED,0.936977,attention-detection-v5,Smile For The Camera,1LmNzbOQTfzP1a5TSFMYbg,Etta Marcus,416
+100,2024-12-22 17:57:21.708333+00,DISTRACTED,0.962066,attention-detection-v5,Smile For The Camera,1LmNzbOQTfzP1a5TSFMYbg,Etta Marcus,302
+101,2024-12-22 17:57:43.791908+00,DISTRACTED,0.956821,attention-detection-v5,Smile For The Camera,1LmNzbOQTfzP1a5TSFMYbg,Etta Marcus,380
+102,2024-12-22 17:58:05.320015+00,DISTRACTED,0.955377,attention-detection-v5,Smile For The Camera,1LmNzbOQTfzP1a5TSFMYbg,Etta Marcus,297
+103,2024-12-22 17:58:27.052052+00,DISTRACTED,0.951018,attention-detection-v5,Smile For The Camera,1LmNzbOQTfzP1a5TSFMYbg,Etta Marcus,378
+104,2024-12-22 17:58:46.271777+00,DISTRACTED,0.950424,attention-detection-v5,Heels To The Moon,4OCrsxQXP6efb7M4413DTn,Gengahr,172
+105,2024-12-22 17:59:07.14082+00,DISTRACTED,0.95502,attention-detection-v5,Heels To The Moon,4OCrsxQXP6efb7M4413DTn,Gengahr,322
+106,2024-12-22 17:59:27.243512+00,DISTRACTED,0.955712,attention-detection-v5,I Know The End,0pJW1Xw3aY4Eh6k5iuBkfI,Phoebe Bridgers,285
+107,2024-12-22 17:59:48.350651+00,FOCUSED,0.4913,attention-detection-v5,I Know The End,0pJW1Xw3aY4Eh6k5iuBkfI,Phoebe Bridgers,433
+108,2024-12-22 19:13:12.908344+00,DISTRACTED,0.958505,attention-detection-v5,CooCool,77v3whD60OC0g4RePlHDhT,"Róisín Murphy, DJ Koze",442
+109,2024-12-22 19:13:32.060043+00,FOCUSED,0.941714,attention-detection-v5,CooCool,77v3whD60OC0g4RePlHDhT,"Róisín Murphy, DJ Koze",303
+110,2024-12-22 19:13:52.107493+00,DISTRACTED,0.864037,attention-detection-v5,CooCool,77v3whD60OC0g4RePlHDhT,"Róisín Murphy, DJ Koze",180
+111,2024-12-22 19:14:11.11654+00,FOCUSED,0.958923,attention-detection-v5,CooCool,77v3whD60OC0g4RePlHDhT,"Róisín Murphy, DJ Koze",239
+112,2024-12-22 19:14:29.838637+00,FOCUSED,0.908417,attention-detection-v5,CooCool,77v3whD60OC0g4RePlHDhT,"Róisín Murphy, DJ Koze",52
+113,2024-12-22 19:14:47.67645+00,FOCUSED,0.33487,attention-detection-v5,CooCool,77v3whD60OC0g4RePlHDhT,"Róisín Murphy, DJ Koze",126
+114,2024-12-22 19:15:08.462601+00,DISTRACTED,0.952807,attention-detection-v5,CooCool,77v3whD60OC0g4RePlHDhT,"Róisín Murphy, DJ Koze",369
+115,2024-12-22 19:15:27.311668+00,FOCUSED,0.895474,attention-detection-v5,CooCool,77v3whD60OC0g4RePlHDhT,"Róisín Murphy, DJ Koze",225
+116,2024-12-22 19:15:45.878163+00,FOCUSED,0.734842,attention-detection-v5,CooCool,77v3whD60OC0g4RePlHDhT,"Róisín Murphy, DJ Koze",224
+117,2024-12-22 19:16:10.432865+00,DISTRACTED,0.924558,attention-detection-v5,CooCool,77v3whD60OC0g4RePlHDhT,"Róisín Murphy, DJ Koze",348
+118,2024-12-22 19:16:30.433114+00,DISTRACTED,0.963985,attention-detection-v5,Life in a Bubble I Blew - bonus track,2gcqVTesDy08DOB2rV2Odt,Joywave,405
+119,2024-12-22 19:16:50.360989+00,DISTRACTED,0.967506,attention-detection-v5,Life in a Bubble I Blew - bonus track,2gcqVTesDy08DOB2rV2Odt,Joywave,270
+120,2024-12-22 19:17:10.48942+00,DISTRACTED,0.967271,attention-detection-v5,Life in a Bubble I Blew - bonus track,2gcqVTesDy08DOB2rV2Odt,Joywave,373
+121,2024-12-22 19:17:30.856916+00,DISTRACTED,0.956694,attention-detection-v5,Life in a Bubble I Blew - bonus track,2gcqVTesDy08DOB2rV2Odt,Joywave,400
+122,2024-12-22 19:17:54.432989+00,FOCUSED,0.871829,attention-detection-v5,Life in a Bubble I Blew - bonus track,2gcqVTesDy08DOB2rV2Odt,Joywave,408
+123,2024-12-22 19:18:14.413164+00,DISTRACTED,0.934649,attention-detection-v5,Life in a Bubble I Blew - bonus track,2gcqVTesDy08DOB2rV2Odt,Joywave,361
+124,2024-12-22 19:18:32.243239+00,DISTRACTED,0.959169,attention-detection-v5,Life in a Bubble I Blew - bonus track,2gcqVTesDy08DOB2rV2Odt,Joywave,82
+125,2024-12-22 19:18:50.767123+00,DISTRACTED,0.947784,attention-detection-v5,Life in a Bubble I Blew - bonus track,2gcqVTesDy08DOB2rV2Odt,Joywave,309
+126,2024-12-22 19:19:16.988223+00,DISTRACTED,0.957932,attention-detection-v5,Life in a Bubble I Blew - bonus track,2gcqVTesDy08DOB2rV2Odt,Joywave,416
+127,2024-12-22 19:19:36.030357+00,DISTRACTED,0.857762,attention-detection-v5,Life in a Bubble I Blew - bonus track,2gcqVTesDy08DOB2rV2Odt,Joywave,356
+128,2024-12-22 19:19:54.931811+00,DISTRACTED,0.277354,attention-detection-v5,Life in a Bubble I Blew - bonus track,2gcqVTesDy08DOB2rV2Odt,Joywave,357
+129,2024-12-22 19:20:13.352207+00,DISTRACTED,0.878915,attention-detection-v5,This Is What They Meant,7wY9u68tXVIdxqI5XOwKNw,Biig Piig,232
+130,2024-12-22 19:20:34.350401+00,FOCUSED,0.481193,attention-detection-v5,This Is What They Meant,7wY9u68tXVIdxqI5XOwKNw,Biig Piig,424
+131,2024-12-22 19:20:52.907523+00,DISTRACTED,0.956335,attention-detection-v5,This Is What They Meant,7wY9u68tXVIdxqI5XOwKNw,Biig Piig,259
+132,2024-12-22 19:21:11.918927+00,DISTRACTED,0.935236,attention-detection-v5,This Is What They Meant,7wY9u68tXVIdxqI5XOwKNw,Biig Piig,208
+133,2024-12-22 19:21:31.004682+00,FOCUSED,0.429342,attention-detection-v5,This Is What They Meant,7wY9u68tXVIdxqI5XOwKNw,Biig Piig,191
+134,2024-12-22 19:21:51.852504+00,DISTRACTED,0.96582,attention-detection-v5,This Is What They Meant,7wY9u68tXVIdxqI5XOwKNw,Biig Piig,437
+135,2024-12-22 19:22:09.63895+00,DISTRACTED,0.950552,attention-detection-v5,This Is What They Meant,7wY9u68tXVIdxqI5XOwKNw,Biig Piig,112
+136,2024-12-22 19:22:28.346076+00,DISTRACTED,0.908034,attention-detection-v5,This Is What They Meant,7wY9u68tXVIdxqI5XOwKNw,Biig Piig,274
+137,2024-12-22 19:22:49.219839+00,DISTRACTED,0.956745,attention-detection-v5,This Is What They Meant,7wY9u68tXVIdxqI5XOwKNw,Biig Piig,449
+138,2024-12-22 19:23:07.04025+00,FOCUSED,0.288105,attention-detection-v5,Independent,16SZlXoSajCVw0khCrVclN,Salt-N-Pepa,77
+139,2024-12-22 19:23:27.986081+00,DISTRACTED,0.956332,attention-detection-v5,Independent,16SZlXoSajCVw0khCrVclN,Salt-N-Pepa,441
+140,2024-12-22 19:23:45.947115+00,DISTRACTED,0.959518,attention-detection-v5,Independent,16SZlXoSajCVw0khCrVclN,Salt-N-Pepa,127
+141,2024-12-22 19:24:04.835542+00,FOCUSED,0.910002,attention-detection-v5,Independent,16SZlXoSajCVw0khCrVclN,Salt-N-Pepa,276
+142,2024-12-22 19:24:23.324107+00,DISTRACTED,0.919073,attention-detection-v5,Independent,16SZlXoSajCVw0khCrVclN,Salt-N-Pepa,211
+143,2024-12-22 19:24:41.863674+00,DISTRACTED,0.912043,attention-detection-v5,Independent,16SZlXoSajCVw0khCrVclN,Salt-N-Pepa,164
+144,2024-12-22 19:25:02.882409+00,DISTRACTED,0.868625,attention-detection-v5,Independent,16SZlXoSajCVw0khCrVclN,Salt-N-Pepa,329
+145,2024-12-22 19:25:23.866822+00,FOCUSED,0.50839,attention-detection-v5,Independent,16SZlXoSajCVw0khCrVclN,Salt-N-Pepa,390
+146,2024-12-22 19:25:45.112992+00,DISTRACTED,0.961579,attention-detection-v5,Independent,16SZlXoSajCVw0khCrVclN,Salt-N-Pepa,404
+147,2024-12-22 19:26:03.108727+00,DISTRACTED,0.948668,attention-detection-v5,Independent,16SZlXoSajCVw0khCrVclN,Salt-N-Pepa,80
+148,2024-12-22 19:26:21.080556+00,FOCUSED,0.780437,attention-detection-v5,Independent,16SZlXoSajCVw0khCrVclN,Salt-N-Pepa,77
+149,2024-12-22 19:26:39.849755+00,DISTRACTED,0.800561,attention-detection-v5,Independent,16SZlXoSajCVw0khCrVclN,Salt-N-Pepa,252
+150,2024-12-22 19:27:05.668457+00,DISTRACTED,0.405442,attention-detection-v5,Independent,16SZlXoSajCVw0khCrVclN,Salt-N-Pepa,484
+151,2024-12-22 19:27:24.444914+00,DISTRACTED,0.918694,attention-detection-v5,Independent,16SZlXoSajCVw0khCrVclN,Salt-N-Pepa,241
+152,2024-12-22 19:27:45.240092+00,DISTRACTED,0.559917,attention-detection-v5,Elephant in the Room,5RUtFf3sz3gTRr8TGDRbHg,Kynsy,331
+153,2024-12-22 19:36:02.243613+00,DISTRACTED,0.951506,attention-detection-v5,Bad Habit,5CM4UuQ9Gnd6K2YyKGPMoK,Steve Lacy,425
+154,2024-12-22 19:36:25.230938+00,FOCUSED,0.93201,attention-detection-v5,Bad Habit,5CM4UuQ9Gnd6K2YyKGPMoK,Steve Lacy,490
+155,2024-12-22 19:36:51.696901+00,DISTRACTED,0.953704,attention-detection-v5,Bad Habit,5CM4UuQ9Gnd6K2YyKGPMoK,Steve Lacy,457
+156,2024-12-22 19:37:11.968831+00,FOCUSED,0.942176,attention-detection-v5,Bad Habit,5CM4UuQ9Gnd6K2YyKGPMoK,Steve Lacy,352
+157,2024-12-22 19:37:32.662884+00,DISTRACTED,0.662435,attention-detection-v5,Bad Habit,5CM4UuQ9Gnd6K2YyKGPMoK,Steve Lacy,347
+158,2024-12-22 19:37:52.471644+00,FOCUSED,0.904628,attention-detection-v5,Bad Habit,5CM4UuQ9Gnd6K2YyKGPMoK,Steve Lacy,305
+159,2024-12-22 19:38:12.308266+00,FOCUSED,0.865674,attention-detection-v5,Bad Habit,5CM4UuQ9Gnd6K2YyKGPMoK,Steve Lacy,315
+160,2024-12-22 19:38:32.251055+00,DISTRACTED,0.95433,attention-detection-v5,Bad Habit,5CM4UuQ9Gnd6K2YyKGPMoK,Steve Lacy,317
+161,2024-12-22 19:38:52.30665+00,DISTRACTED,0.961924,attention-detection-v5,Bad Habit,5CM4UuQ9Gnd6K2YyKGPMoK,Steve Lacy,328
+162,2024-12-22 19:39:14.173212+00,DISTRACTED,0.965128,attention-detection-v5,Bad Habit,5CM4UuQ9Gnd6K2YyKGPMoK,Steve Lacy,341
+163,2024-12-22 19:39:34.505032+00,DISTRACTED,0.958496,attention-detection-v5,Bad Habit,5CM4UuQ9Gnd6K2YyKGPMoK,Steve Lacy,330
+164,2024-12-22 19:39:56.776705+00,DISTRACTED,0.678286,attention-detection-v5,Always,77eb7DGxwuA3ID69HQeDsE,The Snuts,369
+165,2024-12-22 19:40:18.02475+00,DISTRACTED,0.839735,attention-detection-v5,Always,77eb7DGxwuA3ID69HQeDsE,The Snuts,380
+166,2024-12-22 19:40:39.81616+00,DISTRACTED,0.890514,attention-detection-v5,Always,77eb7DGxwuA3ID69HQeDsE,The Snuts,383
+167,2024-12-22 19:41:11.464643+00,DISTRACTED,0.858946,attention-detection-v5,Always,77eb7DGxwuA3ID69HQeDsE,The Snuts,369
+168,2024-12-22 19:41:39.719397+00,FOCUSED,0.893029,attention-detection-v5,Always,77eb7DGxwuA3ID69HQeDsE,The Snuts,456
+169,2024-12-22 19:42:01.487418+00,FOCUSED,0.796413,attention-detection-v5,Always,77eb7DGxwuA3ID69HQeDsE,The Snuts,362
+170,2024-12-22 19:42:21.594568+00,DISTRACTED,0.914462,attention-detection-v5,Always,77eb7DGxwuA3ID69HQeDsE,The Snuts,327
+171,2024-12-22 19:42:42.078788+00,DISTRACTED,0.968777,attention-detection-v5,Always,77eb7DGxwuA3ID69HQeDsE,The Snuts,377
+172,2024-12-22 19:43:02.328571+00,FOCUSED,0.9142,attention-detection-v5,Always,77eb7DGxwuA3ID69HQeDsE,The Snuts,338
+173,2024-12-22 19:43:22.647942+00,DISTRACTED,0.959135,attention-detection-v5,Baby Don't Cry,3p5G8RBBJ8uH7nQX48Nk4P,Sunflower Bean,353
+174,2024-12-22 19:43:41.93327+00,DISTRACTED,0.963562,attention-detection-v5,Baby Don't Cry,3p5G8RBBJ8uH7nQX48Nk4P,Sunflower Bean,181
+175,2024-12-22 19:44:00.620398+00,FOCUSED,0.936489,attention-detection-v5,Baby Don't Cry,3p5G8RBBJ8uH7nQX48Nk4P,Sunflower Bean,190
+176,2024-12-22 19:44:20.70562+00,DISTRACTED,0.90099,attention-detection-v5,Baby Don't Cry,3p5G8RBBJ8uH7nQX48Nk4P,Sunflower Bean,352
+177,2024-12-22 19:44:45.926924+00,DISTRACTED,0.908584,attention-detection-v5,Baby Don't Cry,3p5G8RBBJ8uH7nQX48Nk4P,Sunflower Bean,332
+178,2024-12-22 19:45:08.642085+00,DISTRACTED,0.835926,attention-detection-v5,Baby Don't Cry,3p5G8RBBJ8uH7nQX48Nk4P,Sunflower Bean,321
+179,2024-12-22 19:45:29.009889+00,DISTRACTED,0.95918,attention-detection-v5,Baby Don't Cry,3p5G8RBBJ8uH7nQX48Nk4P,Sunflower Bean,339
+180,2024-12-22 19:45:51.775378+00,DISTRACTED,0.868633,attention-detection-v5,Baby Don't Cry,3p5G8RBBJ8uH7nQX48Nk4P,Sunflower Bean,332
+181,2024-12-22 19:48:04.856159+00,DISTRACTED,0.961749,attention-detection-v5,Future Starts Slow,0A0RBBTrgfq9eClnw6ZXT7,The Kills,555
+182,2024-12-22 19:48:25.10885+00,DISTRACTED,0.956176,attention-detection-v5,Future Starts Slow,0A0RBBTrgfq9eClnw6ZXT7,The Kills,296
+183,2024-12-22 19:48:45.601179+00,DISTRACTED,0.962616,attention-detection-v5,Future Starts Slow,0A0RBBTrgfq9eClnw6ZXT7,The Kills,298
+184,2024-12-22 19:49:08.690744+00,DISTRACTED,0.964748,attention-detection-v5,Future Starts Slow,0A0RBBTrgfq9eClnw6ZXT7,The Kills,472
+185,2024-12-22 19:49:33.55086+00,DISTRACTED,0.962268,attention-detection-v5,Train in Vain (Stand by Me) - Remastered,6ITuEsxEy2qPhqMowdDAeI,The Clash,452
+186,2024-12-22 19:49:53.479511+00,DISTRACTED,0.962107,attention-detection-v5,Train in Vain (Stand by Me) - Remastered,6ITuEsxEy2qPhqMowdDAeI,The Clash,404
+187,2024-12-22 19:50:12.650699+00,DISTRACTED,0.967035,attention-detection-v5,Train in Vain (Stand by Me) - Remastered,6ITuEsxEy2qPhqMowdDAeI,The Clash,232
+188,2024-12-22 19:50:34.764282+00,DISTRACTED,0.889079,attention-detection-v5,Train in Vain (Stand by Me) - Remastered,6ITuEsxEy2qPhqMowdDAeI,The Clash,416
+189,2024-12-22 19:50:55.169704+00,DISTRACTED,0.873909,attention-detection-v5,Train in Vain (Stand by Me) - Remastered,6ITuEsxEy2qPhqMowdDAeI,The Clash,516
+190,2024-12-22 19:51:17.560591+00,DISTRACTED,0.968273,attention-detection-v5,Train in Vain (Stand by Me) - Remastered,6ITuEsxEy2qPhqMowdDAeI,The Clash,408
+191,2024-12-22 19:51:37.710789+00,DISTRACTED,0.96516,attention-detection-v5,Train in Vain (Stand by Me) - Remastered,6ITuEsxEy2qPhqMowdDAeI,The Clash,477
+192,2024-12-22 19:51:57.741481+00,DISTRACTED,0.961135,attention-detection-v5,Train in Vain (Stand by Me) - Remastered,6ITuEsxEy2qPhqMowdDAeI,The Clash,446
+193,2024-12-22 19:52:17.89815+00,DISTRACTED,0.964391,attention-detection-v5,Train in Vain (Stand by Me) - Remastered,6ITuEsxEy2qPhqMowdDAeI,The Clash,470
+194,2024-12-22 19:52:38.328336+00,DISTRACTED,0.967661,attention-detection-v5,Train in Vain (Stand by Me) - Remastered,6ITuEsxEy2qPhqMowdDAeI,The Clash,461
+195,2024-12-22 19:52:58.749022+00,DISTRACTED,0.959762,attention-detection-v5,Train in Vain (Stand by Me) - Remastered,6ITuEsxEy2qPhqMowdDAeI,The Clash,447
+196,2024-12-22 19:53:22.237041+00,DISTRACTED,0.958294,attention-detection-v5,Train in Vain (Stand by Me) - Remastered,6ITuEsxEy2qPhqMowdDAeI,The Clash,409
+197,2024-12-22 19:53:46.034952+00,DISTRACTED,0.961654,attention-detection-v5,Train in Vain (Stand by Me) - Remastered,6ITuEsxEy2qPhqMowdDAeI,The Clash,400
+198,2024-12-22 19:54:06.114847+00,DISTRACTED,0.965817,attention-detection-v5,Old School,20a8Kq82BrX2AzepCgMhJ8,Arin Ray,330
+199,2024-12-22 19:54:28.729627+00,DISTRACTED,0.955932,attention-detection-v5,Old School,20a8Kq82BrX2AzepCgMhJ8,Arin Ray,376
+200,2024-12-22 19:54:46.89469+00,DISTRACTED,0.966366,attention-detection-v5,Old School,20a8Kq82BrX2AzepCgMhJ8,Arin Ray,144
+201,2024-12-22 19:55:04.967634+00,DISTRACTED,0.965375,attention-detection-v5,Old School,20a8Kq82BrX2AzepCgMhJ8,Arin Ray,99
+202,2024-12-22 19:55:23.633809+00,DISTRACTED,0.961555,attention-detection-v5,Old School,20a8Kq82BrX2AzepCgMhJ8,Arin Ray,193
+203,2024-12-22 19:55:41.947712+00,FOCUSED,0.910407,attention-detection-v5,Old School,20a8Kq82BrX2AzepCgMhJ8,Arin Ray,241
+204,2024-12-22 19:55:59.729536+00,DISTRACTED,0.93225,attention-detection-v5,Old School,20a8Kq82BrX2AzepCgMhJ8,Arin Ray,63
+205,2024-12-22 19:56:18.810981+00,DISTRACTED,0.902103,attention-detection-v5,Old School,20a8Kq82BrX2AzepCgMhJ8,Arin Ray,330
+206,2024-12-22 19:56:38.088846+00,DISTRACTED,0.963209,attention-detection-v5,Old School,20a8Kq82BrX2AzepCgMhJ8,Arin Ray,358
+207,2024-12-22 19:56:57.13589+00,FOCUSED,0.948981,attention-detection-v5,Wait a Minute!,0y60itmpH0aPKsFiGxmtnh,WILLOW,380
+208,2024-12-22 19:57:16.142591+00,FOCUSED,0.931238,attention-detection-v5,Wait a Minute!,0y60itmpH0aPKsFiGxmtnh,WILLOW,318
+209,2024-12-22 19:57:34.961062+00,DISTRACTED,0.949061,attention-detection-v5,Wait a Minute!,0y60itmpH0aPKsFiGxmtnh,WILLOW,295
+210,2024-12-22 19:57:53.920084+00,DISTRACTED,0.912025,attention-detection-v5,Wait a Minute!,0y60itmpH0aPKsFiGxmtnh,WILLOW,331
+211,2024-12-22 19:58:12.102457+00,DISTRACTED,0.958743,attention-detection-v5,Wait a Minute!,0y60itmpH0aPKsFiGxmtnh,WILLOW,191
+212,2024-12-22 19:58:30.162942+00,DISTRACTED,0.756745,attention-detection-v5,Wait a Minute!,0y60itmpH0aPKsFiGxmtnh,WILLOW,144
+213,2024-12-22 19:58:49.042081+00,DISTRACTED,0.967472,attention-detection-v5,Wait a Minute!,0y60itmpH0aPKsFiGxmtnh,WILLOW,301
+214,2024-12-22 19:59:08.04294+00,DISTRACTED,0.959432,attention-detection-v5,Wait a Minute!,0y60itmpH0aPKsFiGxmtnh,WILLOW,197
+215,2024-12-22 19:59:28.149618+00,DISTRACTED,0.961472,attention-detection-v5,Wait a Minute!,0y60itmpH0aPKsFiGxmtnh,WILLOW,341
+216,2024-12-22 19:59:46.888473+00,DISTRACTED,0.962024,attention-detection-v5,Wait a Minute!,0y60itmpH0aPKsFiGxmtnh,WILLOW,186
+217,2024-12-22 20:00:07.270429+00,DISTRACTED,0.96024,attention-detection-v5,Wait a Minute!,0y60itmpH0aPKsFiGxmtnh,WILLOW,393
+218,2024-12-22 20:00:26.15717+00,DISTRACTED,0.963275,attention-detection-v5,Home Again,1381rfnkAKhUeqP0J12kk3,Carole King,290
+219,2024-12-22 20:00:44.642901+00,DISTRACTED,0.961108,attention-detection-v5,Home Again,1381rfnkAKhUeqP0J12kk3,Carole King,208
+220,2024-12-22 20:01:03.37256+00,DISTRACTED,0.935523,attention-detection-v5,Home Again,1381rfnkAKhUeqP0J12kk3,Carole King,273
+221,2024-12-22 20:01:22.035207+00,DISTRACTED,0.948606,attention-detection-v5,Home Again,1381rfnkAKhUeqP0J12kk3,Carole King,278
+222,2024-12-22 20:01:40.837725+00,DISTRACTED,0.964523,attention-detection-v5,Home Again,1381rfnkAKhUeqP0J12kk3,Carole King,310
+223,2024-12-22 20:01:59.613873+00,DISTRACTED,0.964424,attention-detection-v5,Home Again,1381rfnkAKhUeqP0J12kk3,Carole King,302
+224,2024-12-22 20:02:18.41067+00,DISTRACTED,0.959338,attention-detection-v5,Home Again,1381rfnkAKhUeqP0J12kk3,Carole King,291
+225,2024-12-22 20:02:37.036302+00,DISTRACTED,0.945814,attention-detection-v5,Home Again,1381rfnkAKhUeqP0J12kk3,Carole King,270
+226,2024-12-22 20:02:55.822202+00,DISTRACTED,0.955692,attention-detection-v5,Places And Spaces,1pYPgA8XdHFQS15HPB41MH,Donald Byrd,291
+227,2024-12-22 20:03:14.668722+00,DISTRACTED,0.968658,attention-detection-v5,Places And Spaces,1pYPgA8XdHFQS15HPB41MH,Donald Byrd,277
+228,2024-12-22 20:03:35.611083+00,DISTRACTED,0.969123,attention-detection-v5,Places And Spaces,1pYPgA8XdHFQS15HPB41MH,Donald Byrd,394
+229,2024-12-22 20:03:55.780154+00,DISTRACTED,0.967119,attention-detection-v5,Places And Spaces,1pYPgA8XdHFQS15HPB41MH,Donald Byrd,301
+230,2024-12-22 20:04:14.493567+00,DISTRACTED,0.968358,attention-detection-v5,Places And Spaces,1pYPgA8XdHFQS15HPB41MH,Donald Byrd,280
+231,2024-12-22 20:04:34.322858+00,FOCUSED,0.750543,attention-detection-v5,Places And Spaces,1pYPgA8XdHFQS15HPB41MH,Donald Byrd,342
+232,2024-12-22 20:04:53.773235+00,DISTRACTED,0.964832,attention-detection-v5,Places And Spaces,1pYPgA8XdHFQS15HPB41MH,Donald Byrd,371
+233,2024-12-22 20:05:13.589494+00,DISTRACTED,0.947639,attention-detection-v5,Places And Spaces,1pYPgA8XdHFQS15HPB41MH,Donald Byrd,446
+234,2024-12-22 20:05:32.43708+00,DISTRACTED,0.955535,attention-detection-v5,Places And Spaces,1pYPgA8XdHFQS15HPB41MH,Donald Byrd,200
+235,2024-12-22 20:05:50.8258+00,DISTRACTED,0.958831,attention-detection-v5,Places And Spaces,1pYPgA8XdHFQS15HPB41MH,Donald Byrd,174
+236,2024-12-22 20:06:09.664824+00,DISTRACTED,0.965237,attention-detection-v5,Places And Spaces,1pYPgA8XdHFQS15HPB41MH,Donald Byrd,194
+237,2024-12-22 20:06:27.91426+00,DISTRACTED,0.960866,attention-detection-v5,Places And Spaces,1pYPgA8XdHFQS15HPB41MH,Donald Byrd,135
+238,2024-12-22 20:06:46.479028+00,DISTRACTED,0.953733,attention-detection-v5,Places And Spaces,1pYPgA8XdHFQS15HPB41MH,Donald Byrd,200
+239,2024-12-22 20:07:05.436243+00,FOCUSED,0.938156,attention-detection-v5,Places And Spaces,1pYPgA8XdHFQS15HPB41MH,Donald Byrd,296
+240,2024-12-22 20:07:24.445183+00,DISTRACTED,0.964393,attention-detection-v5,Places And Spaces,1pYPgA8XdHFQS15HPB41MH,Donald Byrd,149
+241,2024-12-22 20:07:43.073451+00,DISTRACTED,0.959866,attention-detection-v5,Places And Spaces,1pYPgA8XdHFQS15HPB41MH,Donald Byrd,188
+242,2024-12-22 20:08:02.078521+00,DISTRACTED,0.920405,attention-detection-v5,Places And Spaces,1pYPgA8XdHFQS15HPB41MH,Donald Byrd,273
+243,2024-12-22 20:08:21.600467+00,DISTRACTED,0.957829,attention-detection-v5,Places And Spaces,1pYPgA8XdHFQS15HPB41MH,Donald Byrd,345
+244,2024-12-22 20:08:39.773284+00,DISTRACTED,0.964915,attention-detection-v5,Places And Spaces,1pYPgA8XdHFQS15HPB41MH,Donald Byrd,99
+245,2024-12-22 20:08:58.439792+00,DISTRACTED,0.961895,attention-detection-v5,Places And Spaces,1pYPgA8XdHFQS15HPB41MH,Donald Byrd,248
+246,2024-12-22 20:09:18.069911+00,DISTRACTED,0.953847,attention-detection-v5,Little Dark Age,2Y0iGXY6m6immVb2ktbseM,MGMT,387
+247,2024-12-22 20:09:37.224554+00,FOCUSED,0.35953,attention-detection-v5,Little Dark Age,2Y0iGXY6m6immVb2ktbseM,MGMT,277
+248,2024-12-22 20:09:55.926234+00,FOCUSED,0.374622,attention-detection-v5,Little Dark Age,2Y0iGXY6m6immVb2ktbseM,MGMT,207
+249,2024-12-22 20:10:14.850697+00,DISTRACTED,0.862869,attention-detection-v5,Little Dark Age,2Y0iGXY6m6immVb2ktbseM,MGMT,284
+250,2024-12-22 20:10:33.697196+00,DISTRACTED,0.252735,attention-detection-v5,Little Dark Age,2Y0iGXY6m6immVb2ktbseM,MGMT,254
+251,2024-12-22 20:10:53.029354+00,DISTRACTED,0.956499,attention-detection-v5,Little Dark Age,2Y0iGXY6m6immVb2ktbseM,MGMT,318
+252,2024-12-22 20:11:11.96568+00,DISTRACTED,0.952947,attention-detection-v5,Little Dark Age,2Y0iGXY6m6immVb2ktbseM,MGMT,337
+253,2024-12-22 20:11:31.082594+00,DISTRACTED,0.952473,attention-detection-v5,Little Dark Age,2Y0iGXY6m6immVb2ktbseM,MGMT,337
+254,2024-12-22 20:11:49.953568+00,DISTRACTED,0.957628,attention-detection-v5,Little Dark Age,2Y0iGXY6m6immVb2ktbseM,MGMT,333
+255,2024-12-22 20:12:09.459968+00,DISTRACTED,0.96596,attention-detection-v5,Little Dark Age,2Y0iGXY6m6immVb2ktbseM,MGMT,360
+256,2024-12-22 20:12:28.089473+00,FOCUSED,0.464884,attention-detection-v5,Little Dark Age,2Y0iGXY6m6immVb2ktbseM,MGMT,204
+257,2024-12-22 20:12:46.634902+00,DISTRACTED,0.958631,attention-detection-v5,Little Dark Age,2Y0iGXY6m6immVb2ktbseM,MGMT,193
+258,2024-12-22 20:16:33.152031+00,DISTRACTED,0.960137,attention-detection-v5,Angel,4pjcxC0qgXWZWmcBjzn1az,"Loyle Carner, Tom Misch",125
+259,2024-12-22 20:16:52.713486+00,DISTRACTED,0.963162,attention-detection-v5,Angel,4pjcxC0qgXWZWmcBjzn1az,"Loyle Carner, Tom Misch",283
+260,2024-12-22 20:17:11.939473+00,FOCUSED,0.730707,attention-detection-v5,Angel,4pjcxC0qgXWZWmcBjzn1az,"Loyle Carner, Tom Misch",298
+261,2024-12-22 20:17:31.35726+00,DISTRACTED,0.961616,attention-detection-v5,Angel,4pjcxC0qgXWZWmcBjzn1az,"Loyle Carner, Tom Misch",285
+262,2024-12-22 20:17:50.792381+00,DISTRACTED,0.925166,attention-detection-v5,Angel,4pjcxC0qgXWZWmcBjzn1az,"Loyle Carner, Tom Misch",284
+263,2024-12-22 20:18:10.130093+00,DISTRACTED,0.950395,attention-detection-v5,Angel,4pjcxC0qgXWZWmcBjzn1az,"Loyle Carner, Tom Misch",304
+264,2024-12-22 20:18:28.559991+00,DISTRACTED,0.888151,attention-detection-v5,Angel,4pjcxC0qgXWZWmcBjzn1az,"Loyle Carner, Tom Misch",95
+265,2024-12-22 20:18:47.787345+00,DISTRACTED,0.966646,attention-detection-v5,Lost Ones,71XhXay6rKPZCVAaDtFlSR,Ms. Lauryn Hill,264
+266,2024-12-22 20:19:06.814006+00,DISTRACTED,0.964515,attention-detection-v5,Lost Ones,71XhXay6rKPZCVAaDtFlSR,Ms. Lauryn Hill,271
+267,2024-12-22 20:19:24.75516+00,DISTRACTED,0.966629,attention-detection-v5,Lost Ones,71XhXay6rKPZCVAaDtFlSR,Ms. Lauryn Hill,124
+268,2024-12-22 20:19:43.088427+00,DISTRACTED,0.958475,attention-detection-v5,Lost Ones,71XhXay6rKPZCVAaDtFlSR,Ms. Lauryn Hill,153
+269,2024-12-22 20:20:01.273459+00,DISTRACTED,0.96472,attention-detection-v5,Lost Ones,71XhXay6rKPZCVAaDtFlSR,Ms. Lauryn Hill,179
+270,2024-12-22 20:20:20.111769+00,DISTRACTED,0.966641,attention-detection-v5,Lost Ones,71XhXay6rKPZCVAaDtFlSR,Ms. Lauryn Hill,229
+271,2024-12-22 20:20:38.82278+00,DISTRACTED,0.962355,attention-detection-v5,Lost Ones,71XhXay6rKPZCVAaDtFlSR,Ms. Lauryn Hill,248
+272,2024-12-22 20:20:57.836497+00,DISTRACTED,0.957917,attention-detection-v5,Lost Ones,71XhXay6rKPZCVAaDtFlSR,Ms. Lauryn Hill,276
+273,2024-12-22 20:21:16.409145+00,DISTRACTED,0.96713,attention-detection-v5,Lost Ones,71XhXay6rKPZCVAaDtFlSR,Ms. Lauryn Hill,230
+274,2024-12-22 20:21:35.156567+00,DISTRACTED,0.963739,attention-detection-v5,Lost Ones,71XhXay6rKPZCVAaDtFlSR,Ms. Lauryn Hill,204
+275,2024-12-22 20:21:54.303883+00,DISTRACTED,0.968174,attention-detection-v5,Lost Ones,71XhXay6rKPZCVAaDtFlSR,Ms. Lauryn Hill,248
+276,2024-12-22 20:22:12.673523+00,DISTRACTED,0.965879,attention-detection-v5,Lost Ones,71XhXay6rKPZCVAaDtFlSR,Ms. Lauryn Hill,192
+277,2024-12-22 20:22:31.299366+00,DISTRACTED,0.924819,attention-detection-v5,Lost Ones,71XhXay6rKPZCVAaDtFlSR,Ms. Lauryn Hill,171
+278,2024-12-22 20:22:49.935814+00,DISTRACTED,0.956817,attention-detection-v5,Lost Ones,71XhXay6rKPZCVAaDtFlSR,Ms. Lauryn Hill,223
+279,2024-12-22 20:38:07.237404+00,DISTRACTED,0.966142,attention-detection-v5,Re-Hash,0dYN5MqKzCfdpDb1bgvdsm,Gorillaz,234
+280,2024-12-22 20:38:25.198025+00,FOCUSED,0.955901,attention-detection-v5,Re-Hash,0dYN5MqKzCfdpDb1bgvdsm,Gorillaz,121
+281,2024-12-22 20:38:42.862074+00,FOCUSED,0.962463,attention-detection-v5,Re-Hash,0dYN5MqKzCfdpDb1bgvdsm,Gorillaz,74
+282,2024-12-22 20:39:00.986946+00,FOCUSED,0.962463,attention-detection-v5,Re-Hash,0dYN5MqKzCfdpDb1bgvdsm,Gorillaz,95
+283,2024-12-22 20:39:18.043396+00,FOCUSED,0.953028,attention-detection-v5,Re-Hash,0dYN5MqKzCfdpDb1bgvdsm,Gorillaz,96
+284,2024-12-22 20:39:36.864076+00,FOCUSED,0.958965,attention-detection-v5,Re-Hash,0dYN5MqKzCfdpDb1bgvdsm,Gorillaz,377
+285,2024-12-22 20:39:54.46454+00,FOCUSED,0.961935,attention-detection-v5,Re-Hash,0dYN5MqKzCfdpDb1bgvdsm,Gorillaz,190
+286,2024-12-22 20:40:11.975929+00,FOCUSED,0.947459,attention-detection-v5,Re-Hash,0dYN5MqKzCfdpDb1bgvdsm,Gorillaz,204
+287,2024-12-22 20:40:29.285639+00,FOCUSED,0.92059,attention-detection-v5,Re-Hash,0dYN5MqKzCfdpDb1bgvdsm,Gorillaz,213
+288,2024-12-22 20:40:46.525998+00,FOCUSED,0.948418,attention-detection-v5,Re-Hash,0dYN5MqKzCfdpDb1bgvdsm,Gorillaz,180
+289,2024-12-22 20:41:03.9061+00,DISTRACTED,0.587617,attention-detection-v5,Re-Hash,0dYN5MqKzCfdpDb1bgvdsm,Gorillaz,279
+290,2024-12-22 20:41:21.40441+00,DISTRACTED,0.83745,attention-detection-v5,Re-Hash,0dYN5MqKzCfdpDb1bgvdsm,Gorillaz,282
+291,2024-12-22 20:41:38.894148+00,FOCUSED,0.900456,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,315
+292,2024-12-22 20:41:56.518317+00,DISTRACTED,0.494243,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,330
+293,2024-12-22 20:42:14.087443+00,DISTRACTED,0.292009,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,344
+294,2024-12-22 20:42:31.737821+00,FOCUSED,0.946665,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,361
+295,2024-12-22 20:42:49.489975+00,FOCUSED,0.924981,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,387
+296,2024-12-22 20:43:07.360215+00,DISTRACTED,0.913007,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,413
+297,2024-12-22 20:43:25.868208+00,DISTRACTED,0.379761,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,384
+298,2024-12-22 20:43:43.744533+00,FOCUSED,0.947428,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,448
+299,2024-12-22 20:44:02.497199+00,DISTRACTED,0.365574,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,415
+300,2024-12-22 20:44:20.517165+00,FOCUSED,0.410342,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,457
+301,2024-12-22 20:44:38.464037+00,FOCUSED,0.947219,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,470
+302,2024-12-22 20:44:56.138508+00,FOCUSED,0.89924,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,343
+303,2024-12-22 20:45:13.594951+00,DISTRACTED,0.833057,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,76
+304,2024-12-22 20:45:31.666937+00,FOCUSED,0.918503,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,411
+305,2024-12-22 20:45:49.784844+00,FOCUSED,0.952444,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,462
+306,2024-12-22 20:46:07.537107+00,FOCUSED,0.937382,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,366
+307,2024-12-22 20:46:25.317067+00,DISTRACTED,0.876287,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,332
+308,2024-12-22 20:46:43.094006+00,DISTRACTED,0.958611,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,319
+309,2024-12-22 20:47:00.773641+00,DISTRACTED,0.351736,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,307
+310,2024-12-22 20:47:18.436485+00,FOCUSED,0.896865,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,278
+311,2024-12-22 20:47:35.677824+00,DISTRACTED,0.930202,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,148
+312,2024-12-22 20:47:52.885042+00,DISTRACTED,0.949449,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,127
+313,2024-12-22 20:48:11.252368+00,DISTRACTED,0.890392,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,280
+314,2024-12-22 20:48:28.555095+00,DISTRACTED,0.922464,attention-detection-v5,Tripping Out,0mIpT5VijWPv4b9s0K76qA,Curtis Mayfield,161
+315,2024-12-22 20:48:46.017749+00,FOCUSED,0.959618,attention-detection-v5,Happy House,71e8tLncDU1P7cC9woYgQr,Shuggie Otis,258
+316,2024-12-22 20:49:03.375733+00,DISTRACTED,0.961623,attention-detection-v5,Happy House,71e8tLncDU1P7cC9woYgQr,Shuggie Otis,182
+317,2024-12-22 20:49:20.783899+00,DISTRACTED,0.943459,attention-detection-v5,Happy House,71e8tLncDU1P7cC9woYgQr,Shuggie Otis,225
+318,2024-12-22 20:49:38.092495+00,DISTRACTED,0.940956,attention-detection-v5,Happy House,71e8tLncDU1P7cC9woYgQr,Shuggie Otis,205
+319,2024-12-22 20:49:55.392617+00,DISTRACTED,0.950537,attention-detection-v5,Them Changes,7CH99b2i1TXS5P8UUyWtnM,Thundercat,109
+320,2024-12-22 20:50:12.225301+00,FOCUSED,0.931949,attention-detection-v5,Them Changes,7CH99b2i1TXS5P8UUyWtnM,Thundercat,96
+321,2024-12-22 20:50:29.97769+00,FOCUSED,0.86225,attention-detection-v5,Them Changes,7CH99b2i1TXS5P8UUyWtnM,Thundercat,258
+322,2024-12-22 20:50:48.031293+00,DISTRACTED,0.950258,attention-detection-v5,Them Changes,7CH99b2i1TXS5P8UUyWtnM,Thundercat,167
+323,2024-12-22 20:51:06.473505+00,FOCUSED,0.932268,attention-detection-v5,Them Changes,7CH99b2i1TXS5P8UUyWtnM,Thundercat,367
+324,2024-12-22 20:51:24.962633+00,FOCUSED,0.930758,attention-detection-v5,Them Changes,7CH99b2i1TXS5P8UUyWtnM,Thundercat,335
+325,2024-12-22 20:51:43.971166+00,DISTRACTED,0.512459,attention-detection-v5,Them Changes,7CH99b2i1TXS5P8UUyWtnM,Thundercat,393
+326,2024-12-22 20:52:02.391733+00,FOCUSED,0.733144,attention-detection-v5,Them Changes,7CH99b2i1TXS5P8UUyWtnM,Thundercat,384
+327,2024-12-22 20:52:19.73417+00,FOCUSED,0.318282,attention-detection-v5,Them Changes,7CH99b2i1TXS5P8UUyWtnM,Thundercat,205
+328,2024-12-22 20:52:37.082643+00,DISTRACTED,0.699621,attention-detection-v5,Them Changes,7CH99b2i1TXS5P8UUyWtnM,Thundercat,151
+329,2024-12-22 20:52:54.328303+00,DISTRACTED,0.959894,attention-detection-v5,Them Changes,7CH99b2i1TXS5P8UUyWtnM,Thundercat,167
+330,2024-12-22 20:53:12.529815+00,DISTRACTED,0.928447,attention-detection-v5,Driving Under Stars,4GZiahjGLXqiYTs9d0pbES,Marika Hackman,560
+331,2024-12-22 20:53:30.00974+00,DISTRACTED,0.950938,attention-detection-v5,Driving Under Stars,4GZiahjGLXqiYTs9d0pbES,Marika Hackman,108
+332,2024-12-22 20:53:47.316764+00,DISTRACTED,0.960012,attention-detection-v5,Driving Under Stars,4GZiahjGLXqiYTs9d0pbES,Marika Hackman,68
+333,2024-12-22 20:54:05.970013+00,FOCUSED,0.946652,attention-detection-v5,Driving Under Stars,4GZiahjGLXqiYTs9d0pbES,Marika Hackman,407
+334,2024-12-22 20:54:24.216512+00,FOCUSED,0.334574,attention-detection-v5,Driving Under Stars,4GZiahjGLXqiYTs9d0pbES,Marika Hackman,409
+335,2024-12-22 20:54:42.489675+00,DISTRACTED,0.945292,attention-detection-v5,Driving Under Stars,4GZiahjGLXqiYTs9d0pbES,Marika Hackman,405
+336,2024-12-22 20:55:01.131224+00,DISTRACTED,0.954937,attention-detection-v5,Driving Under Stars,4GZiahjGLXqiYTs9d0pbES,Marika Hackman,360
+337,2024-12-22 20:55:18.319049+00,DISTRACTED,0.751582,attention-detection-v5,Driving Under Stars,4GZiahjGLXqiYTs9d0pbES,Marika Hackman,184
+338,2024-12-22 20:55:35.543947+00,DISTRACTED,0.909114,attention-detection-v5,Driving Under Stars,4GZiahjGLXqiYTs9d0pbES,Marika Hackman,219
+339,2024-12-22 20:55:52.756454+00,FOCUSED,0.854689,attention-detection-v5,Driving Under Stars,4GZiahjGLXqiYTs9d0pbES,Marika Hackman,232
+340,2024-12-22 20:56:10.19151+00,FOCUSED,0.935113,attention-detection-v5,Driving Under Stars,4GZiahjGLXqiYTs9d0pbES,Marika Hackman,251
+341,2024-12-22 20:56:27.72229+00,DISTRACTED,0.928979,attention-detection-v5,Driving Under Stars,4GZiahjGLXqiYTs9d0pbES,Marika Hackman,296
+342,2024-12-22 20:56:45.491938+00,DISTRACTED,0.96037,attention-detection-v5,Sixteen Days,7yARM3rCEUK926cPv2RPsq,Pond,343
+343,2024-12-22 20:57:03.040166+00,DISTRACTED,0.954994,attention-detection-v5,Sixteen Days,7yARM3rCEUK926cPv2RPsq,Pond,328
+344,2024-12-22 20:57:20.535602+00,DISTRACTED,0.956401,attention-detection-v5,Sixteen Days,7yARM3rCEUK926cPv2RPsq,Pond,227
+345,2024-12-22 20:57:39.203128+00,DISTRACTED,0.9379,attention-detection-v5,Sixteen Days,7yARM3rCEUK926cPv2RPsq,Pond,481
+346,2024-12-22 20:57:57.91013+00,DISTRACTED,0.960211,attention-detection-v5,Sixteen Days,7yARM3rCEUK926cPv2RPsq,Pond,489
+347,2024-12-22 20:58:16.486362+00,DISTRACTED,0.963382,attention-detection-v5,Sixteen Days,7yARM3rCEUK926cPv2RPsq,Pond,459
+348,2024-12-22 20:58:35.455748+00,DISTRACTED,0.955899,attention-detection-v5,Sixteen Days,7yARM3rCEUK926cPv2RPsq,Pond,454
+349,2024-12-22 20:58:54.13219+00,DISTRACTED,0.959224,attention-detection-v5,Sixteen Days,7yARM3rCEUK926cPv2RPsq,Pond,495
+350,2024-12-22 20:59:13.023291+00,DISTRACTED,0.964857,attention-detection-v5,Sixteen Days,7yARM3rCEUK926cPv2RPsq,Pond,514
+351,2024-12-22 20:59:31.635491+00,DISTRACTED,0.449963,attention-detection-v5,Sixteen Days,7yARM3rCEUK926cPv2RPsq,Pond,478
+352,2024-12-22 20:59:51.374283+00,DISTRACTED,0.954671,attention-detection-v5,America's Cup,5ZLXsvtqmIcpePe0KPuvrz,Pond,513
+353,2024-12-22 21:00:10.906322+00,DISTRACTED,0.951425,attention-detection-v5,America's Cup,5ZLXsvtqmIcpePe0KPuvrz,Pond,456
+354,2024-12-22 21:00:30.020811+00,DISTRACTED,0.951318,attention-detection-v5,America's Cup,5ZLXsvtqmIcpePe0KPuvrz,Pond,454
+355,2024-12-22 21:00:49.575219+00,DISTRACTED,0.951429,attention-detection-v5,America's Cup,5ZLXsvtqmIcpePe0KPuvrz,Pond,462
+356,2024-12-22 21:01:09.255539+00,DISTRACTED,0.951458,attention-detection-v5,America's Cup,5ZLXsvtqmIcpePe0KPuvrz,Pond,495
+357,2024-12-22 21:01:26.491836+00,DISTRACTED,0.956636,attention-detection-v5,America's Cup,5ZLXsvtqmIcpePe0KPuvrz,Pond,95
+358,2024-12-22 21:01:43.446957+00,DISTRACTED,0.946627,attention-detection-v5,America's Cup,5ZLXsvtqmIcpePe0KPuvrz,Pond,78
+359,2024-12-22 21:02:01.138738+00,DISTRACTED,0.849157,attention-detection-v5,America's Cup,5ZLXsvtqmIcpePe0KPuvrz,Pond,177
+360,2024-12-22 21:02:19.420054+00,DISTRACTED,0.956572,attention-detection-v5,America's Cup,5ZLXsvtqmIcpePe0KPuvrz,Pond,296
+361,2024-12-22 21:02:37.828567+00,DISTRACTED,0.949432,attention-detection-v5,America's Cup,5ZLXsvtqmIcpePe0KPuvrz,Pond,358
+362,2024-12-22 21:02:57.24763+00,DISTRACTED,0.8118,attention-detection-v5,America's Cup,5ZLXsvtqmIcpePe0KPuvrz,Pond,386
+363,2024-12-22 21:03:17.321153+00,DISTRACTED,0.963211,attention-detection-v5,America's Cup,5ZLXsvtqmIcpePe0KPuvrz,Pond,335
+364,2024-12-22 21:03:37.97047+00,DISTRACTED,0.944778,attention-detection-v5,Freakin,40tmc5Wjz7tmvtqmspCSp3,binki,374
+365,2024-12-22 21:03:59.043216+00,DISTRACTED,0.954119,attention-detection-v5,Freakin,40tmc5Wjz7tmvtqmspCSp3,binki,417
+366,2024-12-22 21:04:23.690562+00,DISTRACTED,0.949804,attention-detection-v5,Freakin,40tmc5Wjz7tmvtqmspCSp3,binki,407
+367,2024-12-22 21:04:48.259374+00,DISTRACTED,0.960612,attention-detection-v5,Freakin,40tmc5Wjz7tmvtqmspCSp3,binki,415
+368,2024-12-22 21:05:09.037513+00,DISTRACTED,0.957327,attention-detection-v5,Freakin,40tmc5Wjz7tmvtqmspCSp3,binki,400
+369,2024-12-22 21:05:29.843911+00,DISTRACTED,0.96497,attention-detection-v5,Freakin,40tmc5Wjz7tmvtqmspCSp3,binki,350
+370,2024-12-22 21:05:47.119237+00,DISTRACTED,0.950876,attention-detection-v5,Freakin,40tmc5Wjz7tmvtqmspCSp3,binki,182
+371,2024-12-22 21:06:05.672726+00,DISTRACTED,0.957157,attention-detection-v5,Freakin,40tmc5Wjz7tmvtqmspCSp3,binki,407
+372,2024-12-22 21:06:23.120771+00,DISTRACTED,0.936898,attention-detection-v5,Freakin,40tmc5Wjz7tmvtqmspCSp3,binki,222
+373,2024-12-22 21:06:40.619776+00,FOCUSED,0.857783,attention-detection-v5,Be Thankful for What You've Got - David Todd Remix (Radio Edit),5g2sPpVq3hdk9ZuMfABrts,William DeVaughn,238
+374,2024-12-22 21:06:58.22394+00,DISTRACTED,0.94498,attention-detection-v5,Be Thankful for What You've Got - David Todd Remix (Radio Edit),5g2sPpVq3hdk9ZuMfABrts,William DeVaughn,231
+375,2024-12-22 21:07:17.797464+00,FOCUSED,0.750652,attention-detection-v5,Be Thankful for What You've Got - David Todd Remix (Radio Edit),5g2sPpVq3hdk9ZuMfABrts,William DeVaughn,566
+376,2024-12-22 21:07:36.483919+00,DISTRACTED,0.943629,attention-detection-v5,Be Thankful for What You've Got - David Todd Remix (Radio Edit),5g2sPpVq3hdk9ZuMfABrts,William DeVaughn,478
+377,2024-12-22 21:07:54.494742+00,DISTRACTED,0.947043,attention-detection-v5,Be Thankful for What You've Got - David Todd Remix (Radio Edit),5g2sPpVq3hdk9ZuMfABrts,William DeVaughn,272
+378,2024-12-22 21:08:15.13951+00,DISTRACTED,0.894596,attention-detection-v5,Be Thankful for What You've Got - David Todd Remix (Radio Edit),5g2sPpVq3hdk9ZuMfABrts,William DeVaughn,486
+379,2024-12-22 21:08:34.813878+00,DISTRACTED,0.900357,attention-detection-v5,Be Thankful for What You've Got - David Todd Remix (Radio Edit),5g2sPpVq3hdk9ZuMfABrts,William DeVaughn,431
+380,2024-12-22 21:08:52.20574+00,DISTRACTED,0.948395,attention-detection-v5,Be Thankful for What You've Got - David Todd Remix (Radio Edit),5g2sPpVq3hdk9ZuMfABrts,William DeVaughn,231
+381,2024-12-22 21:09:09.584192+00,FOCUSED,0.924534,attention-detection-v5,Be Thankful for What You've Got - David Todd Remix (Radio Edit),5g2sPpVq3hdk9ZuMfABrts,William DeVaughn,250
+382,2024-12-22 21:09:28.295726+00,DISTRACTED,0.902763,attention-detection-v5,Be Thankful for What You've Got - David Todd Remix (Radio Edit),5g2sPpVq3hdk9ZuMfABrts,William DeVaughn,460
+383,2024-12-22 21:09:46.885582+00,DISTRACTED,0.952254,attention-detection-v5,Be Thankful for What You've Got - David Todd Remix (Radio Edit),5g2sPpVq3hdk9ZuMfABrts,William DeVaughn,450
+384,2024-12-22 21:10:04.238363+00,FOCUSED,0.857412,attention-detection-v5,Be Thankful for What You've Got - David Todd Remix (Radio Edit),5g2sPpVq3hdk9ZuMfABrts,William DeVaughn,212
+385,2024-12-22 21:10:23.227136+00,FOCUSED,0.54988,attention-detection-v5,Where Are We Going?,3E26XqV2an7iMYoEcUVdj4,Donald Byrd,563
+386,2024-12-22 21:10:42.493559+00,DISTRACTED,0.684136,attention-detection-v5,Where Are We Going?,3E26XqV2an7iMYoEcUVdj4,Donald Byrd,524
+387,2024-12-22 21:11:01.491316+00,DISTRACTED,0.951404,attention-detection-v5,Where Are We Going?,3E26XqV2an7iMYoEcUVdj4,Donald Byrd,558
+388,2024-12-22 21:11:18.894967+00,DISTRACTED,0.944931,attention-detection-v5,Where Are We Going?,3E26XqV2an7iMYoEcUVdj4,Donald Byrd,223
+389,2024-12-22 21:11:36.39197+00,DISTRACTED,0.95342,attention-detection-v5,Where Are We Going?,3E26XqV2an7iMYoEcUVdj4,Donald Byrd,321
+390,2024-12-22 21:11:53.664898+00,FOCUSED,0.527292,attention-detection-v5,Where Are We Going?,3E26XqV2an7iMYoEcUVdj4,Donald Byrd,216
+391,2024-12-22 21:12:10.8813+00,DISTRACTED,0.488853,attention-detection-v5,Where Are We Going?,3E26XqV2an7iMYoEcUVdj4,Donald Byrd,221
+392,2024-12-22 21:12:28.242555+00,DISTRACTED,0.746698,attention-detection-v5,Where Are We Going?,3E26XqV2an7iMYoEcUVdj4,Donald Byrd,235
+393,2024-12-22 21:12:47.057344+00,DISTRACTED,0.948932,attention-detection-v5,Where Are We Going?,3E26XqV2an7iMYoEcUVdj4,Donald Byrd,536
+394,2024-12-22 21:13:04.389104+00,DISTRACTED,0.956378,attention-detection-v5,Where Are We Going?,3E26XqV2an7iMYoEcUVdj4,Donald Byrd,223
+395,2024-12-22 21:13:23.724064+00,DISTRACTED,0.953916,attention-detection-v5,Where Are We Going?,3E26XqV2an7iMYoEcUVdj4,Donald Byrd,532
+396,2024-12-22 21:13:42.409344+00,DISTRACTED,0.943512,attention-detection-v5,Where Are We Going?,3E26XqV2an7iMYoEcUVdj4,Donald Byrd,421
+397,2024-12-22 21:14:06.283363+00,DISTRACTED,0.960449,attention-detection-v5,Where Are We Going?,3E26XqV2an7iMYoEcUVdj4,Donald Byrd,601
+398,2024-12-22 21:14:23.937843+00,FOCUSED,0.828935,attention-detection-v5,Where Are We Going?,3E26XqV2an7iMYoEcUVdj4,Donald Byrd,268
+399,2024-12-22 21:14:41.003187+00,FOCUSED,0.923049,attention-detection-v5,Where Are We Going?,3E26XqV2an7iMYoEcUVdj4,Donald Byrd,138
+400,2024-12-22 21:14:58.053161+00,DISTRACTED,0.946535,attention-detection-v5,The Silence That You Keep,5ZUyBMERcJ5UT2KVRm3zvQ,Milton Wright,134
+401,2024-12-22 21:15:15.516581+00,FOCUSED,0.475937,attention-detection-v5,The Silence That You Keep,5ZUyBMERcJ5UT2KVRm3zvQ,Milton Wright,230
+402,2024-12-22 21:15:32.999145+00,DISTRACTED,0.915988,attention-detection-v5,The Silence That You Keep,5ZUyBMERcJ5UT2KVRm3zvQ,Milton Wright,276
+403,2024-12-22 21:15:50.432147+00,DISTRACTED,0.94865,attention-detection-v5,The Silence That You Keep,5ZUyBMERcJ5UT2KVRm3zvQ,Milton Wright,182
+404,2024-12-22 21:16:07.452709+00,FOCUSED,0.904708,attention-detection-v5,The Silence That You Keep,5ZUyBMERcJ5UT2KVRm3zvQ,Milton Wright,103
+405,2024-12-22 21:16:25.984448+00,DISTRACTED,0.951381,attention-detection-v5,The Silence That You Keep,5ZUyBMERcJ5UT2KVRm3zvQ,Milton Wright,408
+406,2024-12-22 21:21:05.099755+00,DISTRACTED,0.861135,attention-detection-v5,Tasmania,6KICqX04cS4KVDSY6gf1zN,Pond,408
+407,2024-12-22 21:21:25.689089+00,DISTRACTED,0.939168,attention-detection-v5,Tasmania,6KICqX04cS4KVDSY6gf1zN,Pond,590
+408,2024-12-22 21:21:46.32113+00,DISTRACTED,0.939287,attention-detection-v5,Tasmania,6KICqX04cS4KVDSY6gf1zN,Pond,548
+409,2024-12-22 21:22:04.911846+00,DISTRACTED,0.940446,attention-detection-v5,Tasmania,6KICqX04cS4KVDSY6gf1zN,Pond,468
+410,2024-12-22 21:22:23.375802+00,DISTRACTED,0.931727,attention-detection-v5,Tasmania,6KICqX04cS4KVDSY6gf1zN,Pond,463
+411,2024-12-22 21:22:45.853007+00,DISTRACTED,0.956572,attention-detection-v5,90% of Me Is You,2VjCG66lTrzYvOBmsKm5pU,Gwen McCrae,555
+412,2024-12-22 21:23:03.114687+00,DISTRACTED,0.958276,attention-detection-v5,90% of Me Is You,2VjCG66lTrzYvOBmsKm5pU,Gwen McCrae,180
+413,2024-12-22 21:23:20.559498+00,DISTRACTED,0.95694,attention-detection-v5,90% of Me Is You,2VjCG66lTrzYvOBmsKm5pU,Gwen McCrae,190
+414,2024-12-22 21:23:39.199437+00,DISTRACTED,0.940957,attention-detection-v5,90% of Me Is You,2VjCG66lTrzYvOBmsKm5pU,Gwen McCrae,445
+415,2024-12-22 21:23:56.610031+00,DISTRACTED,0.91371,attention-detection-v5,90% of Me Is You,2VjCG66lTrzYvOBmsKm5pU,Gwen McCrae,210
+416,2024-12-22 21:24:13.89412+00,DISTRACTED,0.908352,attention-detection-v5,90% of Me Is You,2VjCG66lTrzYvOBmsKm5pU,Gwen McCrae,210
+417,2024-12-22 21:24:31.171642+00,DISTRACTED,0.920578,attention-detection-v5,90% of Me Is You,2VjCG66lTrzYvOBmsKm5pU,Gwen McCrae,206
+418,2024-12-22 21:24:48.604748+00,DISTRACTED,0.923964,attention-detection-v5,90% of Me Is You,2VjCG66lTrzYvOBmsKm5pU,Gwen McCrae,176
+419,2024-12-22 21:25:07.33037+00,DISTRACTED,0.954228,attention-detection-v5,90% of Me Is You,2VjCG66lTrzYvOBmsKm5pU,Gwen McCrae,407
+420,2024-12-22 21:25:24.70763+00,FOCUSED,0.357663,attention-detection-v5,Shibuya (feat. Syd),6WVSnyKQGzs1fosa2I3FMQ,"Free Nationals, Syd",231
+421,2024-12-22 21:25:42.104486+00,DISTRACTED,0.952775,attention-detection-v5,Shibuya (feat. Syd),6WVSnyKQGzs1fosa2I3FMQ,"Free Nationals, Syd",231
+422,2024-12-22 21:25:59.564145+00,DISTRACTED,0.869022,attention-detection-v5,Shibuya (feat. Syd),6WVSnyKQGzs1fosa2I3FMQ,"Free Nationals, Syd",225
+423,2024-12-22 21:26:18.015191+00,DISTRACTED,0.954754,attention-detection-v5,Shibuya (feat. Syd),6WVSnyKQGzs1fosa2I3FMQ,"Free Nationals, Syd",401
+424,2024-12-22 21:26:36.399912+00,FOCUSED,0.842645,attention-detection-v5,Shibuya (feat. Syd),6WVSnyKQGzs1fosa2I3FMQ,"Free Nationals, Syd",354
+425,2024-12-22 21:26:55.186436+00,DISTRACTED,0.952379,attention-detection-v5,Shibuya (feat. Syd),6WVSnyKQGzs1fosa2I3FMQ,"Free Nationals, Syd",498
+426,2024-12-22 21:27:12.244139+00,DISTRACTED,0.946994,attention-detection-v5,Shibuya (feat. Syd),6WVSnyKQGzs1fosa2I3FMQ,"Free Nationals, Syd",110
+427,2024-12-22 21:27:31.390581+00,FOCUSED,0.756762,attention-detection-v5,Shibuya (feat. Syd),6WVSnyKQGzs1fosa2I3FMQ,"Free Nationals, Syd",453
+428,2024-12-22 21:27:50.393487+00,DISTRACTED,0.95928,attention-detection-v5,I Like the Way You Do Your Thing,1tpFKKD6uMbYd94WNXZKKL,Little Beaver,480
+429,2024-12-22 21:28:09.22248+00,DISTRACTED,0.959538,attention-detection-v5,I Like the Way You Do Your Thing,1tpFKKD6uMbYd94WNXZKKL,Little Beaver,537
+430,2024-12-22 21:28:28.24403+00,DISTRACTED,0.924211,attention-detection-v5,I Like the Way You Do Your Thing,1tpFKKD6uMbYd94WNXZKKL,Little Beaver,437
+431,2024-12-22 21:28:47.098541+00,FOCUSED,0.703707,attention-detection-v5,I Like the Way You Do Your Thing,1tpFKKD6uMbYd94WNXZKKL,Little Beaver,500
+432,2024-12-22 21:29:07.968079+00,DISTRACTED,0.949712,attention-detection-v5,I Like the Way You Do Your Thing,1tpFKKD6uMbYd94WNXZKKL,Little Beaver,476
+433,2024-12-22 21:29:27.017913+00,FOCUSED,0.900232,attention-detection-v5,I Like the Way You Do Your Thing,1tpFKKD6uMbYd94WNXZKKL,Little Beaver,381
+434,2024-12-22 21:29:45.908301+00,DISTRACTED,0.297759,attention-detection-v5,I Like the Way You Do Your Thing,1tpFKKD6uMbYd94WNXZKKL,Little Beaver,413
+435,2024-12-22 21:30:04.391306+00,DISTRACTED,0.856567,attention-detection-v5,I Like the Way You Do Your Thing,1tpFKKD6uMbYd94WNXZKKL,Little Beaver,430
+436,2024-12-22 21:30:24.607623+00,FOCUSED,0.685323,attention-detection-v5,I Like the Way You Do Your Thing,1tpFKKD6uMbYd94WNXZKKL,Little Beaver,402
+437,2024-12-22 21:30:43.577168+00,FOCUSED,0.92981,attention-detection-v5,I Like the Way You Do Your Thing,1tpFKKD6uMbYd94WNXZKKL,Little Beaver,439
+438,2024-12-22 21:31:03.659849+00,FOCUSED,0.95434,attention-detection-v5,I Like the Way You Do Your Thing,1tpFKKD6uMbYd94WNXZKKL,Little Beaver,437
+439,2024-12-22 21:31:21.414059+00,FOCUSED,0.314188,attention-detection-v5,I Like the Way You Do Your Thing,1tpFKKD6uMbYd94WNXZKKL,Little Beaver,227
+440,2024-12-22 21:31:39.891434+00,DISTRACTED,0.95693,attention-detection-v5,I Like the Way You Do Your Thing,1tpFKKD6uMbYd94WNXZKKL,Little Beaver,417
+441,2024-12-22 21:31:58.71325+00,DISTRACTED,0.964816,attention-detection-v5,Night Whistler,1G5ljULNGans2VoVi91EuC,Donald Byrd,406
+442,2024-12-22 21:32:22.605017+00,DISTRACTED,0.957574,attention-detection-v5,Night Whistler,1G5ljULNGans2VoVi91EuC,Donald Byrd,449
+443,2024-12-22 21:32:41.619088+00,DISTRACTED,0.947852,attention-detection-v5,Night Whistler,1G5ljULNGans2VoVi91EuC,Donald Byrd,451
+444,2024-12-22 21:33:00.271087+00,DISTRACTED,0.934049,attention-detection-v5,Night Whistler,1G5ljULNGans2VoVi91EuC,Donald Byrd,483
+445,2024-12-22 21:33:19.00973+00,DISTRACTED,0.937869,attention-detection-v5,Night Whistler,1G5ljULNGans2VoVi91EuC,Donald Byrd,497
+446,2024-12-22 21:33:37.520754+00,DISTRACTED,0.859305,attention-detection-v5,Night Whistler,1G5ljULNGans2VoVi91EuC,Donald Byrd,466
+447,2024-12-22 21:33:56.283274+00,DISTRACTED,0.943038,attention-detection-v5,Night Whistler,1G5ljULNGans2VoVi91EuC,Donald Byrd,487
+448,2024-12-22 21:34:15.099383+00,DISTRACTED,0.945313,attention-detection-v5,Night Whistler,1G5ljULNGans2VoVi91EuC,Donald Byrd,505
+449,2024-12-22 21:34:33.763528+00,DISTRACTED,0.954437,attention-detection-v5,Night Whistler,1G5ljULNGans2VoVi91EuC,Donald Byrd,508
+450,2024-12-22 21:34:52.471513+00,DISTRACTED,0.931913,attention-detection-v5,Night Whistler,1G5ljULNGans2VoVi91EuC,Donald Byrd,477
+451,2024-12-22 21:35:11.2315+00,DISTRACTED,0.959052,attention-detection-v5,Night Whistler,1G5ljULNGans2VoVi91EuC,Donald Byrd,488
+452,2024-12-22 21:35:30.865934+00,DISTRACTED,0.910469,attention-detection-v5,Get No Lovin' Tonight,5mMs8PXvVzN4FnO62iOFNP,Milton Wright,488
+453,2024-12-22 21:35:49.448474+00,DISTRACTED,0.775765,attention-detection-v5,Get No Lovin' Tonight,5mMs8PXvVzN4FnO62iOFNP,Milton Wright,462
+454,2024-12-22 21:36:07.878523+00,DISTRACTED,0.93574,attention-detection-v5,Get No Lovin' Tonight,5mMs8PXvVzN4FnO62iOFNP,Milton Wright,451
+455,2024-12-22 21:36:26.531184+00,DISTRACTED,0.943296,attention-detection-v5,Get No Lovin' Tonight,5mMs8PXvVzN4FnO62iOFNP,Milton Wright,470
+456,2024-12-22 21:36:46.000246+00,DISTRACTED,0.925384,attention-detection-v5,Get No Lovin' Tonight,5mMs8PXvVzN4FnO62iOFNP,Milton Wright,563
+457,2024-12-22 21:37:06.8221+00,FOCUSED,0.855077,attention-detection-v5,Get No Lovin' Tonight,5mMs8PXvVzN4FnO62iOFNP,Milton Wright,516
+458,2024-12-22 21:37:25.942443+00,FOCUSED,0.942998,attention-detection-v5,Get No Lovin' Tonight,5mMs8PXvVzN4FnO62iOFNP,Milton Wright,541
+459,2024-12-22 21:37:45.271708+00,DISTRACTED,0.94713,attention-detection-v5,Get No Lovin' Tonight,5mMs8PXvVzN4FnO62iOFNP,Milton Wright,656
+460,2024-12-22 21:38:06.135738+00,FOCUSED,0.464865,attention-detection-v5,Get No Lovin' Tonight,5mMs8PXvVzN4FnO62iOFNP,Milton Wright,625
+461,2024-12-22 21:38:25.373247+00,DISTRACTED,0.953779,attention-detection-v5,Get No Lovin' Tonight,5mMs8PXvVzN4FnO62iOFNP,Milton Wright,635
+462,2024-12-22 21:38:45.633228+00,DISTRACTED,0.954864,attention-detection-v5,Get No Lovin' Tonight,5mMs8PXvVzN4FnO62iOFNP,Milton Wright,472
+463,2024-12-22 21:39:05.272664+00,DISTRACTED,0.913237,attention-detection-v5,Get No Lovin' Tonight,5mMs8PXvVzN4FnO62iOFNP,Milton Wright,597
+464,2024-12-22 21:39:28.486678+00,DISTRACTED,0.927733,attention-detection-v5,Get No Lovin' Tonight,5mMs8PXvVzN4FnO62iOFNP,Milton Wright,551
+465,2024-12-22 21:39:52.717591+00,FOCUSED,0.690018,attention-detection-v5,Colder Than Ice,7aBqUj0JLpd7JcoNzsWL6G,Pond,542
+466,2024-12-22 21:40:12.206965+00,DISTRACTED,0.946314,attention-detection-v5,A Day In The Life - Remastered 2009,0hKRSZhUGEhKU6aNSPBACZ,The Beatles,446
+467,2024-12-22 21:40:31.981866+00,DISTRACTED,0.950312,attention-detection-v5,A Day In The Life - Remastered 2009,0hKRSZhUGEhKU6aNSPBACZ,The Beatles,690
+468,2024-12-22 21:41:00.325492+00,DISTRACTED,0.90716,attention-detection-v5,A Day In The Life - Remastered 2009,0hKRSZhUGEhKU6aNSPBACZ,The Beatles,647
+469,2024-12-22 21:41:20.003883+00,DISTRACTED,0.958284,attention-detection-v5,A Day In The Life - Remastered 2009,0hKRSZhUGEhKU6aNSPBACZ,The Beatles,698
+470,2024-12-22 21:41:42.05617+00,FOCUSED,0.951101,attention-detection-v5,A Day In The Life - Remastered 2009,0hKRSZhUGEhKU6aNSPBACZ,The Beatles,487
+471,2024-12-22 21:55:02.706766+00,DISTRACTED,0.93861,attention-detection-v5,Dancing in the Moonlight,0q21FNwES2bbtcduB6kjEU,King Harvest,603
+472,2024-12-22 21:55:23.633139+00,DISTRACTED,0.952002,attention-detection-v5,Dancing in the Moonlight,0q21FNwES2bbtcduB6kjEU,King Harvest,609
+473,2024-12-22 21:55:44.129245+00,DISTRACTED,0.941443,attention-detection-v5,Dancing in the Moonlight,0q21FNwES2bbtcduB6kjEU,King Harvest,580
+474,2024-12-22 21:56:03.662253+00,FOCUSED,0.324939,attention-detection-v5,Dancing in the Moonlight,0q21FNwES2bbtcduB6kjEU,King Harvest,572
+475,2024-12-22 21:56:23.630546+00,DISTRACTED,0.931577,attention-detection-v5,Dancing in the Moonlight,0q21FNwES2bbtcduB6kjEU,King Harvest,534
+476,2024-12-22 21:56:44.437774+00,FOCUSED,0.660133,attention-detection-v5,Dancing in the Moonlight,0q21FNwES2bbtcduB6kjEU,King Harvest,547
+477,2024-12-22 21:57:03.329977+00,DISTRACTED,0.915595,attention-detection-v5,Billie Jean,7J1uxwnxfQLu4APicE5Rnj,Michael Jackson,469
+478,2024-12-22 21:57:23.550676+00,FOCUSED,0.953085,attention-detection-v5,Billie Jean,7J1uxwnxfQLu4APicE5Rnj,Michael Jackson,451
+479,2024-12-22 21:57:42.494999+00,FOCUSED,0.959578,attention-detection-v5,Billie Jean,7J1uxwnxfQLu4APicE5Rnj,Michael Jackson,535
+480,2024-12-22 21:58:04.687599+00,FOCUSED,0.805549,attention-detection-v5,Billie Jean,7J1uxwnxfQLu4APicE5Rnj,Michael Jackson,480
+481,2024-12-22 21:58:26.731288+00,FOCUSED,0.942386,attention-detection-v5,Billie Jean,7J1uxwnxfQLu4APicE5Rnj,Michael Jackson,480
+482,2024-12-22 21:58:46.277125+00,FOCUSED,0.910851,attention-detection-v5,Billie Jean,7J1uxwnxfQLu4APicE5Rnj,Michael Jackson,475
+483,2024-12-22 21:59:08.175202+00,DISTRACTED,0.96203,attention-detection-v5,Billie Jean,7J1uxwnxfQLu4APicE5Rnj,Michael Jackson,474
+484,2024-12-22 21:59:29.747712+00,FOCUSED,0.647322,attention-detection-v5,Billie Jean,7J1uxwnxfQLu4APicE5Rnj,Michael Jackson,479
+485,2024-12-22 21:59:51.220558+00,FOCUSED,0.256767,attention-detection-v5,Billie Jean,7J1uxwnxfQLu4APicE5Rnj,Michael Jackson,499
+486,2024-12-22 22:00:12.133626+00,DISTRACTED,0.911347,attention-detection-v5,Billie Jean,7J1uxwnxfQLu4APicE5Rnj,Michael Jackson,564
+487,2024-12-22 22:00:35.998285+00,FOCUSED,0.942349,attention-detection-v5,Billie Jean,7J1uxwnxfQLu4APicE5Rnj,Michael Jackson,557
+488,2024-12-22 22:00:55.748166+00,DISTRACTED,0.944891,attention-detection-v5,Billie Jean,7J1uxwnxfQLu4APicE5Rnj,Michael Jackson,574
+489,2024-12-22 22:01:17.377162+00,DISTRACTED,0.420267,attention-detection-v5,Billie Jean,7J1uxwnxfQLu4APicE5Rnj,Michael Jackson,628
+490,2024-12-22 22:01:41.866935+00,FOCUSED,0.310803,attention-detection-v5,Billie Jean,7J1uxwnxfQLu4APicE5Rnj,Michael Jackson,622
+491,2024-12-22 22:02:02.407224+00,DISTRACTED,0.958779,attention-detection-v5,Girls Just Want to Have Fun,4y1LsJpmMti1PfRQV9AWWe,Cyndi Lauper,593
+492,2024-12-22 22:02:22.152002+00,DISTRACTED,0.959282,attention-detection-v5,Girls Just Want to Have Fun,4y1LsJpmMti1PfRQV9AWWe,Cyndi Lauper,597
+493,2024-12-22 22:02:42.206345+00,DISTRACTED,0.913172,attention-detection-v5,Girls Just Want to Have Fun,4y1LsJpmMti1PfRQV9AWWe,Cyndi Lauper,578
+494,2024-12-22 22:03:01.423991+00,FOCUSED,0.816634,attention-detection-v5,Girls Just Want to Have Fun,4y1LsJpmMti1PfRQV9AWWe,Cyndi Lauper,575
+495,2024-12-22 22:03:22.072556+00,DISTRACTED,0.965888,attention-detection-v5,Girls Just Want to Have Fun,4y1LsJpmMti1PfRQV9AWWe,Cyndi Lauper,532
+496,2024-12-22 22:03:41.736014+00,DISTRACTED,0.667241,attention-detection-v5,Girls Just Want to Have Fun,4y1LsJpmMti1PfRQV9AWWe,Cyndi Lauper,659
+497,2024-12-22 22:04:03.894657+00,FOCUSED,0.291293,attention-detection-v5,Girls Just Want to Have Fun,4y1LsJpmMti1PfRQV9AWWe,Cyndi Lauper,651
+498,2024-12-22 22:04:24.081613+00,DISTRACTED,0.966803,attention-detection-v5,Girls Just Want to Have Fun,4y1LsJpmMti1PfRQV9AWWe,Cyndi Lauper,596
+499,2024-12-22 22:04:43.387708+00,DISTRACTED,0.963898,attention-detection-v5,Girls Just Want to Have Fun,4y1LsJpmMti1PfRQV9AWWe,Cyndi Lauper,608
+500,2024-12-22 22:05:03.792666+00,DISTRACTED,0.958419,attention-detection-v5,Girls Just Want to Have Fun,4y1LsJpmMti1PfRQV9AWWe,Cyndi Lauper,603
+501,2024-12-22 22:05:23.955898+00,DISTRACTED,0.955753,attention-detection-v5,Girls Just Want to Have Fun,4y1LsJpmMti1PfRQV9AWWe,Cyndi Lauper,545
+502,2024-12-22 22:05:45.640064+00,DISTRACTED,0.935021,attention-detection-v5,Girls Just Want to Have Fun,4y1LsJpmMti1PfRQV9AWWe,Cyndi Lauper,588
+503,2024-12-22 22:06:04.919957+00,DISTRACTED,0.912619,attention-detection-v5,Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,Eagles,484
+504,2024-12-22 22:06:24.642695+00,DISTRACTED,0.924975,attention-detection-v5,Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,Eagles,565
+505,2024-12-22 22:06:41.773381+00,FOCUSED,0.941036,attention-detection-v5,Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,Eagles,116
+506,2024-12-22 22:07:00.682475+00,FOCUSED,0.950891,attention-detection-v5,Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,Eagles,519
+507,2024-12-22 22:07:17.98821+00,DISTRACTED,0.451354,attention-detection-v5,Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,Eagles,227
+508,2024-12-22 22:07:36.82917+00,DISTRACTED,0.953905,attention-detection-v5,Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,Eagles,459
+509,2024-12-22 22:07:54.472796+00,DISTRACTED,0.841196,attention-detection-v5,Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,Eagles,295
+510,2024-12-22 22:08:13.879807+00,DISTRACTED,0.869185,attention-detection-v5,Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,Eagles,466
+511,2024-12-22 22:08:35.742516+00,DISTRACTED,0.900829,attention-detection-v5,Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,Eagles,463
+512,2024-12-22 22:08:53.283562+00,DISTRACTED,0.447302,attention-detection-v5,Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,Eagles,257
+513,2024-12-22 22:09:13.296865+00,DISTRACTED,0.944385,attention-detection-v5,Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,Eagles,526
+514,2024-12-22 22:09:32.114961+00,DISTRACTED,0.941718,attention-detection-v5,Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,Eagles,450
+515,2024-12-22 22:09:49.427826+00,FOCUSED,0.931138,attention-detection-v5,Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,Eagles,176
+516,2024-12-22 22:10:09.614659+00,DISTRACTED,0.924149,attention-detection-v5,Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,Eagles,251
+517,2024-12-22 22:10:28.295407+00,DISTRACTED,0.801595,attention-detection-v5,Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,Eagles,528
+518,2024-12-22 22:10:47.315828+00,DISTRACTED,0.958936,attention-detection-v5,Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,Eagles,459
+519,2024-12-22 22:11:05.928014+00,DISTRACTED,0.9504,attention-detection-v5,Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,Eagles,440
+520,2024-12-22 22:11:24.895719+00,DISTRACTED,0.964605,attention-detection-v5,Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,Eagles,444
+521,2024-12-22 22:11:47.93773+00,DISTRACTED,0.965199,attention-detection-v5,Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,Eagles,467
+522,2024-12-22 22:12:09.156817+00,DISTRACTED,0.960046,attention-detection-v5,Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,Eagles,486
+523,2024-12-22 22:12:28.228202+00,DISTRACTED,0.909019,attention-detection-v5,Play That Funky Music,5uuJruktM9fMdN9Va0DUMl,Wild Cherry,544
+524,2024-12-22 22:12:49.011713+00,DISTRACTED,0.96283,attention-detection-v5,Play That Funky Music,5uuJruktM9fMdN9Va0DUMl,Wild Cherry,518
+525,2024-12-22 22:13:08.51138+00,DISTRACTED,0.958235,attention-detection-v5,Play That Funky Music,5uuJruktM9fMdN9Va0DUMl,Wild Cherry,533
+526,2024-12-22 22:13:29.652888+00,DISTRACTED,0.896701,attention-detection-v5,Play That Funky Music,5uuJruktM9fMdN9Va0DUMl,Wild Cherry,543
+527,2024-12-22 22:13:49.965854+00,DISTRACTED,0.958758,attention-detection-v5,Play That Funky Music,5uuJruktM9fMdN9Va0DUMl,Wild Cherry,508
+528,2024-12-22 22:14:11.159697+00,DISTRACTED,0.966353,attention-detection-v5,Play That Funky Music,5uuJruktM9fMdN9Va0DUMl,Wild Cherry,507
+529,2024-12-22 22:16:30.24681+00,FOCUSED,0.968311,attention-detection-v5,Play That Funky Music,5uuJruktM9fMdN9Va0DUMl,Wild Cherry,483
+530,2024-12-22 22:16:49.028928+00,FOCUSED,0.957053,attention-detection-v5,Play That Funky Music,5uuJruktM9fMdN9Va0DUMl,Wild Cherry,239
+531,2024-12-22 22:17:10.056485+00,FOCUSED,0.95164,attention-detection-v5,Play That Funky Music,5uuJruktM9fMdN9Va0DUMl,Wild Cherry,316
+532,2024-12-22 22:17:32.223702+00,DISTRACTED,0.47008,attention-detection-v5,Come Together - Remastered 2009,2EqlS6tkEnglzr7tkKAAYD,The Beatles,626
+533,2024-12-22 22:17:53.967275+00,DISTRACTED,0.55749,attention-detection-v5,Come Together - Remastered 2009,2EqlS6tkEnglzr7tkKAAYD,The Beatles,659
+534,2024-12-22 22:18:15.790286+00,DISTRACTED,0.813156,attention-detection-v5,Come Together - Remastered 2009,2EqlS6tkEnglzr7tkKAAYD,The Beatles,659
+535,2024-12-22 22:18:37.471583+00,DISTRACTED,0.805616,attention-detection-v5,Come Together - Remastered 2009,2EqlS6tkEnglzr7tkKAAYD,The Beatles,667
+536,2024-12-22 22:19:02.729078+00,FOCUSED,0.945979,attention-detection-v5,Come Together - Remastered 2009,2EqlS6tkEnglzr7tkKAAYD,The Beatles,437
+537,2024-12-22 22:19:27.218321+00,DISTRACTED,0.779082,attention-detection-v5,Come Together - Remastered 2009,2EqlS6tkEnglzr7tkKAAYD,The Beatles,604
+538,2024-12-22 22:19:51.709008+00,DISTRACTED,0.918787,attention-detection-v5,Come Together - Remastered 2009,2EqlS6tkEnglzr7tkKAAYD,The Beatles,634
+539,2024-12-22 22:20:14.412862+00,DISTRACTED,0.951684,attention-detection-v5,Come Together - Remastered 2009,2EqlS6tkEnglzr7tkKAAYD,The Beatles,619
+540,2024-12-22 22:20:35.863975+00,FOCUSED,0.535163,attention-detection-v5,Come Together - Remastered 2009,2EqlS6tkEnglzr7tkKAAYD,The Beatles,431
+541,2024-12-22 22:20:57.707965+00,DISTRACTED,0.933854,attention-detection-v5,Come Together - Remastered 2009,2EqlS6tkEnglzr7tkKAAYD,The Beatles,527
+542,2024-12-22 22:27:58.540661+00,FOCUSED,0.967807,attention-detection-v5,Sir Duke,4pNiE4LCVV74vfIBaUHm1b,Stevie Wonder,542
+543,2024-12-22 22:28:22.028063+00,FOCUSED,0.952197,attention-detection-v5,Sir Duke,4pNiE4LCVV74vfIBaUHm1b,Stevie Wonder,652
+544,2024-12-22 22:28:44.165015+00,FOCUSED,0.94836,attention-detection-v5,Sir Duke,4pNiE4LCVV74vfIBaUHm1b,Stevie Wonder,579
+545,2024-12-22 22:29:05.660144+00,FOCUSED,0.945959,attention-detection-v5,Sir Duke,4pNiE4LCVV74vfIBaUHm1b,Stevie Wonder,544
+546,2024-12-22 22:29:28.058116+00,FOCUSED,0.949645,attention-detection-v5,Sir Duke,4pNiE4LCVV74vfIBaUHm1b,Stevie Wonder,547
+547,2024-12-22 22:29:50.831992+00,FOCUSED,0.949424,attention-detection-v5,Sir Duke,4pNiE4LCVV74vfIBaUHm1b,Stevie Wonder,454
+548,2024-12-22 22:30:13.804253+00,FOCUSED,0.955679,attention-detection-v5,Sir Duke,4pNiE4LCVV74vfIBaUHm1b,Stevie Wonder,415
+549,2024-12-22 22:30:38.826563+00,FOCUSED,0.970679,attention-detection-v5,Sir Duke,4pNiE4LCVV74vfIBaUHm1b,Stevie Wonder,441
+550,2024-12-22 22:31:01.108129+00,FOCUSED,0.956976,attention-detection-v5,Sir Duke,4pNiE4LCVV74vfIBaUHm1b,Stevie Wonder,434
+551,2024-12-22 22:31:25.925938+00,FOCUSED,0.94636,attention-detection-v5,Sir Duke,4pNiE4LCVV74vfIBaUHm1b,Stevie Wonder,401
+552,2024-12-22 22:31:48.332744+00,FOCUSED,0.953724,attention-detection-v5,Intergalactic - Remastered 2009,5fpizYGbi5IQoEraj6FP0R,Beastie Boys,454
+553,2024-12-22 22:32:11.164315+00,FOCUSED,0.834016,attention-detection-v5,Intergalactic - Remastered 2009,5fpizYGbi5IQoEraj6FP0R,Beastie Boys,419
+554,2024-12-22 22:32:35.285776+00,FOCUSED,0.956284,attention-detection-v5,Intergalactic - Remastered 2009,5fpizYGbi5IQoEraj6FP0R,Beastie Boys,476
+555,2024-12-22 22:33:01.298807+00,FOCUSED,0.935312,attention-detection-v5,Intergalactic - Remastered 2009,5fpizYGbi5IQoEraj6FP0R,Beastie Boys,458
+556,2024-12-22 22:33:23.384262+00,FOCUSED,0.982126,attention-detection-v5,Intergalactic - Remastered 2009,5fpizYGbi5IQoEraj6FP0R,Beastie Boys,403
+557,2024-12-22 22:33:46.919461+00,FOCUSED,0.920999,attention-detection-v5,Intergalactic - Remastered 2009,5fpizYGbi5IQoEraj6FP0R,Beastie Boys,434
+558,2024-12-22 22:34:07.9499+00,FOCUSED,0.968861,attention-detection-v5,Intergalactic - Remastered 2009,5fpizYGbi5IQoEraj6FP0R,Beastie Boys,519
+559,2024-12-22 22:34:29.776417+00,FOCUSED,0.952903,attention-detection-v5,Intergalactic - Remastered 2009,5fpizYGbi5IQoEraj6FP0R,Beastie Boys,456
+560,2024-12-22 22:34:51.109692+00,FOCUSED,0.9676,attention-detection-v5,Intergalactic - Remastered 2009,5fpizYGbi5IQoEraj6FP0R,Beastie Boys,466
+561,2024-12-22 22:35:13.971755+00,FOCUSED,0.979991,attention-detection-v5,Intergalactic - Remastered 2009,5fpizYGbi5IQoEraj6FP0R,Beastie Boys,463
+562,2024-12-22 22:35:35.212693+00,FOCUSED,0.938154,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,268
+563,2024-12-22 22:35:56.68488+00,FOCUSED,0.956721,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,278
+564,2024-12-22 22:36:18.115256+00,FOCUSED,0.969343,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,496
+565,2024-12-22 22:36:39.088029+00,FOCUSED,0.961547,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,498
+566,2024-12-22 22:36:58.055494+00,FOCUSED,0.942895,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,227
+567,2024-12-22 22:37:22.281291+00,FOCUSED,0.963826,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,413
+568,2024-12-22 22:37:45.418496+00,FOCUSED,0.960001,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,471
+569,2024-12-22 22:38:07.604431+00,FOCUSED,0.956795,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,449
+570,2024-12-22 22:38:35.967258+00,FOCUSED,0.954242,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,420
+571,2024-12-22 22:39:01.401896+00,FOCUSED,0.954776,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,453
+572,2024-12-22 22:39:31.461481+00,FOCUSED,0.951119,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,298
+573,2024-12-22 22:40:03.368086+00,FOCUSED,0.954475,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,267
+574,2024-12-22 22:40:38.728192+00,FOCUSED,0.955024,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,454
+575,2024-12-22 22:40:58.917515+00,FOCUSED,0.956402,attention-detection-v5,Insane in the Brain,1oTHteQbmJw15rPxPVXUTv,Cypress Hill,252
+576,2024-12-22 22:41:28.756622+00,FOCUSED,0.959987,attention-detection-v5,Insane in the Brain,1oTHteQbmJw15rPxPVXUTv,Cypress Hill,287
+577,2024-12-22 22:42:06.401059+00,FOCUSED,0.975324,attention-detection-v5,Insane in the Brain,1oTHteQbmJw15rPxPVXUTv,Cypress Hill,487
+578,2024-12-22 22:42:37.076319+00,FOCUSED,0.947226,attention-detection-v5,Insane in the Brain,1oTHteQbmJw15rPxPVXUTv,Cypress Hill,445
+579,2024-12-22 22:43:06.937737+00,FOCUSED,0.938225,attention-detection-v5,Insane in the Brain,1oTHteQbmJw15rPxPVXUTv,Cypress Hill,447
+580,2024-12-22 22:43:44.183465+00,FOCUSED,0.960676,attention-detection-v5,Insane in the Brain,1oTHteQbmJw15rPxPVXUTv,Cypress Hill,468
+581,2024-12-22 22:48:18.866271+00,FOCUSED,0.94359,attention-detection-v5,Linus And Lucy,33EcmYsTQVIGRGnGPOfTwu,Vince Guaraldi Trio,463
+582,2024-12-22 22:48:52.095039+00,FOCUSED,0.94187,attention-detection-v5,Linus And Lucy,33EcmYsTQVIGRGnGPOfTwu,Vince Guaraldi Trio,512
+583,2024-12-22 22:49:11.244547+00,FOCUSED,0.966469,attention-detection-v5,Linus And Lucy,33EcmYsTQVIGRGnGPOfTwu,Vince Guaraldi Trio,335
+584,2024-12-22 22:50:02.325053+00,FOCUSED,0.942857,attention-detection-v5,Linus And Lucy,33EcmYsTQVIGRGnGPOfTwu,Vince Guaraldi Trio,457
+585,2024-12-22 22:50:39.132781+00,FOCUSED,0.953705,attention-detection-v5,Linus And Lucy,33EcmYsTQVIGRGnGPOfTwu,Vince Guaraldi Trio,518
+586,2024-12-22 22:51:01.59+00,FOCUSED,0.94559,attention-detection-v5,Come Together - Remastered 2009,2EqlS6tkEnglzr7tkKAAYD,The Beatles,425
+587,2024-12-22 22:51:48.628248+00,FOCUSED,0.960437,attention-detection-v5,Come Together - Remastered 2009,2EqlS6tkEnglzr7tkKAAYD,The Beatles,768
+588,2024-12-22 22:52:46.260345+00,FOCUSED,0.954155,attention-detection-v5,Come Together - Remastered 2009,2EqlS6tkEnglzr7tkKAAYD,The Beatles,724
+589,2024-12-22 22:53:07.787729+00,FOCUSED,0.959459,attention-detection-v5,Come Together - Remastered 2009,2EqlS6tkEnglzr7tkKAAYD,The Beatles,527
+590,2024-12-22 22:53:42.722089+00,FOCUSED,0.955068,attention-detection-v5,Come Together - Remastered 2009,2EqlS6tkEnglzr7tkKAAYD,The Beatles,337
+591,2024-12-22 22:54:28.077615+00,FOCUSED,0.963969,attention-detection-v5,Come Together - Remastered 2009,2EqlS6tkEnglzr7tkKAAYD,The Beatles,454
+592,2024-12-22 22:54:52.540126+00,FOCUSED,0.953302,attention-detection-v5,Come Together - Remastered 2009,2EqlS6tkEnglzr7tkKAAYD,The Beatles,60
+593,2024-12-22 22:55:11.298182+00,FOCUSED,0.964127,attention-detection-v5,Come Together - Remastered 2009,2EqlS6tkEnglzr7tkKAAYD,The Beatles,40
+594,2024-12-22 22:55:29.597657+00,FOCUSED,0.952347,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,6
+595,2024-12-22 22:55:50.690493+00,FOCUSED,0.890312,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,46
+596,2024-12-22 22:56:10.949818+00,FOCUSED,0.963664,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,292
+597,2024-12-22 22:56:31.297804+00,FOCUSED,0.96305,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,168
+598,2024-12-22 22:56:53.132533+00,FOCUSED,0.945441,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,253
+599,2024-12-22 22:57:13.218382+00,FOCUSED,0.957685,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,71
+600,2024-12-22 22:57:33.720849+00,FOCUSED,0.957634,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,105
+601,2024-12-22 22:57:53.978589+00,FOCUSED,0.95713,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,103
+602,2024-12-22 22:58:13.256231+00,FOCUSED,0.952648,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,165
+603,2024-12-22 22:58:33.662211+00,FOCUSED,0.933406,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,8
+604,2024-12-22 22:58:53.46471+00,FOCUSED,0.961173,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,246
+605,2024-12-22 22:59:13.105612+00,FOCUSED,0.955358,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,230
+606,2024-12-22 22:59:32.8874+00,FOCUSED,0.964399,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,234
+607,2024-12-22 22:59:54.190777+00,FOCUSED,0.96905,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,508
+608,2024-12-22 23:00:16.689053+00,FOCUSED,0.804032,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,486
+609,2024-12-22 23:00:35.589281+00,FOCUSED,0.955391,attention-detection-v5,Take Five,1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,296
+610,2024-12-22 23:00:54.712168+00,FOCUSED,0.95886,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,354
+611,2024-12-22 23:01:14.044035+00,FOCUSED,0.946055,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,346
+612,2024-12-22 23:01:45.661469+00,FOCUSED,0.95535,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,427
+613,2024-12-22 23:02:05.474127+00,FOCUSED,0.944723,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,295
+614,2024-12-22 23:02:25.13862+00,FOCUSED,0.957896,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,314
+615,2024-12-22 23:02:44.921399+00,FOCUSED,0.967012,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,328
+616,2024-12-22 23:03:04.918232+00,FOCUSED,0.950866,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,311
+617,2024-12-22 23:03:24.985668+00,FOCUSED,0.961856,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,316
+618,2024-12-22 23:03:44.533407+00,FOCUSED,0.953478,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,421
+619,2024-12-22 23:04:03.554725+00,FOCUSED,0.960072,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,351
+620,2024-12-22 23:04:23.288837+00,FOCUSED,0.960072,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,439
+621,2024-12-22 23:04:42.584005+00,FOCUSED,0.960022,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,172
+622,2024-12-22 23:05:05.242314+00,DISTRACTED,0.949417,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,467
+623,2024-12-22 23:05:24.643173+00,FOCUSED,0.957115,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,373
+624,2024-12-22 23:05:43.476813+00,FOCUSED,0.954833,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,328
+625,2024-12-22 23:06:03.357043+00,DISTRACTED,0.490786,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,309
+626,2024-12-22 23:06:25.627098+00,FOCUSED,0.968393,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,272
+627,2024-12-22 23:06:46.069891+00,FOCUSED,0.964715,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,343
+628,2024-12-22 23:07:04.980868+00,FOCUSED,0.95939,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,362
+629,2024-12-22 23:07:24.382923+00,FOCUSED,0.964108,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,331
+630,2024-12-22 23:07:43.511205+00,FOCUSED,0.9587,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,309
+631,2024-12-22 23:08:02.980395+00,FOCUSED,0.959398,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,321
+632,2024-12-22 23:08:22.159697+00,FOCUSED,0.957843,attention-detection-v5,Mood Indigo,770WTUryVzlj1FAwSUXabI,Frank Sinatra,322
+633,2024-12-22 23:08:42.336521+00,FOCUSED,0.950011,attention-detection-v5,Mood Indigo,770WTUryVzlj1FAwSUXabI,Frank Sinatra,463
+634,2024-12-22 23:09:02.285108+00,FOCUSED,0.882474,attention-detection-v5,Mood Indigo,770WTUryVzlj1FAwSUXabI,Frank Sinatra,332
+635,2024-12-22 23:09:21.448819+00,FOCUSED,0.95659,attention-detection-v5,Mood Indigo,770WTUryVzlj1FAwSUXabI,Frank Sinatra,390
+636,2024-12-22 23:09:41.579245+00,FOCUSED,0.960406,attention-detection-v5,Mood Indigo,770WTUryVzlj1FAwSUXabI,Frank Sinatra,474
+637,2024-12-22 23:10:01.054575+00,FOCUSED,0.960628,attention-detection-v5,Mood Indigo,770WTUryVzlj1FAwSUXabI,Frank Sinatra,361
+638,2024-12-22 23:10:20.666524+00,FOCUSED,0.961425,attention-detection-v5,Mood Indigo,770WTUryVzlj1FAwSUXabI,Frank Sinatra,405
+639,2024-12-22 23:10:40.197699+00,FOCUSED,0.957685,attention-detection-v5,Mood Indigo,770WTUryVzlj1FAwSUXabI,Frank Sinatra,376
+640,2024-12-22 23:45:08.993918+00,FOCUSED,0.961856,attention-detection-v5,Reptilia,1Sl4OsD0F6Iy91YBDQyOzl,The Strokes,723
+641,2024-12-22 23:45:31.474982+00,DISTRACTED,0.357648,attention-detection-v5,Reptilia,1Sl4OsD0F6Iy91YBDQyOzl,The Strokes,710
+642,2024-12-22 23:45:53.769949+00,FOCUSED,0.965044,attention-detection-v5,Reptilia,1Sl4OsD0F6Iy91YBDQyOzl,The Strokes,671
+643,2024-12-22 23:46:15.159378+00,DISTRACTED,0.939,attention-detection-v5,Reptilia,1Sl4OsD0F6Iy91YBDQyOzl,The Strokes,630
+644,2024-12-22 23:46:41.119795+00,FOCUSED,0.957401,attention-detection-v5,Reptilia,1Sl4OsD0F6Iy91YBDQyOzl,The Strokes,589
+645,2024-12-22 23:47:02.580149+00,FOCUSED,0.969018,attention-detection-v5,Reptilia,1Sl4OsD0F6Iy91YBDQyOzl,The Strokes,630
+646,2024-12-22 23:47:24.109758+00,FOCUSED,0.952556,attention-detection-v5,Reptilia,1Sl4OsD0F6Iy91YBDQyOzl,The Strokes,643
+647,2024-12-22 23:47:45.786199+00,FOCUSED,0.961916,attention-detection-v5,Reptilia,1Sl4OsD0F6Iy91YBDQyOzl,The Strokes,637
+648,2024-12-22 23:48:07.642442+00,FOCUSED,0.967108,attention-detection-v5,Reptilia,1Sl4OsD0F6Iy91YBDQyOzl,The Strokes,668
+649,2024-12-22 23:48:29.084787+00,FOCUSED,0.888609,attention-detection-v5,A Horse with No Name,54eZmuggBFJbV7k248bTTt,"America, George Martin",627
+650,2024-12-22 23:49:01.295585+00,FOCUSED,0.968544,attention-detection-v5,A Horse with No Name,54eZmuggBFJbV7k248bTTt,"America, George Martin",654
+651,2024-12-22 23:49:24.490197+00,FOCUSED,0.958384,attention-detection-v5,A Horse with No Name,54eZmuggBFJbV7k248bTTt,"America, George Martin",574
+652,2024-12-22 23:49:47.372426+00,DISTRACTED,0.368787,attention-detection-v5,A Horse with No Name,54eZmuggBFJbV7k248bTTt,"America, George Martin",590
+653,2024-12-22 23:50:06.449474+00,FOCUSED,0.955628,attention-detection-v5,A Horse with No Name,54eZmuggBFJbV7k248bTTt,"America, George Martin",202
+654,2024-12-22 23:50:28.682012+00,FOCUSED,0.968821,attention-detection-v5,A Horse with No Name,54eZmuggBFJbV7k248bTTt,"America, George Martin",590
+655,2024-12-22 23:50:49.441187+00,FOCUSED,0.962208,attention-detection-v5,A Horse with No Name,54eZmuggBFJbV7k248bTTt,"America, George Martin",489
+656,2024-12-22 23:51:08.824438+00,FOCUSED,0.960044,attention-detection-v5,A Horse with No Name,54eZmuggBFJbV7k248bTTt,"America, George Martin",487
+657,2024-12-22 23:51:30.188441+00,FOCUSED,0.963418,attention-detection-v5,A Horse with No Name,54eZmuggBFJbV7k248bTTt,"America, George Martin",575
+658,2024-12-22 23:51:51.61002+00,FOCUSED,0.953951,attention-detection-v5,A Horse with No Name,54eZmuggBFJbV7k248bTTt,"America, George Martin",470
+659,2024-12-22 23:52:13.256639+00,FOCUSED,0.958906,attention-detection-v5,A Horse with No Name,54eZmuggBFJbV7k248bTTt,"America, George Martin",588
+660,2024-12-22 23:52:36.143839+00,FOCUSED,0.955684,attention-detection-v5,"Shook Ones, Pt. II",33ZXjLCpiINn8eQIDYEPTD,Mobb Deep,472
+661,2024-12-22 23:52:57.831208+00,FOCUSED,0.905674,attention-detection-v5,"Shook Ones, Pt. II",33ZXjLCpiINn8eQIDYEPTD,Mobb Deep,626
+662,2024-12-22 23:53:19.789822+00,FOCUSED,0.965907,attention-detection-v5,"Shook Ones, Pt. II",33ZXjLCpiINn8eQIDYEPTD,Mobb Deep,677
+663,2024-12-22 23:53:42.801606+00,FOCUSED,0.963683,attention-detection-v5,"Shook Ones, Pt. II",33ZXjLCpiINn8eQIDYEPTD,Mobb Deep,610
+664,2024-12-22 23:54:05.966809+00,FOCUSED,0.964514,attention-detection-v5,"Shook Ones, Pt. II",33ZXjLCpiINn8eQIDYEPTD,Mobb Deep,629
+665,2024-12-22 23:54:28.568555+00,FOCUSED,0.95738,attention-detection-v5,"Shook Ones, Pt. II",33ZXjLCpiINn8eQIDYEPTD,Mobb Deep,816
+666,2024-12-22 23:54:51.360829+00,FOCUSED,0.959958,attention-detection-v5,"Shook Ones, Pt. II",33ZXjLCpiINn8eQIDYEPTD,Mobb Deep,769
+667,2024-12-22 23:55:14.164865+00,FOCUSED,0.951393,attention-detection-v5,"Shook Ones, Pt. II",33ZXjLCpiINn8eQIDYEPTD,Mobb Deep,889
+668,2024-12-22 23:55:37.041014+00,FOCUSED,0.955059,attention-detection-v5,"Shook Ones, Pt. II",33ZXjLCpiINn8eQIDYEPTD,Mobb Deep,714
+669,2024-12-22 23:56:00.14369+00,DISTRACTED,0.283719,attention-detection-v5,"Shook Ones, Pt. II",33ZXjLCpiINn8eQIDYEPTD,Mobb Deep,852
+670,2024-12-22 23:56:23.128879+00,FOCUSED,0.967304,attention-detection-v5,"Shook Ones, Pt. II",33ZXjLCpiINn8eQIDYEPTD,Mobb Deep,740
+671,2024-12-22 23:56:46.446619+00,DISTRACTED,0.251691,attention-detection-v5,"Shook Ones, Pt. II",33ZXjLCpiINn8eQIDYEPTD,Mobb Deep,724
+672,2024-12-22 23:57:09.858927+00,FOCUSED,0.958811,attention-detection-v5,"Shook Ones, Pt. II",33ZXjLCpiINn8eQIDYEPTD,Mobb Deep,825
+673,2024-12-22 23:57:32.912579+00,FOCUSED,0.959685,attention-detection-v5,"Shook Ones, Pt. II",33ZXjLCpiINn8eQIDYEPTD,Mobb Deep,698
+674,2024-12-22 23:57:55.769502+00,FOCUSED,0.95565,attention-detection-v5,"Shook Ones, Pt. II",33ZXjLCpiINn8eQIDYEPTD,Mobb Deep,677
+675,2024-12-22 23:58:19.555607+00,FOCUSED,0.947579,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,723
+676,2024-12-22 23:58:43.210057+00,FOCUSED,0.95755,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,710
+677,2024-12-22 23:59:07.025384+00,FOCUSED,0.961741,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,705
+678,2024-12-22 23:59:31.242806+00,FOCUSED,0.962743,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,708
+679,2024-12-22 23:59:54.474636+00,FOCUSED,0.944901,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,713
+680,2024-12-23 00:00:18.912003+00,FOCUSED,0.957235,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,730
+681,2024-12-23 00:00:41.854806+00,DISTRACTED,0.812864,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,664
+682,2024-12-23 00:01:05.325371+00,DISTRACTED,0.742299,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,659
+683,2024-12-23 00:01:28.501327+00,FOCUSED,0.953574,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,684
+684,2024-12-23 00:01:51.90195+00,FOCUSED,0.960757,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,703
+685,2024-12-23 00:02:15.27186+00,FOCUSED,0.957352,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,722
+686,2024-12-23 00:02:38.480912+00,FOCUSED,0.957374,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,706
+687,2024-12-23 00:03:00.74586+00,FOCUSED,0.958609,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,641
+688,2024-12-23 00:03:22.998661+00,DISTRACTED,0.296427,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,657
+689,2024-12-23 00:03:45.497256+00,FOCUSED,0.960567,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,653
+690,2024-12-23 00:04:08.285508+00,FOCUSED,0.957941,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,757
+691,2024-12-23 00:04:31.325931+00,FOCUSED,0.946356,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,676
+692,2024-12-23 00:04:53.923019+00,FOCUSED,0.950777,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,739
+693,2024-12-23 00:05:16.339147+00,FOCUSED,0.956525,attention-detection-v5,Jump Around,6JymsaWDHk2Yj4e0yNBIFH,House Of Pain,640
+694,2024-12-23 00:05:39.452569+00,FOCUSED,0.952223,attention-detection-v5,Jump Around,6JymsaWDHk2Yj4e0yNBIFH,House Of Pain,647
+695,2024-12-23 00:06:03.379565+00,FOCUSED,0.957583,attention-detection-v5,Jump Around,6JymsaWDHk2Yj4e0yNBIFH,House Of Pain,767
+696,2024-12-23 00:06:27.113657+00,FOCUSED,0.9454,attention-detection-v5,Jump Around,6JymsaWDHk2Yj4e0yNBIFH,House Of Pain,777
+697,2024-12-23 00:06:51.359747+00,FOCUSED,0.958756,attention-detection-v5,Jump Around,6JymsaWDHk2Yj4e0yNBIFH,House Of Pain,651
+698,2024-12-23 00:07:14.638828+00,DISTRACTED,0.746219,attention-detection-v5,Jump Around,6JymsaWDHk2Yj4e0yNBIFH,House Of Pain,759
+699,2024-12-23 00:07:38.200597+00,FOCUSED,0.919041,attention-detection-v5,Jump Around,6JymsaWDHk2Yj4e0yNBIFH,House Of Pain,734
+700,2024-12-23 00:08:02.100671+00,FOCUSED,0.955597,attention-detection-v5,Jump Around,6JymsaWDHk2Yj4e0yNBIFH,House Of Pain,734
+701,2024-12-23 00:08:25.494809+00,DISTRACTED,0.264145,attention-detection-v5,Jump Around,6JymsaWDHk2Yj4e0yNBIFH,House Of Pain,740
+702,2024-12-23 00:08:49.119901+00,FOCUSED,0.957397,attention-detection-v5,California Love,6ayeqYtOtwVhqVB6k6MKoh,2Pac,615
+703,2024-12-23 00:09:12.7859+00,DISTRACTED,0.277916,attention-detection-v5,California Love,6ayeqYtOtwVhqVB6k6MKoh,2Pac,664
+704,2024-12-23 00:09:34.981351+00,FOCUSED,0.952261,attention-detection-v5,California Love,6ayeqYtOtwVhqVB6k6MKoh,2Pac,602
+705,2024-12-23 00:09:57.219911+00,FOCUSED,0.739368,attention-detection-v5,California Love,6ayeqYtOtwVhqVB6k6MKoh,2Pac,619
+706,2024-12-23 00:10:22.328177+00,FOCUSED,0.949399,attention-detection-v5,California Love,6ayeqYtOtwVhqVB6k6MKoh,2Pac,637
+707,2024-12-23 00:10:47.466888+00,DISTRACTED,0.291736,attention-detection-v5,California Love,6ayeqYtOtwVhqVB6k6MKoh,2Pac,581
+708,2024-12-23 00:11:09.414498+00,FOCUSED,0.957278,attention-detection-v5,California Love,6ayeqYtOtwVhqVB6k6MKoh,2Pac,626
+709,2024-12-23 00:11:33.487119+00,DISTRACTED,0.294666,attention-detection-v5,California Love,6ayeqYtOtwVhqVB6k6MKoh,2Pac,624
+710,2024-12-23 00:11:58.875515+00,FOCUSED,0.949209,attention-detection-v5,California Love,6ayeqYtOtwVhqVB6k6MKoh,2Pac,721
+711,2024-12-23 00:12:23.28069+00,FOCUSED,0.965486,attention-detection-v5,California Love,6ayeqYtOtwVhqVB6k6MKoh,2Pac,770
+712,2024-12-23 00:12:46.754067+00,FOCUSED,0.948399,attention-detection-v5,California Love,6ayeqYtOtwVhqVB6k6MKoh,2Pac,700
+713,2024-12-23 00:13:09.775425+00,FOCUSED,0.941731,attention-detection-v5,California Love,6ayeqYtOtwVhqVB6k6MKoh,2Pac,664
+714,2024-12-23 00:13:33.649079+00,FOCUSED,0.959064,attention-detection-v5,California Love,6ayeqYtOtwVhqVB6k6MKoh,2Pac,674
+715,2024-12-23 00:13:56.551644+00,FOCUSED,0.975482,attention-detection-v5,California Love,6ayeqYtOtwVhqVB6k6MKoh,2Pac,749
+716,2024-12-23 00:14:20.280513+00,FOCUSED,0.957903,attention-detection-v5,California Love,6ayeqYtOtwVhqVB6k6MKoh,2Pac,663
+717,2024-12-23 00:14:44.242985+00,DISTRACTED,0.271368,attention-detection-v5,Birdland,19vVghIuHm3IAfN4xpRF3q,Weather Report,669
+718,2024-12-23 00:15:05.851244+00,DISTRACTED,0.926656,attention-detection-v5,Birdland,19vVghIuHm3IAfN4xpRF3q,Weather Report,590
+719,2024-12-23 00:15:23.76889+00,FOCUSED,0.921677,attention-detection-v5,Birdland,19vVghIuHm3IAfN4xpRF3q,Weather Report,159
+720,2024-12-23 00:15:45.434603+00,FOCUSED,0.945275,attention-detection-v5,Birdland,19vVghIuHm3IAfN4xpRF3q,Weather Report,562
+721,2024-12-23 00:16:04.988569+00,DISTRACTED,0.716693,attention-detection-v5,Birdland,19vVghIuHm3IAfN4xpRF3q,Weather Report,528
+722,2024-12-23 00:16:26.443617+00,DISTRACTED,0.283,attention-detection-v5,Birdland,19vVghIuHm3IAfN4xpRF3q,Weather Report,571
+723,2024-12-23 00:16:48.210464+00,FOCUSED,0.961232,attention-detection-v5,Birdland,19vVghIuHm3IAfN4xpRF3q,Weather Report,571
+724,2024-12-23 00:17:10.753137+00,FOCUSED,0.910181,attention-detection-v5,Birdland,19vVghIuHm3IAfN4xpRF3q,Weather Report,506
+725,2024-12-23 00:17:32.659503+00,FOCUSED,0.967787,attention-detection-v5,Birdland,19vVghIuHm3IAfN4xpRF3q,Weather Report,643
+726,2024-12-23 00:17:54.946399+00,FOCUSED,0.964374,attention-detection-v5,Birdland,19vVghIuHm3IAfN4xpRF3q,Weather Report,536
+727,2024-12-23 00:18:16.449522+00,FOCUSED,0.961591,attention-detection-v5,Birdland,19vVghIuHm3IAfN4xpRF3q,Weather Report,569
+728,2024-12-23 00:18:38.772564+00,DISTRACTED,0.407818,attention-detection-v5,Birdland,19vVghIuHm3IAfN4xpRF3q,Weather Report,577
+729,2024-12-23 00:18:57.370721+00,FOCUSED,0.959417,attention-detection-v5,Birdland,19vVghIuHm3IAfN4xpRF3q,Weather Report,202
+730,2024-12-23 00:19:18.73048+00,DISTRACTED,0.874634,attention-detection-v5,Birdland,19vVghIuHm3IAfN4xpRF3q,Weather Report,563
+731,2024-12-23 00:19:40.28125+00,FOCUSED,0.909626,attention-detection-v5,Birdland,19vVghIuHm3IAfN4xpRF3q,Weather Report,574
+732,2024-12-23 00:20:01.791937+00,FOCUSED,0.934823,attention-detection-v5,Birdland,19vVghIuHm3IAfN4xpRF3q,Weather Report,554
+733,2024-12-23 00:20:23.386532+00,FOCUSED,0.930648,attention-detection-v5,Birdland,19vVghIuHm3IAfN4xpRF3q,Weather Report,567
+734,2024-12-23 00:20:45.095032+00,FOCUSED,0.96431,attention-detection-v5,Pusherman,7zrPswSV1yxrill5OyCuaU,Curtis Mayfield,576
+735,2024-12-23 00:21:06.377635+00,DISTRACTED,0.948222,attention-detection-v5,Pusherman,7zrPswSV1yxrill5OyCuaU,Curtis Mayfield,573
+736,2024-12-23 00:21:28.173121+00,FOCUSED,0.959644,attention-detection-v5,Pusherman,7zrPswSV1yxrill5OyCuaU,Curtis Mayfield,603
+737,2024-12-23 00:21:51.090352+00,DISTRACTED,0.921636,attention-detection-v5,Pusherman,7zrPswSV1yxrill5OyCuaU,Curtis Mayfield,571
+738,2024-12-23 00:22:13.346097+00,FOCUSED,0.959642,attention-detection-v5,Pusherman,7zrPswSV1yxrill5OyCuaU,Curtis Mayfield,580
+739,2024-12-23 00:22:35.181121+00,DISTRACTED,0.961702,attention-detection-v5,Pusherman,7zrPswSV1yxrill5OyCuaU,Curtis Mayfield,634
+740,2024-12-23 00:22:57.19227+00,FOCUSED,0.919501,attention-detection-v5,Pusherman,7zrPswSV1yxrill5OyCuaU,Curtis Mayfield,591
+741,2024-12-23 00:23:19.138118+00,FOCUSED,0.963991,attention-detection-v5,Pusherman,7zrPswSV1yxrill5OyCuaU,Curtis Mayfield,636
+742,2024-12-23 00:23:41.473818+00,FOCUSED,0.960337,attention-detection-v5,Pusherman,7zrPswSV1yxrill5OyCuaU,Curtis Mayfield,611
+743,2024-12-23 00:24:04.404961+00,FOCUSED,0.957985,attention-detection-v5,Pusherman,7zrPswSV1yxrill5OyCuaU,Curtis Mayfield,578
+744,2024-12-23 00:24:26.704555+00,DISTRACTED,0.92477,attention-detection-v5,Pusherman,7zrPswSV1yxrill5OyCuaU,Curtis Mayfield,589
+745,2024-12-23 00:24:48.386178+00,FOCUSED,0.962164,attention-detection-v5,Pusherman,7zrPswSV1yxrill5OyCuaU,Curtis Mayfield,650
+746,2024-12-23 00:25:08.54893+00,FOCUSED,0.938882,attention-detection-v5,Pusherman,7zrPswSV1yxrill5OyCuaU,Curtis Mayfield,391
+747,2024-12-23 00:25:30.22861+00,FOCUSED,0.966533,attention-detection-v5,Pusherman,7zrPswSV1yxrill5OyCuaU,Curtis Mayfield,666
+748,2024-12-23 00:25:52.561409+00,DISTRACTED,0.393574,attention-detection-v5,Hypnotize - 2007 Remaster,6Tsu3OsuMz4KEGKbOYd6A0,The Notorious B.I.G.,608
+749,2024-12-23 00:26:14.856444+00,FOCUSED,0.973374,attention-detection-v5,Hypnotize - 2007 Remaster,6Tsu3OsuMz4KEGKbOYd6A0,The Notorious B.I.G.,613
+750,2024-12-23 00:26:35.163999+00,FOCUSED,0.952632,attention-detection-v5,Hypnotize - 2007 Remaster,6Tsu3OsuMz4KEGKbOYd6A0,The Notorious B.I.G.,396
+751,2024-12-23 00:54:50.031394+00,FOCUSED,0.956428,attention-detection-v5,The Message,1vePC77pxGSUXLErDHuGtH,"Grandmaster Flash, The Furious Five",325
+752,2024-12-23 00:55:13.106575+00,FOCUSED,0.93639,attention-detection-v5,The Message,1vePC77pxGSUXLErDHuGtH,"Grandmaster Flash, The Furious Five",617
+753,2024-12-23 00:55:38.389622+00,FOCUSED,0.965683,attention-detection-v5,The Message,1vePC77pxGSUXLErDHuGtH,"Grandmaster Flash, The Furious Five",745
+754,2024-12-23 00:56:00.7819+00,FOCUSED,0.958209,attention-detection-v5,The Message,1vePC77pxGSUXLErDHuGtH,"Grandmaster Flash, The Furious Five",331
+755,2024-12-23 00:56:21.293463+00,FOCUSED,0.959889,attention-detection-v5,The Message,1vePC77pxGSUXLErDHuGtH,"Grandmaster Flash, The Furious Five",349
+756,2024-12-23 00:56:41.285626+00,FOCUSED,0.94353,attention-detection-v5,The Message,1vePC77pxGSUXLErDHuGtH,"Grandmaster Flash, The Furious Five",314
+757,2024-12-23 00:57:01.648474+00,FOCUSED,0.950017,attention-detection-v5,The Message,1vePC77pxGSUXLErDHuGtH,"Grandmaster Flash, The Furious Five",300
+758,2024-12-23 00:57:21.010807+00,FOCUSED,0.95532,attention-detection-v5,The Message,1vePC77pxGSUXLErDHuGtH,"Grandmaster Flash, The Furious Five",186
+759,2024-12-23 00:57:42.779742+00,FOCUSED,0.955072,attention-detection-v5,The Message,1vePC77pxGSUXLErDHuGtH,"Grandmaster Flash, The Furious Five",458
+760,2024-12-23 00:58:05.064464+00,FOCUSED,0.949094,attention-detection-v5,Gangsta's Paradise,7lQWRAjyhTpCWFC0jmclT4,"Coolio, L.V.",481
+761,2024-12-23 00:58:28.279902+00,FOCUSED,0.970595,attention-detection-v5,Gangsta's Paradise,7lQWRAjyhTpCWFC0jmclT4,"Coolio, L.V.",493
+762,2024-12-23 00:58:47.338263+00,FOCUSED,0.939917,attention-detection-v5,Gangsta's Paradise,7lQWRAjyhTpCWFC0jmclT4,"Coolio, L.V.",259
+763,2024-12-23 00:59:06.422261+00,FOCUSED,0.964149,attention-detection-v5,Gangsta's Paradise,7lQWRAjyhTpCWFC0jmclT4,"Coolio, L.V.",303
+764,2024-12-23 00:59:37.489569+00,FOCUSED,0.949447,attention-detection-v5,Gangsta's Paradise,7lQWRAjyhTpCWFC0jmclT4,"Coolio, L.V.",474
+765,2024-12-23 01:00:04.051773+00,DISTRACTED,0.345385,attention-detection-v5,Gangsta's Paradise,7lQWRAjyhTpCWFC0jmclT4,"Coolio, L.V.",543
+766,2024-12-23 01:00:30.768711+00,FOCUSED,0.962025,attention-detection-v5,Gangsta's Paradise,7lQWRAjyhTpCWFC0jmclT4,"Coolio, L.V.",543
+767,2024-12-23 01:00:54.851442+00,FOCUSED,0.957634,attention-detection-v5,Gangsta's Paradise,7lQWRAjyhTpCWFC0jmclT4,"Coolio, L.V.",475
+768,2024-12-23 01:01:20.260199+00,DISTRACTED,0.95625,attention-detection-v5,Gangsta's Paradise,7lQWRAjyhTpCWFC0jmclT4,"Coolio, L.V.",541
+769,2024-12-23 01:01:39.954828+00,FOCUSED,0.958138,attention-detection-v5,Gangsta's Paradise,7lQWRAjyhTpCWFC0jmclT4,"Coolio, L.V.",161
+770,2024-12-23 01:02:00.162363+00,FOCUSED,0.966789,attention-detection-v5,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,Stevie Wonder,205
+771,2024-12-23 01:02:18.715615+00,FOCUSED,0.948517,attention-detection-v5,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,Stevie Wonder,278
+772,2024-12-23 01:02:39.271889+00,FOCUSED,0.958807,attention-detection-v5,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,Stevie Wonder,264
+773,2024-12-23 01:03:02.211319+00,FOCUSED,0.950263,attention-detection-v5,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,Stevie Wonder,238
+774,2024-12-23 01:03:23.744748+00,FOCUSED,0.93775,attention-detection-v5,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,Stevie Wonder,192
+775,2024-12-23 01:03:50.29954+00,FOCUSED,0.952048,attention-detection-v5,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,Stevie Wonder,480
+776,2024-12-23 01:04:16.431682+00,FOCUSED,0.951417,attention-detection-v5,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,Stevie Wonder,571
+777,2024-12-23 01:04:39.080218+00,FOCUSED,0.957207,attention-detection-v5,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,Stevie Wonder,105
+778,2024-12-23 01:05:02.857218+00,FOCUSED,0.958457,attention-detection-v5,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,Stevie Wonder,118
+779,2024-12-23 01:05:25.346909+00,FOCUSED,0.946867,attention-detection-v5,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,Stevie Wonder,296
+780,2024-12-23 01:07:11.415399+00,FOCUSED,0.946195,attention-detection-v5,Somebody To Love,5txoZyuAmtCfmDjUCEphWm,Queen,323
+781,2024-12-23 01:07:37.05908+00,FOCUSED,0.960059,attention-detection-v5,Somebody To Love,5txoZyuAmtCfmDjUCEphWm,Queen,359
+782,2024-12-23 01:08:01.326016+00,FOCUSED,0.957662,attention-detection-v5,Somebody To Love,5txoZyuAmtCfmDjUCEphWm,Queen,507
+783,2024-12-23 01:08:33.658064+00,FOCUSED,0.923704,attention-detection-v5,Somebody To Love,5txoZyuAmtCfmDjUCEphWm,Queen,482
+784,2024-12-23 01:08:55.478975+00,FOCUSED,0.958464,attention-detection-v5,Somebody To Love,5txoZyuAmtCfmDjUCEphWm,Queen,232
+785,2024-12-23 01:09:24.08692+00,FOCUSED,0.944397,attention-detection-v5,Somebody To Love,5txoZyuAmtCfmDjUCEphWm,Queen,526
+786,2024-12-23 01:09:54.383704+00,FOCUSED,0.95947,attention-detection-v5,Somebody To Love,5txoZyuAmtCfmDjUCEphWm,Queen,463
+787,2024-12-23 01:10:15.897179+00,FOCUSED,0.973039,attention-detection-v5,Somebody To Love,5txoZyuAmtCfmDjUCEphWm,Queen,221
+788,2024-12-23 01:10:42.62796+00,FOCUSED,0.957368,attention-detection-v5,Somebody To Love,5txoZyuAmtCfmDjUCEphWm,Queen,392
+789,2024-12-23 01:11:01.938314+00,FOCUSED,0.967329,attention-detection-v5,Somebody To Love,5txoZyuAmtCfmDjUCEphWm,Queen,38
+790,2024-12-23 01:11:30.486252+00,FOCUSED,0.943646,attention-detection-v5,Here Comes The Sun - Remastered 2009,6dGnYIeXmHdcikdzNNDMm2,The Beatles,285
+791,2024-12-23 01:11:56.579513+00,FOCUSED,0.933371,attention-detection-v5,Here Comes The Sun - Remastered 2009,6dGnYIeXmHdcikdzNNDMm2,The Beatles,328
+792,2024-12-23 01:12:23.252271+00,FOCUSED,0.980078,attention-detection-v5,Here Comes The Sun - Remastered 2009,6dGnYIeXmHdcikdzNNDMm2,The Beatles,360
+793,2024-12-23 01:12:51.539377+00,FOCUSED,0.94649,attention-detection-v5,Here Comes The Sun - Remastered 2009,6dGnYIeXmHdcikdzNNDMm2,The Beatles,477
+794,2024-12-23 01:13:19.182191+00,FOCUSED,0.954988,attention-detection-v5,Here Comes The Sun - Remastered 2009,6dGnYIeXmHdcikdzNNDMm2,The Beatles,476
+795,2024-12-23 01:13:42.171838+00,FOCUSED,0.95668,attention-detection-v5,Here Comes The Sun - Remastered 2009,6dGnYIeXmHdcikdzNNDMm2,The Beatles,247
+796,2024-12-23 01:14:05.221214+00,FOCUSED,0.959778,attention-detection-v5,Here Comes The Sun - Remastered 2009,6dGnYIeXmHdcikdzNNDMm2,The Beatles,298
+797,2024-12-23 01:14:31.541664+00,FOCUSED,0.96071,attention-detection-v5,Reptilia,1Sl4OsD0F6Iy91YBDQyOzl,The Strokes,278
+798,2024-12-23 01:14:52.41759+00,FOCUSED,0.952339,attention-detection-v5,Reptilia,1Sl4OsD0F6Iy91YBDQyOzl,The Strokes,165
+799,2024-12-23 01:15:14.295536+00,FOCUSED,0.953516,attention-detection-v5,Reptilia,1Sl4OsD0F6Iy91YBDQyOzl,The Strokes,195
+800,2024-12-23 01:15:38.856851+00,FOCUSED,0.955125,attention-detection-v5,Reptilia,1Sl4OsD0F6Iy91YBDQyOzl,The Strokes,117
+801,2024-12-23 01:16:07.334576+00,FOCUSED,0.964796,attention-detection-v5,Reptilia,1Sl4OsD0F6Iy91YBDQyOzl,The Strokes,306
+802,2024-12-23 01:16:30.053827+00,FOCUSED,0.959086,attention-detection-v5,Reptilia,1Sl4OsD0F6Iy91YBDQyOzl,The Strokes,297
+803,2024-12-23 01:16:52.643348+00,FOCUSED,0.949842,attention-detection-v5,Reptilia,1Sl4OsD0F6Iy91YBDQyOzl,The Strokes,269
+804,2024-12-23 01:17:10.580115+00,FOCUSED,0.952122,attention-detection-v5,Reptilia,1Sl4OsD0F6Iy91YBDQyOzl,The Strokes,76
+805,2024-12-23 01:17:31.316068+00,FOCUSED,0.960858,attention-detection-v5,Reptilia,1Sl4OsD0F6Iy91YBDQyOzl,The Strokes,436
+806,2024-12-23 01:17:55.108574+00,FOCUSED,0.94798,attention-detection-v5,Reptilia,1Sl4OsD0F6Iy91YBDQyOzl,The Strokes,458
+807,2024-12-23 01:18:18.542569+00,DISTRACTED,0.948792,attention-detection-v5,Poker Face,1QV6tiMFM6fSOKOGLMHYYg,Lady Gaga,416
+808,2024-12-23 01:18:43.630519+00,FOCUSED,0.963382,attention-detection-v5,Poker Face,1QV6tiMFM6fSOKOGLMHYYg,Lady Gaga,424
+809,2024-12-23 01:19:07.151958+00,FOCUSED,0.896832,attention-detection-v5,Poker Face,1QV6tiMFM6fSOKOGLMHYYg,Lady Gaga,446
+810,2024-12-23 01:19:28.180651+00,FOCUSED,0.961919,attention-detection-v5,Poker Face,1QV6tiMFM6fSOKOGLMHYYg,Lady Gaga,487
+811,2024-12-23 01:19:50.3554+00,DISTRACTED,0.955425,attention-detection-v5,Poker Face,1QV6tiMFM6fSOKOGLMHYYg,Lady Gaga,471
+812,2024-12-23 01:20:12.204163+00,FOCUSED,0.896824,attention-detection-v5,Poker Face,1QV6tiMFM6fSOKOGLMHYYg,Lady Gaga,462
+813,2024-12-23 01:20:34.73426+00,FOCUSED,0.906236,attention-detection-v5,Poker Face,1QV6tiMFM6fSOKOGLMHYYg,Lady Gaga,430
+814,2024-12-23 01:20:57.325994+00,DISTRACTED,0.655401,attention-detection-v5,Poker Face,1QV6tiMFM6fSOKOGLMHYYg,Lady Gaga,441
+815,2024-12-23 01:21:20.968049+00,FOCUSED,0.946069,attention-detection-v5,Poker Face,1QV6tiMFM6fSOKOGLMHYYg,Lady Gaga,455
+816,2024-12-23 01:21:43.165079+00,FOCUSED,0.950002,attention-detection-v5,Poker Face,1QV6tiMFM6fSOKOGLMHYYg,Lady Gaga,478
+817,2024-12-23 01:22:07.138433+00,FOCUSED,0.961001,attention-detection-v5,Bennie And The Jets - Remastered 2014,5Wj1rJnCLpMHdLaxsFtJLs,Elton John,480
+818,2024-12-23 01:22:31.236101+00,FOCUSED,0.946367,attention-detection-v5,Bennie And The Jets - Remastered 2014,5Wj1rJnCLpMHdLaxsFtJLs,Elton John,461
+819,2024-12-23 01:22:57.164083+00,FOCUSED,0.943936,attention-detection-v5,Bennie And The Jets - Remastered 2014,5Wj1rJnCLpMHdLaxsFtJLs,Elton John,419
+820,2024-12-23 01:23:17.241265+00,FOCUSED,0.953339,attention-detection-v5,Bennie And The Jets - Remastered 2014,5Wj1rJnCLpMHdLaxsFtJLs,Elton John,365
+821,2024-12-23 01:23:38.144412+00,FOCUSED,0.947375,attention-detection-v5,Bennie And The Jets - Remastered 2014,5Wj1rJnCLpMHdLaxsFtJLs,Elton John,471
+822,2024-12-23 01:24:02.556336+00,DISTRACTED,0.950297,attention-detection-v5,Bennie And The Jets - Remastered 2014,5Wj1rJnCLpMHdLaxsFtJLs,Elton John,438
+823,2024-12-23 01:24:24.76206+00,DISTRACTED,0.836788,attention-detection-v5,Bennie And The Jets - Remastered 2014,5Wj1rJnCLpMHdLaxsFtJLs,Elton John,435
+824,2024-12-23 01:24:48.866534+00,DISTRACTED,0.805595,attention-detection-v5,Bennie And The Jets - Remastered 2014,5Wj1rJnCLpMHdLaxsFtJLs,Elton John,435
+825,2024-12-23 01:25:09.766537+00,FOCUSED,0.909603,attention-detection-v5,Bennie And The Jets - Remastered 2014,5Wj1rJnCLpMHdLaxsFtJLs,Elton John,454
+826,2024-12-23 01:25:27.628697+00,FOCUSED,0.956749,attention-detection-v5,Bennie And The Jets - Remastered 2014,5Wj1rJnCLpMHdLaxsFtJLs,Elton John,76
+827,2024-12-23 01:25:47.167311+00,FOCUSED,0.955086,attention-detection-v5,Bennie And The Jets - Remastered 2014,5Wj1rJnCLpMHdLaxsFtJLs,Elton John,344
+828,2024-12-23 01:26:08.928352+00,FOCUSED,0.954126,attention-detection-v5,Bennie And The Jets - Remastered 2014,5Wj1rJnCLpMHdLaxsFtJLs,Elton John,195
+829,2024-12-23 01:26:36.227688+00,FOCUSED,0.93091,attention-detection-v5,Bennie And The Jets - Remastered 2014,5Wj1rJnCLpMHdLaxsFtJLs,Elton John,407
+830,2024-12-23 01:27:04.907189+00,FOCUSED,0.929663,attention-detection-v5,Bennie And The Jets - Remastered 2014,5Wj1rJnCLpMHdLaxsFtJLs,Elton John,416
+831,2024-12-23 01:27:31.995773+00,FOCUSED,0.921126,attention-detection-v5,Kiss,62LJFaYihsdVrrkgUOJC05,Prince,518
+832,2024-12-23 01:27:58.08765+00,FOCUSED,0.933885,attention-detection-v5,Kiss,62LJFaYihsdVrrkgUOJC05,Prince,454
+833,2024-12-23 01:28:32.897926+00,FOCUSED,0.951573,attention-detection-v5,Kiss,62LJFaYihsdVrrkgUOJC05,Prince,455
+834,2024-12-23 01:29:02.927881+00,FOCUSED,0.955442,attention-detection-v5,Kiss,62LJFaYihsdVrrkgUOJC05,Prince,523
+835,2024-12-23 01:29:33.18496+00,FOCUSED,0.960688,attention-detection-v5,Kiss,62LJFaYihsdVrrkgUOJC05,Prince,529
+836,2024-12-23 01:29:58.486231+00,FOCUSED,0.93801,attention-detection-v5,Kiss,62LJFaYihsdVrrkgUOJC05,Prince,444
+837,2024-12-23 01:30:25.304581+00,DISTRACTED,0.924689,attention-detection-v5,Kiss,62LJFaYihsdVrrkgUOJC05,Prince,489
+838,2024-12-23 01:30:51.489907+00,FOCUSED,0.917331,attention-detection-v5,Kiss,62LJFaYihsdVrrkgUOJC05,Prince,544
+839,2024-12-23 01:31:26.218976+00,DISTRACTED,0.862825,attention-detection-v5,Fight For Your Right,5NLuC70kZQv8q34QyQa1DP,Beastie Boys,542
+840,2024-12-23 01:31:51.103072+00,DISTRACTED,0.94284,attention-detection-v5,Fight For Your Right,5NLuC70kZQv8q34QyQa1DP,Beastie Boys,479
+841,2024-12-23 01:32:16.671008+00,FOCUSED,0.945686,attention-detection-v5,Fight For Your Right,5NLuC70kZQv8q34QyQa1DP,Beastie Boys,448
+842,2024-12-23 01:32:37.46905+00,FOCUSED,0.520402,attention-detection-v5,Fight For Your Right,5NLuC70kZQv8q34QyQa1DP,Beastie Boys,421
+843,2024-12-23 01:32:58.221168+00,FOCUSED,0.959527,attention-detection-v5,Fight For Your Right,5NLuC70kZQv8q34QyQa1DP,Beastie Boys,425
+844,2024-12-23 01:33:19.236468+00,FOCUSED,0.900424,attention-detection-v5,Fight For Your Right,5NLuC70kZQv8q34QyQa1DP,Beastie Boys,423
+845,2024-12-23 01:33:38.405104+00,FOCUSED,0.951871,attention-detection-v5,Fight For Your Right,5NLuC70kZQv8q34QyQa1DP,Beastie Boys,237
+846,2024-12-23 01:34:02.401136+00,FOCUSED,0.924506,attention-detection-v5,Fight For Your Right,5NLuC70kZQv8q34QyQa1DP,Beastie Boys,389
+847,2024-12-23 01:34:29.628339+00,DISTRACTED,0.82839,attention-detection-v5,Fight For Your Right,5NLuC70kZQv8q34QyQa1DP,Beastie Boys,549
+848,2024-12-23 01:35:01.758272+00,FOCUSED,0.950856,attention-detection-v5,Fire on the Bayou,0BRETWVsgLUOyuw1GQdhiG,The Meters,833
+849,2024-12-23 01:39:42.672423+00,FOCUSED,0.961407,attention-detection-v5,Fire on the Bayou,0BRETWVsgLUOyuw1GQdhiG,The Meters,438
+850,2024-12-23 01:40:08.448447+00,FOCUSED,0.958362,attention-detection-v5,Fire on the Bayou,0BRETWVsgLUOyuw1GQdhiG,The Meters,263
+851,2024-12-23 01:40:56.451466+00,FOCUSED,0.960096,attention-detection-v5,Fire on the Bayou,0BRETWVsgLUOyuw1GQdhiG,The Meters,468
+852,2024-12-23 01:41:21.998072+00,FOCUSED,0.964951,attention-detection-v5,Fire on the Bayou,0BRETWVsgLUOyuw1GQdhiG,The Meters,405
+853,2024-12-23 01:41:59.390038+00,FOCUSED,0.94624,attention-detection-v5,Super Freak,2dCmGcEOQrMQhMMS8Vj7Ca,Rick James,213
+854,2024-12-23 01:42:36.952305+00,FOCUSED,0.964567,attention-detection-v5,Super Freak,2dCmGcEOQrMQhMMS8Vj7Ca,Rick James,443
+855,2024-12-23 01:42:57.244105+00,FOCUSED,0.964427,attention-detection-v5,Super Freak,2dCmGcEOQrMQhMMS8Vj7Ca,Rick James,58
+856,2024-12-23 01:43:31.86824+00,FOCUSED,0.960072,attention-detection-v5,Super Freak,2dCmGcEOQrMQhMMS8Vj7Ca,Rick James,410
+857,2024-12-23 01:44:17.616962+00,FOCUSED,0.960805,attention-detection-v5,Super Freak,2dCmGcEOQrMQhMMS8Vj7Ca,Rick James,400
+858,2024-12-23 01:45:09.793353+00,FOCUSED,0.961999,attention-detection-v5,Bad Romance,0SiywuOBRcynK0uKGWdCnn,Lady Gaga,407
+859,2024-12-23 01:45:49.29141+00,FOCUSED,0.95981,attention-detection-v5,Bad Romance,0SiywuOBRcynK0uKGWdCnn,Lady Gaga,471
+860,2024-12-23 01:46:17.584868+00,FOCUSED,0.960101,attention-detection-v5,Bad Romance,0SiywuOBRcynK0uKGWdCnn,Lady Gaga,254
+861,2024-12-23 01:47:08.707946+00,FOCUSED,0.955107,attention-detection-v5,Bad Romance,0SiywuOBRcynK0uKGWdCnn,Lady Gaga,460
+862,2024-12-23 01:47:27.070553+00,FOCUSED,0.961247,attention-detection-v5,Bad Romance,0SiywuOBRcynK0uKGWdCnn,Lady Gaga,121
+863,2024-12-23 01:47:45.330627+00,FOCUSED,0.965786,attention-detection-v5,Bad Romance,0SiywuOBRcynK0uKGWdCnn,Lady Gaga,245
+864,2024-12-23 01:48:06.488417+00,FOCUSED,0.9565,attention-detection-v5,Bad Romance,0SiywuOBRcynK0uKGWdCnn,Lady Gaga,504
+865,2024-12-23 01:48:28.024239+00,FOCUSED,0.959748,attention-detection-v5,Bad Romance,0SiywuOBRcynK0uKGWdCnn,Lady Gaga,484
+866,2024-12-23 01:48:49.569122+00,DISTRACTED,0.947343,attention-detection-v5,Bad Romance,0SiywuOBRcynK0uKGWdCnn,Lady Gaga,446
+867,2024-12-23 01:49:11.143596+00,DISTRACTED,0.945192,attention-detection-v5,Bad Romance,0SiywuOBRcynK0uKGWdCnn,Lady Gaga,446
+868,2024-12-23 01:49:32.650633+00,DISTRACTED,0.95962,attention-detection-v5,Bad Romance,0SiywuOBRcynK0uKGWdCnn,Lady Gaga,446
+869,2024-12-23 01:49:52.565333+00,FOCUSED,0.952053,attention-detection-v5,Bad Romance,0SiywuOBRcynK0uKGWdCnn,Lady Gaga,457
+870,2024-12-23 01:50:12.6773+00,FOCUSED,0.954073,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,451
+871,2024-12-23 01:50:30.801729+00,FOCUSED,0.961248,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,142
+872,2024-12-23 01:50:49.890546+00,FOCUSED,0.955945,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,384
+873,2024-12-23 01:51:11.462617+00,FOCUSED,0.644104,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,436
+874,2024-12-23 01:51:30.12472+00,FOCUSED,0.951829,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,457
+875,2024-12-23 01:51:47.994969+00,FOCUSED,0.961596,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,334
+876,2024-12-23 01:52:05.651756+00,FOCUSED,0.965297,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,339
+877,2024-12-23 01:52:24.86647+00,FOCUSED,0.952536,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,454
+878,2024-12-23 01:52:45.621101+00,FOCUSED,0.957129,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,480
+879,2024-12-23 01:53:04.540775+00,FOCUSED,0.955695,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,474
+880,2024-12-23 01:53:26.780662+00,FOCUSED,0.953905,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,440
+881,2024-12-23 01:53:48.343378+00,FOCUSED,0.957565,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,431
+882,2024-12-23 01:54:07.248631+00,FOCUSED,0.967018,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,464
+883,2024-12-23 01:54:29.941245+00,FOCUSED,0.959115,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,425
+884,2024-12-23 01:57:07.770361+00,FOCUSED,0.947204,attention-detection-v5,Land of 1000 Dances,76ICmoJ4PcoMWoooaTxnQs,Wilson Pickett,498
+885,2024-12-23 01:57:32.620585+00,FOCUSED,0.963166,attention-detection-v5,Land of 1000 Dances,76ICmoJ4PcoMWoooaTxnQs,Wilson Pickett,495
+886,2024-12-23 01:57:51.608481+00,FOCUSED,0.926152,attention-detection-v5,Land of 1000 Dances,76ICmoJ4PcoMWoooaTxnQs,Wilson Pickett,462
+887,2024-12-23 01:58:12.196648+00,FOCUSED,0.962243,attention-detection-v5,Land of 1000 Dances,76ICmoJ4PcoMWoooaTxnQs,Wilson Pickett,455
+888,2024-12-23 01:58:35.413722+00,FOCUSED,0.954174,attention-detection-v5,Strawberry Letter 23,00kvKlIvfzQLSi6T2zwXuS,The Brothers Johnson,355
+889,2024-12-23 01:58:53.850466+00,FOCUSED,0.959426,attention-detection-v5,Strawberry Letter 23,00kvKlIvfzQLSi6T2zwXuS,The Brothers Johnson,389
+890,2024-12-23 01:59:12.195609+00,FOCUSED,0.96539,attention-detection-v5,Strawberry Letter 23,00kvKlIvfzQLSi6T2zwXuS,The Brothers Johnson,374
+891,2024-12-23 01:59:31.268346+00,FOCUSED,0.953655,attention-detection-v5,Strawberry Letter 23,00kvKlIvfzQLSi6T2zwXuS,The Brothers Johnson,400
+892,2024-12-23 01:59:48.476912+00,FOCUSED,0.958563,attention-detection-v5,Strawberry Letter 23,00kvKlIvfzQLSi6T2zwXuS,The Brothers Johnson,139
+893,2024-12-23 02:00:09.835015+00,FOCUSED,0.972164,attention-detection-v5,Strawberry Letter 23,00kvKlIvfzQLSi6T2zwXuS,The Brothers Johnson,439
+894,2024-12-23 02:00:29.37839+00,FOCUSED,0.959232,attention-detection-v5,Strawberry Letter 23,00kvKlIvfzQLSi6T2zwXuS,The Brothers Johnson,381
+895,2024-12-23 02:00:48.967114+00,FOCUSED,0.953908,attention-detection-v5,Strawberry Letter 23,00kvKlIvfzQLSi6T2zwXuS,The Brothers Johnson,465
+896,2024-12-23 02:01:09.821925+00,FOCUSED,0.957788,attention-detection-v5,Strawberry Letter 23,00kvKlIvfzQLSi6T2zwXuS,The Brothers Johnson,399
+897,2024-12-23 02:01:30.332674+00,FOCUSED,0.942489,attention-detection-v5,Strawberry Letter 23,00kvKlIvfzQLSi6T2zwXuS,The Brothers Johnson,397
+898,2024-12-23 02:01:51.197322+00,FOCUSED,0.947246,attention-detection-v5,Strawberry Letter 23,00kvKlIvfzQLSi6T2zwXuS,The Brothers Johnson,498
+899,2024-12-23 02:02:14.459164+00,FOCUSED,0.964117,attention-detection-v5,Strawberry Letter 23,00kvKlIvfzQLSi6T2zwXuS,The Brothers Johnson,389
+900,2024-12-23 02:02:34.342795+00,FOCUSED,0.947753,attention-detection-v5,Strawberry Letter 23,00kvKlIvfzQLSi6T2zwXuS,The Brothers Johnson,455
+901,2024-12-23 02:02:58.864345+00,FOCUSED,0.948401,attention-detection-v5,Strawberry Letter 23,00kvKlIvfzQLSi6T2zwXuS,The Brothers Johnson,396
+902,2024-12-23 02:03:20.445693+00,FOCUSED,0.935995,attention-detection-v5,Somethin' Stupid,4feXcsElKIVsGwkbnTHAfV,"Frank Sinatra, Nancy Sinatra",484
+903,2024-12-23 02:03:44.737502+00,FOCUSED,0.963851,attention-detection-v5,Somethin' Stupid,4feXcsElKIVsGwkbnTHAfV,"Frank Sinatra, Nancy Sinatra",389
+904,2024-12-23 02:04:04.187927+00,FOCUSED,0.957879,attention-detection-v5,Somethin' Stupid,4feXcsElKIVsGwkbnTHAfV,"Frank Sinatra, Nancy Sinatra",411
+905,2024-12-23 02:04:24.404327+00,FOCUSED,0.95646,attention-detection-v5,Somethin' Stupid,4feXcsElKIVsGwkbnTHAfV,"Frank Sinatra, Nancy Sinatra",393
+906,2024-12-23 02:04:45.497735+00,FOCUSED,0.923244,attention-detection-v5,Somethin' Stupid,4feXcsElKIVsGwkbnTHAfV,"Frank Sinatra, Nancy Sinatra",434
+907,2024-12-23 02:05:06.695445+00,FOCUSED,0.951557,attention-detection-v5,Somethin' Stupid,4feXcsElKIVsGwkbnTHAfV,"Frank Sinatra, Nancy Sinatra",457
+908,2024-12-23 02:05:30.370253+00,DISTRACTED,0.942361,attention-detection-v5,Somethin' Stupid,4feXcsElKIVsGwkbnTHAfV,"Frank Sinatra, Nancy Sinatra",550
+909,2024-12-23 02:05:49.829315+00,FOCUSED,0.950745,attention-detection-v5,Somethin' Stupid,4feXcsElKIVsGwkbnTHAfV,"Frank Sinatra, Nancy Sinatra",477
+910,2024-12-23 02:06:11.120248+00,DISTRACTED,0.964489,attention-detection-v5,Intergalactic - Remastered 2009,5fpizYGbi5IQoEraj6FP0R,Beastie Boys,478
+911,2024-12-23 02:06:35.500513+00,FOCUSED,0.947603,attention-detection-v5,Intergalactic - Remastered 2009,5fpizYGbi5IQoEraj6FP0R,Beastie Boys,468
+912,2024-12-23 02:06:54.890251+00,FOCUSED,0.962872,attention-detection-v5,Intergalactic - Remastered 2009,5fpizYGbi5IQoEraj6FP0R,Beastie Boys,454
+913,2024-12-23 02:07:22.016707+00,FOCUSED,0.931162,attention-detection-v5,Intergalactic - Remastered 2009,5fpizYGbi5IQoEraj6FP0R,Beastie Boys,523
+914,2024-12-23 02:07:42.704897+00,FOCUSED,0.947099,attention-detection-v5,Intergalactic - Remastered 2009,5fpizYGbi5IQoEraj6FP0R,Beastie Boys,447
+915,2024-12-23 02:08:03.074104+00,FOCUSED,0.915993,attention-detection-v5,Intergalactic - Remastered 2009,5fpizYGbi5IQoEraj6FP0R,Beastie Boys,503
+916,2024-12-23 02:08:25.501785+00,FOCUSED,0.947018,attention-detection-v5,Intergalactic - Remastered 2009,5fpizYGbi5IQoEraj6FP0R,Beastie Boys,478
+917,2024-12-23 02:08:46.268394+00,FOCUSED,0.941903,attention-detection-v5,Intergalactic - Remastered 2009,5fpizYGbi5IQoEraj6FP0R,Beastie Boys,456
+918,2024-12-23 02:09:05.307819+00,FOCUSED,0.955148,attention-detection-v5,Intergalactic - Remastered 2009,5fpizYGbi5IQoEraj6FP0R,Beastie Boys,436
+919,2024-12-23 02:09:26.328544+00,FOCUSED,0.944747,attention-detection-v5,Intergalactic - Remastered 2009,5fpizYGbi5IQoEraj6FP0R,Beastie Boys,432
+920,2024-12-23 02:09:48.882795+00,FOCUSED,0.443496,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,414
+921,2024-12-23 02:10:09.214828+00,FOCUSED,0.968237,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,435
+922,2024-12-23 02:10:27.98134+00,FOCUSED,0.961206,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,449
+923,2024-12-23 02:10:47.859348+00,FOCUSED,0.97042,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,448
+924,2024-12-23 02:11:06.624728+00,FOCUSED,0.958653,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,240
+925,2024-12-23 02:11:36.54939+00,FOCUSED,0.954432,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,513
+926,2024-12-23 02:11:57.066119+00,FOCUSED,0.949636,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,446
+927,2024-12-23 02:12:16.21804+00,FOCUSED,0.941948,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,457
+928,2024-12-23 02:12:37.178981+00,FOCUSED,0.96343,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,391
+929,2024-12-23 02:12:57.578431+00,FOCUSED,0.93712,attention-detection-v5,Hypnotize - 2007 Remaster,6Tsu3OsuMz4KEGKbOYd6A0,The Notorious B.I.G.,461
+930,2024-12-23 02:13:19.38945+00,FOCUSED,0.951306,attention-detection-v5,Hypnotize - 2007 Remaster,6Tsu3OsuMz4KEGKbOYd6A0,The Notorious B.I.G.,432
+931,2024-12-23 02:13:46.204979+00,FOCUSED,0.970394,attention-detection-v5,Hypnotize - 2007 Remaster,6Tsu3OsuMz4KEGKbOYd6A0,The Notorious B.I.G.,446
+932,2024-12-23 02:14:06.509822+00,FOCUSED,0.932149,attention-detection-v5,Hypnotize - 2007 Remaster,6Tsu3OsuMz4KEGKbOYd6A0,The Notorious B.I.G.,471
+933,2024-12-23 02:14:36.25436+00,FOCUSED,0.952072,attention-detection-v5,Hypnotize - 2007 Remaster,6Tsu3OsuMz4KEGKbOYd6A0,The Notorious B.I.G.,464
+934,2024-12-23 02:14:57.150128+00,FOCUSED,0.954493,attention-detection-v5,Hypnotize - 2007 Remaster,6Tsu3OsuMz4KEGKbOYd6A0,The Notorious B.I.G.,463
+935,2024-12-23 02:15:17.612816+00,FOCUSED,0.936274,attention-detection-v5,Hypnotize - 2007 Remaster,6Tsu3OsuMz4KEGKbOYd6A0,The Notorious B.I.G.,419
+936,2024-12-23 02:15:48.654595+00,FOCUSED,0.925566,attention-detection-v5,Hypnotize - 2007 Remaster,6Tsu3OsuMz4KEGKbOYd6A0,The Notorious B.I.G.,443
+937,2024-12-23 02:16:07.348468+00,FOCUSED,0.962555,attention-detection-v5,Hypnotize - 2007 Remaster,6Tsu3OsuMz4KEGKbOYd6A0,The Notorious B.I.G.,154
+938,2024-12-23 02:17:32.957346+00,FOCUSED,0.7152,attention-detection-v5,Strange Fruit,1CTex49P0iWwzUGsMNjgaV,Billie Holiday,425
+939,2024-12-23 02:18:25.113306+00,FOCUSED,0.945765,attention-detection-v5,Strange Fruit,1CTex49P0iWwzUGsMNjgaV,Billie Holiday,662
+940,2024-12-23 02:18:42.494269+00,FOCUSED,0.959805,attention-detection-v5,Strange Fruit,1CTex49P0iWwzUGsMNjgaV,Billie Holiday,245
+941,2024-12-23 04:09:59.488786+00,FOCUSED,0.944654,attention-detection-v5,The Bend,63pCUZDXRI4Tu6zhj8O4e2,King Princess,288
+942,2024-12-23 04:10:19.56898+00,FOCUSED,0.944756,attention-detection-v5,Bennie And The Jets - Remastered 2014,5Wj1rJnCLpMHdLaxsFtJLs,Elton John,460
+943,2024-12-23 04:10:38.020638+00,FOCUSED,0.957615,attention-detection-v5,Bennie And The Jets - Remastered 2014,5Wj1rJnCLpMHdLaxsFtJLs,Elton John,186
+944,2024-12-23 04:10:55.992369+00,FOCUSED,0.960712,attention-detection-v5,Bennie And The Jets - Remastered 2014,5Wj1rJnCLpMHdLaxsFtJLs,Elton John,37
+945,2024-12-23 04:11:16.923048+00,FOCUSED,0.959048,attention-detection-v5,Bennie And The Jets - Remastered 2014,5Wj1rJnCLpMHdLaxsFtJLs,Elton John,457
+946,2024-12-23 04:11:38.573381+00,FOCUSED,0.960691,attention-detection-v5,Bennie And The Jets - Remastered 2014,5Wj1rJnCLpMHdLaxsFtJLs,Elton John,446
+947,2024-12-23 04:11:59.963637+00,FOCUSED,0.958031,attention-detection-v5,Bennie And The Jets - Remastered 2014,5Wj1rJnCLpMHdLaxsFtJLs,Elton John,506
+948,2024-12-23 04:28:47.753917+00,DISTRACTED,0.501431,attention-detection-v5,I Heard It Through The Grapevine,1tqT6DhmsrtQgyCKUwotiw,Marvin Gaye,368
+949,2024-12-23 04:29:11.473221+00,DISTRACTED,0.703132,attention-detection-v5,Hey Jude,1eT2CjXwFXNx6oY5ydvzKU,The Beatles,402
+950,2024-12-23 04:29:33.683273+00,FOCUSED,0.952798,attention-detection-v5,Hey Jude,1eT2CjXwFXNx6oY5ydvzKU,The Beatles,458
+951,2024-12-23 04:29:55.558984+00,DISTRACTED,0.787065,attention-detection-v5,Hey Jude,1eT2CjXwFXNx6oY5ydvzKU,The Beatles,390
+952,2024-12-23 04:30:17.638381+00,FOCUSED,0.726572,attention-detection-v5,Hey Jude,1eT2CjXwFXNx6oY5ydvzKU,The Beatles,399
+953,2024-12-23 04:30:39.385578+00,FOCUSED,0.649245,attention-detection-v5,Hey Jude,1eT2CjXwFXNx6oY5ydvzKU,The Beatles,390
+954,2024-12-23 04:31:01.140223+00,DISTRACTED,0.942405,attention-detection-v5,Hey Jude,1eT2CjXwFXNx6oY5ydvzKU,The Beatles,375
+955,2024-12-23 04:31:23.434081+00,FOCUSED,0.95428,attention-detection-v5,Hey Jude,1eT2CjXwFXNx6oY5ydvzKU,The Beatles,399
+956,2024-12-23 04:31:45.682349+00,FOCUSED,0.94853,attention-detection-v5,Hey Jude,1eT2CjXwFXNx6oY5ydvzKU,The Beatles,387
+957,2024-12-23 04:32:06.813975+00,DISTRACTED,0.836321,attention-detection-v5,Hey Jude,1eT2CjXwFXNx6oY5ydvzKU,The Beatles,423
+958,2024-12-23 04:32:28.602747+00,FOCUSED,0.932104,attention-detection-v5,Hey Jude,1eT2CjXwFXNx6oY5ydvzKU,The Beatles,388
+959,2024-12-23 04:32:51.272932+00,FOCUSED,0.854751,attention-detection-v5,Hey Jude,1eT2CjXwFXNx6oY5ydvzKU,The Beatles,353
+960,2024-12-23 04:33:13.680494+00,DISTRACTED,0.959891,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,433
+961,2024-12-23 04:33:33.72257+00,FOCUSED,0.965594,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,382
+962,2024-12-23 04:33:54.12591+00,FOCUSED,0.959027,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,360
+963,2024-12-23 04:34:15.836001+00,FOCUSED,0.897195,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,449
+964,2024-12-23 04:34:36.522712+00,FOCUSED,0.940676,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,325
+965,2024-12-23 04:34:56.740441+00,FOCUSED,0.957971,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,297
+966,2024-12-23 04:35:17.477911+00,FOCUSED,0.961767,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,384
+967,2024-12-23 04:35:36.505029+00,DISTRACTED,0.968171,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,270
+968,2024-12-23 04:35:55.500187+00,FOCUSED,0.948257,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,306
+969,2024-12-23 04:36:15.919494+00,DISTRACTED,0.961918,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,366
+970,2024-12-23 04:36:36.341185+00,DISTRACTED,0.954582,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,366
+971,2024-12-23 04:36:59.611415+00,FOCUSED,0.949243,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,456
+972,2024-12-23 04:37:17.012901+00,FOCUSED,0.940673,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,49
+973,2024-12-23 04:37:35.943893+00,DISTRACTED,0.485642,attention-detection-v5,Radio Ga Ga - Remastered 2011,1nQRg9q9uwALGzouOX5OyQ,Queen,299
+974,2024-12-23 04:38:31.474819+00,FOCUSED,0.958195,attention-detection-v5,50 Ways to Leave Your Lover,6Qb7gtV6Q4MnUjSbkFcopl,Paul Simon,313
+975,2024-12-23 04:38:51.653207+00,FOCUSED,0.942288,attention-detection-v5,50 Ways to Leave Your Lover,6Qb7gtV6Q4MnUjSbkFcopl,Paul Simon,333
+976,2024-12-23 04:39:12.510837+00,FOCUSED,0.955643,attention-detection-v5,50 Ways to Leave Your Lover,6Qb7gtV6Q4MnUjSbkFcopl,Paul Simon,392
+977,2024-12-23 04:39:34.408051+00,FOCUSED,0.913723,attention-detection-v5,50 Ways to Leave Your Lover,6Qb7gtV6Q4MnUjSbkFcopl,Paul Simon,450
+978,2024-12-23 04:39:56.417262+00,FOCUSED,0.930075,attention-detection-v5,50 Ways to Leave Your Lover,6Qb7gtV6Q4MnUjSbkFcopl,Paul Simon,451
+979,2024-12-23 04:40:18.481529+00,FOCUSED,0.960482,attention-detection-v5,50 Ways to Leave Your Lover,6Qb7gtV6Q4MnUjSbkFcopl,Paul Simon,444
+980,2024-12-23 04:40:40.022394+00,DISTRACTED,0.964431,attention-detection-v5,No song playing,No song playing,No song playing,451
+981,2024-12-23 04:41:01.631595+00,DISTRACTED,0.962477,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,451
+982,2024-12-23 04:41:20.816581+00,FOCUSED,0.960157,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,247
+983,2024-12-23 04:41:42.14289+00,FOCUSED,0.961511,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,474
+984,2024-12-23 04:42:04.423493+00,FOCUSED,0.960076,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,598
+985,2024-12-23 04:42:26.710069+00,FOCUSED,0.961324,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,647
+986,2024-12-23 04:42:48.485265+00,FOCUSED,0.95636,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,565
+987,2024-12-23 04:47:35.003518+00,DISTRACTED,0.956307,attention-detection-v5,Kiss,62LJFaYihsdVrrkgUOJC05,Prince,397
+988,2024-12-23 04:47:56.662857+00,FOCUSED,0.930062,attention-detection-v5,Kiss,62LJFaYihsdVrrkgUOJC05,Prince,386
+989,2024-12-23 04:48:18.052313+00,DISTRACTED,0.288384,attention-detection-v5,Kiss,62LJFaYihsdVrrkgUOJC05,Prince,395
+990,2024-12-23 04:48:38.480735+00,DISTRACTED,0.356871,attention-detection-v5,Kiss,62LJFaYihsdVrrkgUOJC05,Prince,222
+991,2024-12-23 04:48:59.450275+00,FOCUSED,0.890927,attention-detection-v5,Kiss,62LJFaYihsdVrrkgUOJC05,Prince,456
+992,2024-12-23 04:49:20.111214+00,FOCUSED,0.956547,attention-detection-v5,Kiss,62LJFaYihsdVrrkgUOJC05,Prince,457
+993,2024-12-23 04:49:41.512362+00,FOCUSED,0.958918,attention-detection-v5,Kiss,62LJFaYihsdVrrkgUOJC05,Prince,469
+994,2024-12-23 04:50:03.883626+00,FOCUSED,0.944777,attention-detection-v5,Kiss,62LJFaYihsdVrrkgUOJC05,Prince,575
+995,2024-12-23 04:50:25.757954+00,FOCUSED,0.951204,attention-detection-v5,Kiss,62LJFaYihsdVrrkgUOJC05,Prince,649
+996,2024-12-23 04:50:48.078889+00,DISTRACTED,0.957516,attention-detection-v5,Kiss,62LJFaYihsdVrrkgUOJC05,Prince,631
+997,2024-12-23 04:51:10.393163+00,FOCUSED,0.949949,attention-detection-v5,Kiss,62LJFaYihsdVrrkgUOJC05,Prince,565
+998,2024-12-23 04:56:20.213302+00,FOCUSED,0.959039,attention-detection-v5,Play That Funky Music,5uuJruktM9fMdN9Va0DUMl,Wild Cherry,599
+999,2024-12-23 04:56:42.006938+00,DISTRACTED,0.911667,attention-detection-v5,Play That Funky Music,5uuJruktM9fMdN9Va0DUMl,Wild Cherry,421
+1000,2024-12-23 04:57:02.503122+00,FOCUSED,0.953705,attention-detection-v5,Play That Funky Music,5uuJruktM9fMdN9Va0DUMl,Wild Cherry,315
+1001,2024-12-23 04:57:23.986077+00,DISTRACTED,0.951497,attention-detection-v5,Play That Funky Music,5uuJruktM9fMdN9Va0DUMl,Wild Cherry,412
+1002,2024-12-23 04:57:45.235939+00,FOCUSED,0.95347,attention-detection-v5,Play That Funky Music,5uuJruktM9fMdN9Va0DUMl,Wild Cherry,411
+1003,2024-12-23 04:58:05.822538+00,FOCUSED,0.796869,attention-detection-v5,Play That Funky Music,5uuJruktM9fMdN9Va0DUMl,Wild Cherry,400
+1004,2024-12-23 04:58:26.83345+00,FOCUSED,0.955167,attention-detection-v5,Play That Funky Music,5uuJruktM9fMdN9Va0DUMl,Wild Cherry,398
+1005,2024-12-23 04:58:48.470035+00,FOCUSED,0.941457,attention-detection-v5,Play That Funky Music,5uuJruktM9fMdN9Va0DUMl,Wild Cherry,548
+1006,2024-12-23 04:59:08.769228+00,DISTRACTED,0.960219,attention-detection-v5,Play That Funky Music,5uuJruktM9fMdN9Va0DUMl,Wild Cherry,299
+1007,2024-12-23 04:59:28.495773+00,FOCUSED,0.962125,attention-detection-v5,Play That Funky Music,5uuJruktM9fMdN9Va0DUMl,Wild Cherry,320
+1008,2024-12-23 04:59:49.225504+00,FOCUSED,0.954665,attention-detection-v5,Play That Funky Music,5uuJruktM9fMdN9Va0DUMl,Wild Cherry,398
+1009,2024-12-23 06:08:32.354379+00,FOCUSED,0.905955,attention-detection-v5,Slugger,3NMXHkEhxF2ijm2KC0wHKU,SASAMI,1123
+1010,2024-12-23 06:08:56.179187+00,FOCUSED,0.945251,attention-detection-v5,Slugger,3NMXHkEhxF2ijm2KC0wHKU,SASAMI,1060
+1011,2024-12-23 06:09:15.998852+00,FOCUSED,0.961066,attention-detection-v5,Spooky,3MtP9T0WF4xbIo8vqHYeXM,Dusty Springfield,299
+1012,2024-12-23 06:09:34.151055+00,FOCUSED,0.95542,attention-detection-v5,Spooky,3MtP9T0WF4xbIo8vqHYeXM,Dusty Springfield,209
+1013,2024-12-23 06:09:57.747686+00,FOCUSED,0.960646,attention-detection-v5,Spooky,3MtP9T0WF4xbIo8vqHYeXM,Dusty Springfield,1072
+1014,2024-12-23 06:10:20.272467+00,FOCUSED,0.952095,attention-detection-v5,Spooky,3MtP9T0WF4xbIo8vqHYeXM,Dusty Springfield,710
+1015,2024-12-23 06:10:43.37422+00,FOCUSED,0.953494,attention-detection-v5,Spooky,3MtP9T0WF4xbIo8vqHYeXM,Dusty Springfield,775
+1016,2024-12-23 06:11:04.570861+00,FOCUSED,0.956813,attention-detection-v5,Spooky,3MtP9T0WF4xbIo8vqHYeXM,Dusty Springfield,598
+1017,2024-12-23 06:11:27.791156+00,FOCUSED,0.95521,attention-detection-v5,Spooky,3MtP9T0WF4xbIo8vqHYeXM,Dusty Springfield,818
+1018,2024-12-23 06:11:48.680213+00,FOCUSED,0.944703,attention-detection-v5,Spooky,3MtP9T0WF4xbIo8vqHYeXM,Dusty Springfield,518
+1019,2024-12-23 06:12:09.838204+00,FOCUSED,0.941551,attention-detection-v5,Waterfalls,6qspW4YKycviDFjHBOaqUY,TLC,571
+1020,2024-12-23 06:12:34.046426+00,FOCUSED,0.961065,attention-detection-v5,Waterfalls,6qspW4YKycviDFjHBOaqUY,TLC,936
+1021,2024-12-23 06:12:58.44886+00,DISTRACTED,0.928278,attention-detection-v5,Waterfalls,6qspW4YKycviDFjHBOaqUY,TLC,987
+1022,2024-12-23 06:13:22.665786+00,FOCUSED,0.923681,attention-detection-v5,Waterfalls,6qspW4YKycviDFjHBOaqUY,TLC,979
+1023,2024-12-23 06:13:43.396882+00,FOCUSED,0.961064,attention-detection-v5,Waterfalls,6qspW4YKycviDFjHBOaqUY,TLC,561
+1024,2024-12-23 06:14:03.788727+00,FOCUSED,0.913798,attention-detection-v5,Waterfalls,6qspW4YKycviDFjHBOaqUY,TLC,531
+1025,2024-12-23 06:14:25.869597+00,FOCUSED,0.954482,attention-detection-v5,Waterfalls,6qspW4YKycviDFjHBOaqUY,TLC,864
+1026,2024-12-23 06:14:47.368798+00,FOCUSED,0.933047,attention-detection-v5,Waterfalls,6qspW4YKycviDFjHBOaqUY,TLC,519
+1027,2024-12-23 06:15:07.14329+00,FOCUSED,0.96612,attention-detection-v5,Waterfalls,6qspW4YKycviDFjHBOaqUY,TLC,323
+1028,2024-12-23 06:15:26.324859+00,FOCUSED,0.958602,attention-detection-v5,Waterfalls,6qspW4YKycviDFjHBOaqUY,TLC,267
+1029,2024-12-23 06:15:45.809396+00,FOCUSED,0.945535,attention-detection-v5,Waterfalls,6qspW4YKycviDFjHBOaqUY,TLC,314
+1030,2024-12-23 06:16:10.267638+00,FOCUSED,0.910738,attention-detection-v5,Waterfalls,6qspW4YKycviDFjHBOaqUY,TLC,1110
+1031,2024-12-23 06:16:34.774033+00,FOCUSED,0.901876,attention-detection-v5,Green Onions,4fQMGlCawbTkH9yPPZ49kP,Booker T. & the M.G.'s,1059
+1032,2024-12-23 06:16:59.430329+00,FOCUSED,0.932123,attention-detection-v5,Green Onions,4fQMGlCawbTkH9yPPZ49kP,Booker T. & the M.G.'s,1564
+1033,2024-12-23 06:17:24.77059+00,FOCUSED,0.944737,attention-detection-v5,Green Onions,4fQMGlCawbTkH9yPPZ49kP,Booker T. & the M.G.'s,1194
+1034,2024-12-23 06:17:49.308622+00,FOCUSED,0.930291,attention-detection-v5,Green Onions,4fQMGlCawbTkH9yPPZ49kP,Booker T. & the M.G.'s,1037
+1035,2024-12-23 06:18:12.856213+00,FOCUSED,0.951861,attention-detection-v5,Green Onions,4fQMGlCawbTkH9yPPZ49kP,Booker T. & the M.G.'s,901
+1036,2024-12-23 06:18:36.655371+00,FOCUSED,0.960447,attention-detection-v5,Green Onions,4fQMGlCawbTkH9yPPZ49kP,Booker T. & the M.G.'s,934
+1037,2024-12-23 06:19:00.484921+00,FOCUSED,0.942697,attention-detection-v5,Green Onions,4fQMGlCawbTkH9yPPZ49kP,Booker T. & the M.G.'s,1438
+1038,2024-12-23 06:19:20.969175+00,FOCUSED,0.956185,attention-detection-v5,Green Onions,4fQMGlCawbTkH9yPPZ49kP,Booker T. & the M.G.'s,592
+1039,2024-12-23 06:19:41.932567+00,FOCUSED,0.946714,attention-detection-v5,Gangsta's Paradise,7lQWRAjyhTpCWFC0jmclT4,"Coolio, L.V.",643
+1040,2024-12-23 06:20:02.82985+00,FOCUSED,0.95699,attention-detection-v5,No song playing,No song playing,No song playing,396
+1041,2024-12-23 06:20:23.743731+00,FOCUSED,0.953303,attention-detection-v5,Jump Around,6JymsaWDHk2Yj4e0yNBIFH,House Of Pain,685
+1042,2024-12-23 06:20:44.759289+00,FOCUSED,0.971988,attention-detection-v5,Jump Around,6JymsaWDHk2Yj4e0yNBIFH,House Of Pain,683
+1043,2024-12-23 06:21:05.951233+00,FOCUSED,0.938896,attention-detection-v5,Jump Around,6JymsaWDHk2Yj4e0yNBIFH,House Of Pain,683
+1044,2024-12-23 06:21:26.965022+00,FOCUSED,0.9168,attention-detection-v5,Jump Around,6JymsaWDHk2Yj4e0yNBIFH,House Of Pain,648
+1045,2024-12-23 06:21:46.816156+00,FOCUSED,0.929548,attention-detection-v5,Jump Around,6JymsaWDHk2Yj4e0yNBIFH,House Of Pain,345
+1046,2024-12-23 06:22:06.281201+00,FOCUSED,0.960094,attention-detection-v5,Jump Around,6JymsaWDHk2Yj4e0yNBIFH,House Of Pain,318
+1047,2024-12-23 06:22:28.423664+00,FOCUSED,0.966388,attention-detection-v5,Jump Around,6JymsaWDHk2Yj4e0yNBIFH,House Of Pain,738
+1048,2024-12-23 06:22:47.592594+00,FOCUSED,0.954934,attention-detection-v5,Jump Around,6JymsaWDHk2Yj4e0yNBIFH,House Of Pain,291
+1049,2024-12-23 06:23:08.785659+00,FOCUSED,0.965091,attention-detection-v5,Jump Around,6JymsaWDHk2Yj4e0yNBIFH,House Of Pain,420
+1050,2024-12-23 06:23:29.605394+00,FOCUSED,0.945947,attention-detection-v5,Jump Around,6JymsaWDHk2Yj4e0yNBIFH,House Of Pain,452
+1051,2024-12-23 06:23:50.482181+00,FOCUSED,0.961011,attention-detection-v5,The Message,1vePC77pxGSUXLErDHuGtH,"Grandmaster Flash, The Furious Five",412
+1052,2024-12-23 06:24:11.024952+00,FOCUSED,0.952335,attention-detection-v5,The Message,1vePC77pxGSUXLErDHuGtH,"Grandmaster Flash, The Furious Five",419
+1053,2024-12-23 06:24:29.6999+00,FOCUSED,0.954708,attention-detection-v5,The Message,1vePC77pxGSUXLErDHuGtH,"Grandmaster Flash, The Furious Five",239
+1054,2024-12-23 06:24:48.559153+00,FOCUSED,0.958698,attention-detection-v5,The Message,1vePC77pxGSUXLErDHuGtH,"Grandmaster Flash, The Furious Five",284
+1055,2024-12-23 06:25:07.781314+00,FOCUSED,0.951574,attention-detection-v5,The Message,1vePC77pxGSUXLErDHuGtH,"Grandmaster Flash, The Furious Five",338
+1056,2024-12-23 06:25:27.23453+00,FOCUSED,0.954282,attention-detection-v5,The Message,1vePC77pxGSUXLErDHuGtH,"Grandmaster Flash, The Furious Five",356
+1057,2024-12-23 06:25:45.888868+00,FOCUSED,0.953871,attention-detection-v5,The Message,1vePC77pxGSUXLErDHuGtH,"Grandmaster Flash, The Furious Five",264
+1058,2024-12-23 06:26:04.532647+00,FOCUSED,0.935326,attention-detection-v5,The Message,1vePC77pxGSUXLErDHuGtH,"Grandmaster Flash, The Furious Five",272
+1059,2024-12-23 06:26:23.209262+00,FOCUSED,0.944298,attention-detection-v5,The Message,1vePC77pxGSUXLErDHuGtH,"Grandmaster Flash, The Furious Five",262
+1060,2024-12-23 06:26:41.876288+00,FOCUSED,0.93123,attention-detection-v5,The Message,1vePC77pxGSUXLErDHuGtH,"Grandmaster Flash, The Furious Five",274
+1061,2024-12-23 06:27:00.729772+00,FOCUSED,0.923879,attention-detection-v5,Somethin' Stupid,4feXcsElKIVsGwkbnTHAfV,"Frank Sinatra, Nancy Sinatra",307
+1062,2024-12-23 06:27:19.989037+00,FOCUSED,0.909227,attention-detection-v5,Somethin' Stupid,4feXcsElKIVsGwkbnTHAfV,"Frank Sinatra, Nancy Sinatra",334
+1063,2024-12-23 06:27:38.970027+00,FOCUSED,0.92419,attention-detection-v5,Somethin' Stupid,4feXcsElKIVsGwkbnTHAfV,"Frank Sinatra, Nancy Sinatra",286
+1064,2024-12-23 06:27:57.569069+00,FOCUSED,0.935165,attention-detection-v5,Somethin' Stupid,4feXcsElKIVsGwkbnTHAfV,"Frank Sinatra, Nancy Sinatra",241
+1065,2024-12-23 06:28:16.282368+00,FOCUSED,0.961303,attention-detection-v5,Somethin' Stupid,4feXcsElKIVsGwkbnTHAfV,"Frank Sinatra, Nancy Sinatra",252
+1066,2024-12-23 06:28:35.257481+00,FOCUSED,0.931473,attention-detection-v5,Somethin' Stupid,4feXcsElKIVsGwkbnTHAfV,"Frank Sinatra, Nancy Sinatra",286
+1067,2024-12-23 06:28:54.249147+00,FOCUSED,0.94248,attention-detection-v5,Somethin' Stupid,4feXcsElKIVsGwkbnTHAfV,"Frank Sinatra, Nancy Sinatra",298
+1068,2024-12-23 06:29:12.495444+00,FOCUSED,0.960544,attention-detection-v5,Somethin' Stupid,4feXcsElKIVsGwkbnTHAfV,"Frank Sinatra, Nancy Sinatra",236
+1069,2024-12-23 06:29:32.241538+00,FOCUSED,0.956571,attention-detection-v5,Somethin' Stupid,4feXcsElKIVsGwkbnTHAfV,"Frank Sinatra, Nancy Sinatra",486
+1070,2024-12-23 06:29:55.068082+00,FOCUSED,0.963012,attention-detection-v5,Just Kissed My Baby,1TB0dZqFRQsnf4fLLLRKQV,The Meters,244
+1071,2024-12-23 06:30:14.526195+00,FOCUSED,0.955297,attention-detection-v5,Just Kissed My Baby,1TB0dZqFRQsnf4fLLLRKQV,The Meters,400
+1072,2024-12-23 06:30:34.070387+00,FOCUSED,0.957092,attention-detection-v5,Just Kissed My Baby,1TB0dZqFRQsnf4fLLLRKQV,The Meters,351
+1073,2024-12-23 06:30:54.008849+00,FOCUSED,0.954122,attention-detection-v5,Just Kissed My Baby,1TB0dZqFRQsnf4fLLLRKQV,The Meters,530
+1074,2024-12-23 06:31:14.291458+00,FOCUSED,0.963764,attention-detection-v5,Just Kissed My Baby,1TB0dZqFRQsnf4fLLLRKQV,The Meters,584
+1075,2024-12-23 06:31:34.630816+00,FOCUSED,0.962702,attention-detection-v5,Just Kissed My Baby,1TB0dZqFRQsnf4fLLLRKQV,The Meters,765
+1076,2024-12-23 06:31:54.744287+00,FOCUSED,0.943243,attention-detection-v5,Just Kissed My Baby,1TB0dZqFRQsnf4fLLLRKQV,The Meters,671
+1077,2024-12-23 06:32:15.092966+00,FOCUSED,0.9593,attention-detection-v5,Just Kissed My Baby,1TB0dZqFRQsnf4fLLLRKQV,The Meters,671
+1078,2024-12-23 06:32:36.078205+00,FOCUSED,0.966825,attention-detection-v5,Just Kissed My Baby,1TB0dZqFRQsnf4fLLLRKQV,The Meters,878
+1079,2024-12-23 06:32:55.969773+00,FOCUSED,0.966529,attention-detection-v5,Just Kissed My Baby,1TB0dZqFRQsnf4fLLLRKQV,The Meters,591
+1080,2024-12-23 06:33:19.732641+00,FOCUSED,0.960199,attention-detection-v5,Just Kissed My Baby,1TB0dZqFRQsnf4fLLLRKQV,The Meters,1541
+1081,2024-12-23 06:33:40.585931+00,FOCUSED,0.977885,attention-detection-v5,Just Kissed My Baby,1TB0dZqFRQsnf4fLLLRKQV,The Meters,659
+1082,2024-12-23 06:33:59.828335+00,FOCUSED,0.928881,attention-detection-v5,Just Kissed My Baby,1TB0dZqFRQsnf4fLLLRKQV,The Meters,362
+1083,2024-12-23 06:34:19.049981+00,FOCUSED,0.929847,attention-detection-v5,Just Kissed My Baby,1TB0dZqFRQsnf4fLLLRKQV,The Meters,330
+1084,2024-12-23 06:34:38.155026+00,FOCUSED,0.93809,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,364
+1085,2024-12-23 06:34:58.44654+00,FOCUSED,0.964685,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,257
+1086,2024-12-23 06:35:28.476943+00,FOCUSED,0.949461,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,479
+1087,2024-12-23 06:35:53.178556+00,FOCUSED,0.949346,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,1768
+1088,2024-12-23 06:36:18.047633+00,FOCUSED,0.929843,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,1263
+1089,2024-12-23 06:36:42.680658+00,FOCUSED,0.89817,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,1218
+1090,2024-12-23 06:37:01.970145+00,FOCUSED,0.95499,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,310
+1091,2024-12-23 06:37:21.381375+00,FOCUSED,0.936311,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,345
+1092,2024-12-23 06:37:41.27952+00,FOCUSED,0.94684,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,410
+1093,2024-12-23 06:38:06.166155+00,FOCUSED,0.955362,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,1248
+1094,2024-12-23 06:38:30.892827+00,FOCUSED,0.960913,attention-detection-v5,Big Poppa - 2005 Remaster,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,1225
+1095,2024-12-23 06:38:55.803825+00,FOCUSED,0.956282,attention-detection-v5,"Shook Ones, Pt. II",33ZXjLCpiINn8eQIDYEPTD,Mobb Deep,1232
+1096,2024-12-23 06:40:11.857558+00,FOCUSED,0.958313,attention-detection-v5,What's Going On,3Um9toULmYFGCpvaIPFw7l,Marvin Gaye,469
+1097,2024-12-23 06:40:34.085184+00,FOCUSED,0.943748,attention-detection-v5,What's Going On,3Um9toULmYFGCpvaIPFw7l,Marvin Gaye,1090
+1098,2024-12-23 06:40:58.152354+00,FOCUSED,0.947442,attention-detection-v5,What's Going On,3Um9toULmYFGCpvaIPFw7l,Marvin Gaye,858
+1099,2024-12-23 06:41:21.871054+00,FOCUSED,0.95775,attention-detection-v5,What's Going On,3Um9toULmYFGCpvaIPFw7l,Marvin Gaye,879
+1100,2024-12-23 06:41:45.679897+00,FOCUSED,0.961328,attention-detection-v5,What's Going On,3Um9toULmYFGCpvaIPFw7l,Marvin Gaye,904
+1101,2024-12-23 06:42:09.760144+00,FOCUSED,0.889258,attention-detection-v5,What's Going On,3Um9toULmYFGCpvaIPFw7l,Marvin Gaye,970
+1102,2024-12-23 06:42:32.780719+00,FOCUSED,0.945707,attention-detection-v5,What's Going On,3Um9toULmYFGCpvaIPFw7l,Marvin Gaye,1195
+1103,2024-12-23 06:42:57.551559+00,FOCUSED,0.903199,attention-detection-v5,What's Going On,3Um9toULmYFGCpvaIPFw7l,Marvin Gaye,960
+1104,2024-12-23 06:43:22.450749+00,FOCUSED,0.946579,attention-detection-v5,What's Going On,3Um9toULmYFGCpvaIPFw7l,Marvin Gaye,999
+1105,2024-12-23 06:43:47.08058+00,FOCUSED,0.90613,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,995
+1106,2024-12-23 06:44:11.649874+00,FOCUSED,0.944494,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,1036
+1107,2024-12-23 06:44:36.162913+00,FOCUSED,0.972351,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,1567
+1108,2024-12-23 06:45:00.854819+00,FOCUSED,0.941732,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,1181
+1109,2024-12-23 06:45:25.779149+00,FOCUSED,0.88322,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,1283
+1110,2024-12-23 06:45:51.601508+00,FOCUSED,0.94005,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,1844
+1111,2024-12-23 06:46:15.292728+00,FOCUSED,0.943965,attention-detection-v5,California Soul,0OwvrdjaJOypNsNQHyBWE5,Marlena Shaw,1058
+1112,2024-12-23 06:46:40.240259+00,FOCUSED,0.962323,attention-detection-v5,50 Ways to Leave Your Lover,6Qb7gtV6Q4MnUjSbkFcopl,Paul Simon,1101
+1113,2024-12-23 06:47:04.2768+00,FOCUSED,0.953197,attention-detection-v5,50 Ways to Leave Your Lover,6Qb7gtV6Q4MnUjSbkFcopl,Paul Simon,1110
+1114,2024-12-23 06:47:28.157582+00,FOCUSED,0.953197,attention-detection-v5,50 Ways to Leave Your Lover,6Qb7gtV6Q4MnUjSbkFcopl,Paul Simon,1105
+1115,2024-12-23 06:47:52.185594+00,DISTRACTED,0.947254,attention-detection-v5,50 Ways to Leave Your Lover,6Qb7gtV6Q4MnUjSbkFcopl,Paul Simon,1114
+1116,2024-12-23 06:48:16.196181+00,FOCUSED,0.929219,attention-detection-v5,50 Ways to Leave Your Lover,6Qb7gtV6Q4MnUjSbkFcopl,Paul Simon,1140
+1117,2024-12-23 06:48:40.487134+00,FOCUSED,0.961588,attention-detection-v5,50 Ways to Leave Your Lover,6Qb7gtV6Q4MnUjSbkFcopl,Paul Simon,1128
+1118,2024-12-23 06:49:04.581015+00,FOCUSED,0.835973,attention-detection-v5,50 Ways to Leave Your Lover,6Qb7gtV6Q4MnUjSbkFcopl,Paul Simon,1149
+1119,2024-12-23 06:49:29.723527+00,DISTRACTED,0.903234,attention-detection-v5,50 Ways to Leave Your Lover,6Qb7gtV6Q4MnUjSbkFcopl,Paul Simon,1454
+1120,2024-12-23 06:49:54.961783+00,FOCUSED,0.949208,attention-detection-v5,50 Ways to Leave Your Lover,6Qb7gtV6Q4MnUjSbkFcopl,Paul Simon,1226
+1121,2024-12-23 06:56:28.327271+00,FOCUSED,0.953674,attention-detection-v5,Give Up The Funk (Tear The Roof Off The Sucker),4XRkQloZFcRrCONN7ZQ49Y,Parliament,1542
+1122,2024-12-23 06:56:54.318299+00,FOCUSED,0.960001,attention-detection-v5,Give Up The Funk (Tear The Roof Off The Sucker),4XRkQloZFcRrCONN7ZQ49Y,Parliament,1223
+1123,2024-12-23 06:57:18.967468+00,FOCUSED,0.931149,attention-detection-v5,Give Up The Funk (Tear The Roof Off The Sucker),4XRkQloZFcRrCONN7ZQ49Y,Parliament,1047
+1124,2024-12-23 06:57:43.52093+00,FOCUSED,0.963635,attention-detection-v5,Give Up The Funk (Tear The Roof Off The Sucker),4XRkQloZFcRrCONN7ZQ49Y,Parliament,1111
+1125,2024-12-23 06:58:08.663935+00,FOCUSED,0.959449,attention-detection-v5,Give Up The Funk (Tear The Roof Off The Sucker),4XRkQloZFcRrCONN7ZQ49Y,Parliament,1188
+1126,2024-12-23 06:58:33.499311+00,FOCUSED,0.964881,attention-detection-v5,Give Up The Funk (Tear The Roof Off The Sucker),4XRkQloZFcRrCONN7ZQ49Y,Parliament,1042
+1127,2024-12-23 06:58:57.439684+00,FOCUSED,0.957086,attention-detection-v5,Give Up The Funk (Tear The Roof Off The Sucker),4XRkQloZFcRrCONN7ZQ49Y,Parliament,1462
+1128,2024-12-23 06:59:21.367687+00,FOCUSED,0.951588,attention-detection-v5,Give Up The Funk (Tear The Roof Off The Sucker),4XRkQloZFcRrCONN7ZQ49Y,Parliament,1404
+1129,2024-12-23 06:59:45.565386+00,FOCUSED,0.954705,attention-detection-v5,Give Up The Funk (Tear The Roof Off The Sucker),4XRkQloZFcRrCONN7ZQ49Y,Parliament,1542
+1130,2024-12-23 07:00:07.585869+00,FOCUSED,0.675577,attention-detection-v5,Give Up The Funk (Tear The Roof Off The Sucker),4XRkQloZFcRrCONN7ZQ49Y,Parliament,477
+1131,2024-12-23 07:00:27.589999+00,FOCUSED,0.960694,attention-detection-v5,Give Up The Funk (Tear The Roof Off The Sucker),4XRkQloZFcRrCONN7ZQ49Y,Parliament,445
+1132,2024-12-23 07:00:47.734583+00,FOCUSED,0.955286,attention-detection-v5,Give Up The Funk (Tear The Roof Off The Sucker),4XRkQloZFcRrCONN7ZQ49Y,Parliament,461
+1133,2024-12-23 07:01:12.595126+00,FOCUSED,0.964768,attention-detection-v5,Give Up The Funk (Tear The Roof Off The Sucker),4XRkQloZFcRrCONN7ZQ49Y,Parliament,1098
+1134,2024-12-23 07:01:37.309249+00,FOCUSED,0.442087,attention-detection-v5,Give Up The Funk (Tear The Roof Off The Sucker),4XRkQloZFcRrCONN7ZQ49Y,Parliament,1071
+1135,2024-12-23 07:05:30.020714+00,FOCUSED,0.952201,attention-detection-v5,Let's Dance - 2018 Remaster,3ix6K4wZY29bCujrSznwFZ,David Bowie,786
+1136,2024-12-23 07:05:54.776771+00,FOCUSED,0.915712,attention-detection-v5,Let's Dance - 2018 Remaster,3ix6K4wZY29bCujrSznwFZ,David Bowie,1171
+1137,2024-12-23 07:06:19.662845+00,DISTRACTED,0.780184,attention-detection-v5,Let's Dance - 2018 Remaster,3ix6K4wZY29bCujrSznwFZ,David Bowie,1191
+1138,2024-12-23 07:06:44.532254+00,FOCUSED,0.696197,attention-detection-v5,Let's Dance - 2018 Remaster,3ix6K4wZY29bCujrSznwFZ,David Bowie,1189
+1139,2024-12-23 07:07:09.261408+00,FOCUSED,0.952152,attention-detection-v5,Let's Dance - 2018 Remaster,3ix6K4wZY29bCujrSznwFZ,David Bowie,1083
+1140,2024-12-23 07:07:34.326207+00,DISTRACTED,0.642133,attention-detection-v5,Let's Dance - 2018 Remaster,3ix6K4wZY29bCujrSznwFZ,David Bowie,1202
+1141,2024-12-23 07:07:58.91625+00,FOCUSED,0.95151,attention-detection-v5,Let's Dance - 2018 Remaster,3ix6K4wZY29bCujrSznwFZ,David Bowie,804
+1142,2024-12-23 07:08:21.815629+00,FOCUSED,0.913915,attention-detection-v5,Let's Dance - 2018 Remaster,3ix6K4wZY29bCujrSznwFZ,David Bowie,743
+1143,2024-12-23 08:15:14.865713+00,FOCUSED,0.947786,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,899
+1144,2024-12-23 08:15:38.90936+00,FOCUSED,0.911076,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,1376
+1145,2024-12-23 08:16:02.809016+00,FOCUSED,0.96536,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,1364
+1146,2024-12-23 08:16:26.630829+00,FOCUSED,0.943147,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,1369
+1147,2024-12-23 08:16:46.441116+00,FOCUSED,0.948558,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,392
+1148,2024-12-23 08:17:11.329642+00,FOCUSED,0.941734,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,843
+1149,2024-12-23 08:17:35.090596+00,FOCUSED,0.746842,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,1318
+1150,2024-12-23 08:17:58.695962+00,FOCUSED,0.905688,attention-detection-v5,One Nation Under a Groove,2nqpN3cSmL0tTlJ724fE2a,Funkadelic,1315
+1151,2024-12-23 08:18:22.505414+00,DISTRACTED,0.389785,attention-detection-v5,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,Stevie Wonder,1314
+1152,2024-12-23 08:18:45.765554+00,FOCUSED,0.962759,attention-detection-v5,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,Stevie Wonder,1234
+1153,2024-12-23 08:19:04.870759+00,FOCUSED,0.953561,attention-detection-v5,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,Stevie Wonder,345
+1154,2024-12-23 08:19:23.881528+00,FOCUSED,0.943797,attention-detection-v5,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,Stevie Wonder,341
+1155,2024-12-23 08:19:42.92573+00,DISTRACTED,0.804811,attention-detection-v5,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,Stevie Wonder,365
+1156,2024-12-23 08:20:02.02374+00,FOCUSED,0.95236,attention-detection-v5,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,Stevie Wonder,365
+1157,2024-12-23 08:20:20.790234+00,DISTRACTED,0.959898,attention-detection-v5,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,Stevie Wonder,292
+1158,2024-12-23 08:20:39.948139+00,FOCUSED,0.949108,attention-detection-v5,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,Stevie Wonder,347
+1159,2024-12-23 08:20:59.184134+00,FOCUSED,0.937767,attention-detection-v5,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,Stevie Wonder,347
+1160,2024-12-23 08:21:17.953076+00,FOCUSED,0.950162,attention-detection-v5,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,Stevie Wonder,282
+1161,2024-12-23 08:21:36.62537+00,FOCUSED,0.959656,attention-detection-v5,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,Stevie Wonder,272
+1162,2024-12-23 08:21:55.443649+00,FOCUSED,0.961518,attention-detection-v5,Roxanne,3EYOJ48Et32uATr9ZmLnAo,The Police,287
+1163,2024-12-23 08:22:14.927085+00,FOCUSED,0.957733,attention-detection-v5,Roxanne,3EYOJ48Et32uATr9ZmLnAo,The Police,162
+1164,2024-12-23 08:22:34.05807+00,FOCUSED,0.952607,attention-detection-v5,Roxanne,3EYOJ48Et32uATr9ZmLnAo,The Police,345
+1165,2024-12-23 08:22:53.48495+00,FOCUSED,0.945111,attention-detection-v5,Roxanne,3EYOJ48Et32uATr9ZmLnAo,The Police,386
+1166,2024-12-23 08:23:12.807399+00,FOCUSED,0.945803,attention-detection-v5,Roxanne,3EYOJ48Et32uATr9ZmLnAo,The Police,386
+1167,2024-12-23 08:23:30.926954+00,FOCUSED,0.941249,attention-detection-v5,Roxanne,3EYOJ48Et32uATr9ZmLnAo,The Police,163
+1168,2024-12-23 08:23:48.850313+00,FOCUSED,0.95884,attention-detection-v5,Roxanne,3EYOJ48Et32uATr9ZmLnAo,The Police,43
+1169,2024-12-23 08:24:06.74471+00,FOCUSED,0.964051,attention-detection-v5,Roxanne,3EYOJ48Et32uATr9ZmLnAo,The Police,117
+1170,2024-12-23 08:24:28.138473+00,FOCUSED,0.873929,attention-detection-v5,Roxanne,3EYOJ48Et32uATr9ZmLnAo,The Police,744
+1171,2024-12-23 08:24:50.40815+00,FOCUSED,0.911896,attention-detection-v5,Roxanne,3EYOJ48Et32uATr9ZmLnAo,The Police,1028
+1172,2024-12-23 08:25:12.407188+00,FOCUSED,0.910927,attention-detection-v5,Papa Was A Rollin' Stone - Single Version,7MiLmLbwNoyf47xQ4TCVYp,The Temptations,858
+1173,2024-12-23 08:25:30.711284+00,FOCUSED,0.964639,attention-detection-v5,Papa Was A Rollin' Stone - Single Version,7MiLmLbwNoyf47xQ4TCVYp,The Temptations,133
+1174,2024-12-23 08:25:49.89137+00,FOCUSED,0.941987,attention-detection-v5,Papa Was A Rollin' Stone - Single Version,7MiLmLbwNoyf47xQ4TCVYp,The Temptations,313
+1175,2024-12-23 08:26:09.071269+00,FOCUSED,0.951522,attention-detection-v5,Papa Was A Rollin' Stone - Single Version,7MiLmLbwNoyf47xQ4TCVYp,The Temptations,331
+1176,2024-12-23 08:26:28.238594+00,FOCUSED,0.960844,attention-detection-v5,Papa Was A Rollin' Stone - Single Version,7MiLmLbwNoyf47xQ4TCVYp,The Temptations,303
+1177,2024-12-23 08:26:46.928673+00,FOCUSED,0.965395,attention-detection-v5,Papa Was A Rollin' Stone - Single Version,7MiLmLbwNoyf47xQ4TCVYp,The Temptations,245
+1178,2024-12-23 08:27:05.763673+00,FOCUSED,0.958901,attention-detection-v5,Papa Was A Rollin' Stone - Single Version,7MiLmLbwNoyf47xQ4TCVYp,The Temptations,255
+1179,2024-12-23 08:27:24.468107+00,FOCUSED,0.961767,attention-detection-v5,Papa Was A Rollin' Stone - Single Version,7MiLmLbwNoyf47xQ4TCVYp,The Temptations,238
+1180,2024-12-23 08:27:46.554104+00,FOCUSED,0.945408,attention-detection-v5,Papa Was A Rollin' Stone - Single Version,7MiLmLbwNoyf47xQ4TCVYp,The Temptations,878
+1181,2024-12-23 08:28:08.911913+00,FOCUSED,0.953674,attention-detection-v5,Papa Was A Rollin' Stone - Single Version,7MiLmLbwNoyf47xQ4TCVYp,The Temptations,927
+1182,2024-12-23 08:28:28.942675+00,FOCUSED,0.960983,attention-detection-v5,Papa Was A Rollin' Stone - Single Version,7MiLmLbwNoyf47xQ4TCVYp,The Temptations,457
+1183,2024-12-23 08:28:51.194693+00,FOCUSED,0.958485,attention-detection-v5,Papa Was A Rollin' Stone - Single Version,7MiLmLbwNoyf47xQ4TCVYp,The Temptations,588
+1184,2024-12-23 08:37:33.272339+00,FOCUSED,0.966577,attention-detection-v5,Superfly,4XsH9zBWPOCdXoH9ZDdS8r,Curtis Mayfield,478
+1185,2024-12-23 08:37:57.567183+00,FOCUSED,0.953293,attention-detection-v5,Superfly,4XsH9zBWPOCdXoH9ZDdS8r,Curtis Mayfield,1169
+1186,2024-12-23 08:38:18.866559+00,DISTRACTED,0.289957,attention-detection-v5,Superfly,4XsH9zBWPOCdXoH9ZDdS8r,Curtis Mayfield,673
