@@ -185,8 +185,8 @@ for seconds in range(50):
         f"Desired bpm: {round(desired_bpm,2)}"
     )
 
-    BPM_weighting = 0.45775001
-    lyrical_weighting = 0.54224999
+    BPM_weighting = 0.54224999 
+    lyrical_weighting = 0.45775001
 
     # weightings are assigned using feature importance from the random forest code
     summative = [
