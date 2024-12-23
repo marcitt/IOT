@@ -1,0 +1,11 @@
+path: "/content/gdrive/MyDrive/IOT/data"
+train: "/content/gdrive/MyDrive/IOT/data/images/train"
+val: "/content/gdrive/MyDrive/IOT/data/images/train"
+
+# Number of classes
+nc: 17
+
+# Class names
+names: ["dog", "person", "cat", "tv", "car", "meatballs", "marinara sauce", "tomato soup",
+        "chicken noodle soup", "french onion soup", "chicken breast", "ribs",
+        "pulled pork", "hamburger", "cavity", "distracted", "focused"]

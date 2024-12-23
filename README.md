@@ -38,7 +38,7 @@ A custom YOLO model was trained on 'focused' and 'distracted' images which can t
 **Notebook for Model Testing**
 1. `attention_detection/model_test.ipynb`
 
-These can be run in a jupyter notebook which avoids some of the issues presented by OpenCV in MacOS environment by using ipywidgets
+These can be run in a jupyter notebook which avoids some of the issues presented by OpenCV in MacOS environment by using ipywidgets.
 
 **Models**
 A total of 5 different models were trained, the weights for each of these models are stored as:
@@ -58,15 +58,15 @@ Model 5 showed the most optimal performance and was applied for the majority of 
 ## Data Collection for Attention Detection Model Training
 - 7 experiments were defined to collect data for training the YOLO attention detection model, 200 images were collected for each class 'focused' and 'distracted'
 - 7 experiments include 4 experiments to collect 'focused' image classes: report-writing (focused/100imgs), research (focused/75imgs), programming (focused/25imgs), planning (focused/10imgs)
-- 3 experiements to collect 'distracted' image classes: highly-distracted (distracted/105imgs), distracted (distracted/80imgs), semi-distracted (distracted/15 imgs)
+- 3 experiments to collect 'distracted' image classes: highly-distracted (distracted/105imgs), distracted (distracted/80imgs), semi-distracted (distracted/15 imgs)
 
 Notebooks used for data collection are included in:
 1. `attention_detection/data_collection_images.ipynb`
 
 A few sample images are included in 
-`attention_detection/exps` however the full dataset is not uploaded to GitHub (stored on local device)
+`attention_detection/exps` however the full dataset is not uploaded to GitHub (stored on local device).
 
-The full dataset of labels is included in `attention_detection/training_data/labels` which was used in training models v3-v5
+The full dataset of labels is included in `attention_detection/training_data/labels` which was used in training models v3-v5.
 
 ## Time-Series Data Collection
 ### Time-Series On-Screen Text Data Collectiom
@@ -103,10 +103,10 @@ Code available in: `music_integration/bpm/get_bpm.py` and `music_integration/dee
 ## Music Metadata Analysis
 
 ### Lyricalness Analysis
-Analysis is performed on the collected lyrics data in order to define the lyricalness metric 
+Analysis is performed on the collected lyrics data in order to define the lyricalness metric.
 
 ### BPM Analysis
-Analysis is performed on the collected BPM data in order to define the lyricalness metric 
+Analysis is performed on the collected BPM data in order to define the average values to fill in missing data.
 
 ## Time Series Analysis
 The available data stored in Supabase provides enough resources to investigate the correlation between lyrics, BPM, on-screen text and attention levels. The data is downloaded locally to a csv and some pre-processing steps are applied to prepare it for analysis (i.e. filling empty values using averages).
