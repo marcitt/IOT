@@ -107,7 +107,18 @@ Analysis is performed on the collected lyrics data in order to define the lyrica
 Analysis is performed on the collected BPM data in order to define the lyricalness metric 
 
 ## Time Series Analysis
-The available data stored in Supabase provides enough resources to investigate the correlation between lyrics, BPM, on-screen text and attention levels. This can be used to help tailor spotify recommendations by determining the best next song that will improve attention
+The available data stored in Supabase provides enough resources to investigate the correlation between lyrics, BPM, on-screen text and attention levels. The data is downloaded locally to a csv and some pre-processing steps are applied to prepare it for analysis (i.e. filling empty values using averages).
+
+A random forest classifer is then trained on this data and the results are used to investigate the importance of different metrics on attention:
+
+The respective feature importances are:
+1. Amount of text = 0.5416286
+2. BPM = 0.21180063
+3. Lyrics = 0.24657078
+
+The effect of lyrics has a stronger influence on focus than BPM - therefore when making reccommendations to the user this should be weighted more strongly.
+
+It makes sense the amount of text on screen correlates the most strongly with focus, as focus is likely to be much higher when more text is on screen as tasks that require a high degree of focus such as reading or writing are likely taking place.
 
 # Applying the Data (Web App)
 
