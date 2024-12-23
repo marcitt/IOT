@@ -1,0 +1,2 @@
+The entire dataset was not uploaded to GitHub for privacy+storage reasons
+To demonstrate the data collection a few sample images were included for each experiment, which should be representative of the larger experiment
